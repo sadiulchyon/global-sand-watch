@@ -1,7 +1,7 @@
 {
   "watch": "rwanda",
   "name": "Rwanda",
-  "status": "Draft plan. No records collected. Sources and terms below are starting points to be confirmed by the first collection runs.",
+  "status": "Seed collection of 32 records imported on 19 November 2026; daily collector configured in watches/rwanda/collector.json.",
   "recordSchema": "docs/record-schema.md (global-v1)",
   "idPrefix": "RSW",
   "interfaceLanguage": "English",

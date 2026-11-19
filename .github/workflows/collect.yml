@@ -30,7 +30,7 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        region: ${{ fromJSON(github.event_name == 'workflow_dispatch' && format('["{0}"]', inputs.region) || '["kenya"]') }}
+        region: ${{ fromJSON(github.event_name == 'workflow_dispatch' && format('["{0}"]', inputs.region) || '["kenya","rwanda"]') }}
     steps:
       - uses: actions/checkout@v4
         with:

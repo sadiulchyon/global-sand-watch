@@ -9,7 +9,7 @@ Live site: https://sadiulchyon.github.io/global-sand-watch/
 | [Bangladesh Sand Watch](https://sadiulchyon.github.io/bangladesh-sand-watch/) | Ganges–Brahmaputra–Meghna; SE Bangladesh hill rivers | Member watch, synced daily |
 | [Mekong Sand Watch](https://sadiulchyon.github.io/mekong-sand-watch/) | Mekong | Member watch, synced daily |
 | **Kenya** | Athi, Tana, Lake Victoria (KE), Rift Valley, Ewaso Ng'iro North, national | Hosted here: [plan](watches/kenya/collection-plan.json), [data](watches/kenya/archive.json), daily collector |
-| **Rwanda** | Nile and Congo headwaters | Hosted here: [plan](watches/rwanda/collection-plan.json); collection not started |
+| **Rwanda** | Nile and Congo headwaters, national | Hosted here: [plan](watches/rwanda/collection-plan.json), [data](watches/rwanda/archive.json), daily collector |
 
 Member watches stay independent: each keeps its own collector, editorial policy, secrets, site and repository, and Global Sand Watch only reads their published `data/archive.json`. Hosted regions live entirely in this repository under `watches/<country>/`.
 
@@ -65,4 +65,4 @@ Kenya records are filed by the Water Resources Authority basin area of their nam
 
 ## Limits
 
-Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, Kenya starts from a small seed collection, and countries not yet covered show no records. Acceptance is not independent verification.
+Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, Kenya and Rwanda start from small seed collections, and countries not yet covered show no records. Acceptance is not independent verification.

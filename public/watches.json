@@ -93,14 +93,15 @@
       "id": "rwanda",
       "name": "Rwanda",
       "prefix": "RSW",
-      "status": "planned",
+      "status": "live",
       "adapter": "global-v1",
       "countries": [
         "Rwanda"
       ],
       "basins": [
         "rw-nile",
-        "rw-congo"
+        "rw-congo",
+        "rw-national"
       ],
       "defaultBasin": "rw-nile",
       "languages": [
@@ -112,7 +113,7 @@
       "siteUrl": null,
       "repositoryUrl": null,
       "collectionPlan": "watches/rwanda/collection-plan.json",
-      "collection": "Hosted by Global Sand Watch. Collection plan drafted; no records collected yet.",
+      "collection": "Hosted by Global Sand Watch. Seed collection of 19 November 2026 (sources read by AI research agents; dates and figures re-checked against each page), then a daily collector in this repository once its API keys are set. All records await owner review.",
       "hosted": true,
       "archivePath": "watches/rwanda/archive.json"
     }
@@ -295,7 +296,9 @@
       "countries": [
         "Rwanda"
       ],
-      "covered": [],
+      "covered": [
+        "Rwanda"
+      ],
       "pin": [
         30.2,
         -1.8
@@ -310,12 +313,31 @@
       "countries": [
         "Rwanda"
       ],
-      "covered": [],
+      "covered": [
+        "Rwanda"
+      ],
       "pin": [
         29.2,
         -2.2
       ],
       "note": "Western Rwanda drains to Lake Kivu and the Rusizi, part of the Congo basin (e.g. the Sebeya)."
+    },
+    {
+      "id": "rw-national",
+      "name": "Rwanda (national scope)",
+      "short": "Rwanda national",
+      "region": "East Africa",
+      "countries": [
+        "Rwanda"
+      ],
+      "covered": [
+        "Rwanda"
+      ],
+      "pin": [
+        30.05,
+        -1.55
+      ],
+      "note": "Rwanda-wide records, such as national policy, licensing and studies, that do not belong to a single basin."
     }
   ]
 }

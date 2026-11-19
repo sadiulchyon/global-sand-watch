@@ -1,0 +1,114 @@
+{
+  "watch": "rwanda",
+  "country": "Rwanda",
+  "idPrefix": "RSW",
+  "label": "Rwanda",
+  "basins": [
+    {
+      "id": "rw-nile",
+      "name": "Nile headwaters (Rwanda)"
+    },
+    {
+      "id": "rw-congo",
+      "name": "Congo headwaters (Rwanda)"
+    },
+    {
+      "id": "rw-national",
+      "name": "Rwanda (national scope)"
+    }
+  ],
+  "counties": [
+    "Bugesera",
+    "Burera",
+    "Gakenke",
+    "Gasabo",
+    "Gatsibo",
+    "Gicumbi",
+    "Gisagara",
+    "Huye",
+    "Kamonyi",
+    "Karongi",
+    "Kayonza",
+    "Kicukiro",
+    "Kirehe",
+    "Muhanga",
+    "Musanze",
+    "Ngoma",
+    "Ngororero",
+    "Nyabihu",
+    "Nyagatare",
+    "Nyamagabe",
+    "Nyamasheke",
+    "Nyanza",
+    "Nyarugenge",
+    "Nyaruguru",
+    "Rubavu",
+    "Ruhango",
+    "Rulindo",
+    "Rusizi",
+    "Rutsiro",
+    "Rwamagana"
+  ],
+  "adminLabel": "district",
+  "rivers": [
+    "Nyabarongo",
+    "Akanyaru",
+    "Akagera",
+    "Mukungwa",
+    "Base",
+    "Muvumba",
+    "Mwogo",
+    "Mbirurume",
+    "Nyabugogo",
+    "Rukarara",
+    "Sebeya",
+    "Koko",
+    "Kiwi",
+    "Rusizi",
+    "Lake Kivu shore",
+    "Wetland",
+    "Muregeya",
+    "Nyamutera",
+    "Biringaga",
+    "Ururumanza",
+    "Giciye",
+    "Satinsyi",
+    "Kabere",
+    "Bakokwe",
+    "Rusine"
+  ],
+  "categories": [
+    "News",
+    "Research",
+    "Official",
+    "Context"
+  ],
+  "searches": [
+    "Rwanda sand mining",
+    "illegal sand mining Rwanda river",
+    "Nyabarongo sand mining",
+    "Sebeya sand mining",
+    "sand miners cooperative Rwanda",
+    "Rwanda Mines Petroleum Gas Board sand",
+    "umucanga ubucukuzi",
+    "gucukura umucanga",
+    "extraction de sable Rwanda"
+  ],
+  "historicalSearches": [
+    "Rwanda sand mining river",
+    "ubucukuzi bw'umucanga"
+  ],
+  "focusedSearches": [
+    "Akanyaru Akagera sand mining",
+    "Lake Kivu Rubavu Rusizi sand",
+    "Kigali wetlands sand extraction",
+    "Muvumba Nyagatare sand mining",
+    "Rwanda sand mining peer reviewed research"
+  ],
+  "titleTerms": "sand|gravel|dredg|aggregate|umucanga|sable",
+  "scope": "Only include sources substantively about sand extraction or mining from rivers, riverbeds, riverbanks, lakeshores or wetlands in Rwanda, or its licensing, cooperatives, enforcement, livelihoods, construction demand and environmental effects. Exclude 3T and gold mining (cassiterite, coltan, wolfram, gold) unless the source concerns construction-sand extraction; stone quarries with no river or wetland link; and Lake Kivu methane.",
+  "basinRule": "Assign rw-congo to Lake Kivu, the Rusizi and their tributaries (Sebeya, Koko, Kiwi; Rubavu, Rutsiro, Karongi, Nyamasheke, Rusizi districts); assign rw-nile to the Nyabarongo, Akanyaru, Akagera, Mukungwa, Base, Muvumba and other rivers draining east (Kigali, Southern, Eastern and most of Northern Province); rw-national only for Rwanda-wide material. For districts on the Congo–Nile divide (e.g. Nyabihu, Ngororero, Nyamagabe, Nyaruguru), choose by the named river and state the assumption in limitations.",
+  "languageNote": "Translate a Kinyarwanda or French headline into clear English, preserving the exact source headline in originalTitle.",
+  "unitsNote": "tonnes, cubic metres, truckloads, RWF with time basis",
+  "nationalBasin": "rw-national"
+}
