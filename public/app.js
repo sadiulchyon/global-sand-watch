@@ -37,7 +37,7 @@ function renderStats() {
   $('#s-countries').textContent = countries.size;
   $('#s-languages').textContent = languages.size;
   const stale = state.archive.watches.filter(w => w.stale).map(w => state.watchById[w.id]?.name);
-  $('#synced').textContent = `Synced from member watches on ${dateLabel({date: state.archive.updated})}.` + (stale.length ? ` Stale: ${stale.join(', ')}.` : '');
+  $('#synced').textContent = `Updated with member watches and hosted regions on ${dateLabel({date: state.archive.updated})}.` + (stale.length ? ` Stale: ${stale.join(', ')}.` : '');
 }
 
 /* ---------- map ---------- */
@@ -142,9 +142,9 @@ function renderBasins() {
     const years = recs.map(r => r.date?.slice(0, 4)).filter(Boolean).sort();
     const span = years.length ? `${years[0]}–${years.at(-1)}` : '';
     const missing = b.countries.filter(c => !b.covered.includes(c));
-    const watchLinks = watches.map(w => w.siteUrl
-      ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a>`
-      : `<a href="${esc(planUrl(w))}">${esc(w.name)} plan</a>`).join(' · ');
+    const watchLinks = watches.map(w => w.hosted
+      ? `<span class="hosted">Hosted here</span> · <a href="${esc(planUrl(w))}">collection plan</a>`
+      : w.siteUrl ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a>` : `<a href="${esc(planUrl(w))}">${esc(w.name)} plan</a>`).join(' · ');
     return `<article class="basin ${live ? 'is-live' : 'is-planned'}">
       <header><span class="chip">${live ? 'Live' : 'In preparation'}</span><span class="region">${esc(b.region)}</span></header>
       <h3>${esc(b.name)}</h3>
@@ -237,11 +237,12 @@ function renderResults() {
   $('#results').innerHTML = list.slice(0, state.shown).map(r => {
     const w = state.watchById[r.watch];
     const showOriginal = r.titleEn && r.titleEn !== r.title;
+    const where = [r.publisher, r.rivers.slice(0, 3).join(', '), (r.counties || []).join(', '), r.countries.join(', ')].filter(Boolean).join(' · ');
     return `<li><button type="button" class="rec" data-gid="${esc(r.gid)}">
       <span class="meta"><i class="dot" style="background:${WATCH_COLORS[r.watch]}"></i>${esc(w?.name || r.watch)} · ${esc(r.category)} · ${esc(dateLabel(r))}</span>
       <span class="t">${esc(r.titleEn || r.title)}</span>
       ${showOriginal ? `<span class="orig" lang="">${esc(r.title)}</span>` : ''}
-      <span class="where">${esc([r.publisher, r.rivers.slice(0, 3).join(', '), r.countries.join(', ')].filter(Boolean).join(' · '))}</span>
+      <span class="where">${esc(where)}</span>
       <span class="s">${esc(r.summary.length > 240 ? r.summary.slice(0, 240).replace(/\s\S*$/, '') + '…' : r.summary)}</span>
       ${r.review !== 'Accepted by member watch' ? `<span class="flag">${esc(r.review)}</span>` : ''}
     </button></li>`;
@@ -273,7 +274,8 @@ function detail(gid) {
   const w = state.watchById[r.watch];
   const url = safeUrl(r.url);
   const rows = [
-    ['Member watch', w?.siteUrl ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a> · record ${esc(r.sourceId)}` : esc(r.watch)],
+    ['Collected by', w?.hosted ? `Global Sand Watch (${esc(w.name)}) · record ${esc(r.sourceId)}` : w?.siteUrl ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a> · record ${esc(r.sourceId)}` : esc(r.watch)],
+    ['Counties', esc((r.counties || []).join(', '))],
     ['Publisher', esc([r.publisher, r.authors].filter(Boolean).join(' — '))],
     ['Date', `${esc(dateLabel(r))}${r.dateKind ? ` (${esc(r.dateKind)})` : ''}`],
     ['Date evidence', esc(r.dateEvidence)],
@@ -324,9 +326,9 @@ function bind() {
   $('#export').addEventListener('click', exportCsv);
   $('#hero-form').addEventListener('submit', e => { e.preventDefault(); openFilter({q: $('#hero-q').value.trim()}); });
   $('#detail').addEventListener('click', e => { if (e.target === e.currentTarget) e.currentTarget.close(); });
-  $('#member-links').innerHTML = 'Member watches: ' + state.registry.watches.map(w => w.siteUrl
-    ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a> (<a href="${esc(w.repositoryUrl)}">repository</a>)`
-    : `${esc(w.name)} (<a href="${esc(planUrl(w))}">collection plan</a>)`).join(' · ');
+  const members = state.registry.watches.filter(w => !w.hosted), hosted = state.registry.watches.filter(w => w.hosted);
+  $('#member-links').innerHTML = 'Member watches: ' + members.map(w => `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a> (<a href="${esc(w.repositoryUrl)}">repository</a>)`).join(' · ') +
+    '<br>Hosted here: ' + hosted.map(w => `${esc(w.name)} (<a href="${esc(planUrl(w))}">collection plan</a>, <a href="https://github.com/sadiulchyon/global-sand-watch/blob/main/${esc(w.archivePath)}">data</a>)`).join(' · ');
 }
 
 function readUrl() {

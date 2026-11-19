@@ -1,0 +1,61 @@
+name: Collect hosted regions
+
+on:
+  schedule:
+    - cron: '20 16 * * *' # 16:20 UTC, before the 17:30 UTC sync-and-deploy
+  workflow_dispatch:
+    inputs:
+      region:
+        description: Hosted region to collect
+        default: kenya
+      max_records:
+        description: Maximum additions (at most 20)
+        default: '20'
+      dry_run:
+        description: Collect and report without saving
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hosted-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      max-parallel: 1
+      matrix:
+        region: ${{ fromJSON(github.event_name == 'workflow_dispatch' && format('["{0}"]', inputs.region) || '["kenya"]') }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci --prefix collector --ignore-scripts --no-audit --no-fund
+      - name: Collect and independently review
+        run: node collector/collect.mjs
+        env:
+          REGION: ${{ matrix.region }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          MAX_RECORDS: ${{ inputs.max_records || '20' }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+      - run: node scripts/sync.mjs && node scripts/check.mjs
+      - name: Commit collected records
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git add watches/${{ matrix.region }}
+          if git diff --cached --quiet; then echo 'Nothing new.'; exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Collect ${{ matrix.region }} records ($(date -u +%F))"
+          git pull --rebase origin main
+          git push origin HEAD:main

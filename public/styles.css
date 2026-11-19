@@ -179,3 +179,5 @@ dialog::backdrop { background: rgb(20 15 5 / .45); }
   dialog { padding: 20px; }
   .yl { font-size: .55rem; }
 }
+
+.hosted { font-weight: 600; color: var(--c-ke); }

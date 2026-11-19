@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "note": "Registry of member watches and river basins. A watch is an independently run national or basin archive with its own collector, editorial policy and public archive. Global Sand Watch only reads published watch archives; it never edits member records.",
+  "note": "Registry of watches and river basins. Member watches (Bangladesh, Mekong) are independent archives with their own collector, policy and site; Global Sand Watch reads their published archive.json and never edits their records. Hosted regions (Kenya, Rwanda, and later others) are collected, reviewed and published by Global Sand Watch itself from watches/<id>/archive.json.",
   "watches": [
     {
       "id": "bangladesh",
@@ -8,14 +8,24 @@
       "prefix": "BSW",
       "status": "live",
       "adapter": "bangladesh-v1",
-      "countries": ["Bangladesh"],
-      "basins": ["gbm", "se-bangladesh-hill-rivers"],
+      "countries": [
+        "Bangladesh"
+      ],
+      "basins": [
+        "gbm",
+        "se-bangladesh-hill-rivers"
+      ],
       "defaultBasin": "gbm",
-      "languages": ["Bangla", "English"],
+      "languages": [
+        "Bangla",
+        "English"
+      ],
       "archiveUrl": "https://sadiulchyon.github.io/bangladesh-sand-watch/data/archive.json",
       "siteUrl": "https://sadiulchyon.github.io/bangladesh-sand-watch/",
       "repositoryUrl": "https://github.com/sadiulchyon/bangladesh-sand-watch",
-      "includeDecisions": ["Accept"],
+      "includeDecisions": [
+        "Accept"
+      ],
       "collection": "Daily GitHub Actions collector with source-body reading and second-pass model editorial review (since 11 Nov 2026); earlier scheduled-chat and manual batches."
     },
     {
@@ -24,10 +34,26 @@
       "prefix": "MSW",
       "status": "live",
       "adapter": "mekong-v1",
-      "countries": ["China", "Myanmar", "Lao PDR", "Thailand", "Cambodia", "Viet Nam"],
-      "basins": ["mekong"],
+      "countries": [
+        "China",
+        "Myanmar",
+        "Lao PDR",
+        "Thailand",
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "basins": [
+        "mekong"
+      ],
       "defaultBasin": "mekong",
-      "languages": ["English", "Vietnamese", "Khmer", "Lao", "Thai", "Chinese"],
+      "languages": [
+        "English",
+        "Vietnamese",
+        "Khmer",
+        "Lao",
+        "Thai",
+        "Chinese"
+      ],
       "archiveUrl": "https://sadiulchyon.github.io/mekong-sand-watch/data/archive.json",
       "siteUrl": "https://sadiulchyon.github.io/mekong-sand-watch/",
       "repositoryUrl": "https://github.com/sadiulchyon/mekong-sand-watch",
@@ -35,35 +61,60 @@
     },
     {
       "id": "kenya",
-      "name": "Kenya Sand Watch",
+      "name": "Kenya",
       "prefix": "KSW",
-      "status": "planned",
+      "status": "live",
       "adapter": "global-v1",
-      "countries": ["Kenya"],
-      "basins": ["ke-athi", "ke-tana", "ke-lake-victoria", "ke-rift-valley", "ke-ewaso-ngiro-north"],
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi",
+        "ke-tana",
+        "ke-lake-victoria",
+        "ke-rift-valley",
+        "ke-ewaso-ngiro-north",
+        "ke-national"
+      ],
       "defaultBasin": "ke-athi",
-      "languages": ["English", "Swahili"],
+      "languages": [
+        "English",
+        "Swahili"
+      ],
       "archiveUrl": null,
       "siteUrl": null,
       "repositoryUrl": null,
       "collectionPlan": "watches/kenya/collection-plan.json",
-      "collection": "Not started. Collection plan drafted; no records have been collected or reviewed."
+      "collection": "Hosted by Global Sand Watch. Seed collection of 19 November 2026 (sources read by AI research agents; dates and figures re-checked against each page), then a daily collector in this repository once its API keys are set. All records await owner review.",
+      "hosted": true,
+      "archivePath": "watches/kenya/archive.json"
     },
     {
       "id": "rwanda",
-      "name": "Rwanda Sand Watch",
+      "name": "Rwanda",
       "prefix": "RSW",
       "status": "planned",
       "adapter": "global-v1",
-      "countries": ["Rwanda"],
-      "basins": ["rw-nile", "rw-congo"],
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile",
+        "rw-congo"
+      ],
       "defaultBasin": "rw-nile",
-      "languages": ["English", "Kinyarwanda", "French"],
+      "languages": [
+        "English",
+        "Kinyarwanda",
+        "French"
+      ],
       "archiveUrl": null,
       "siteUrl": null,
       "repositoryUrl": null,
       "collectionPlan": "watches/rwanda/collection-plan.json",
-      "collection": "Not started. Collection plan drafted; no records have been collected or reviewed."
+      "collection": "Hosted by Global Sand Watch. Collection plan drafted; no records collected yet.",
+      "hosted": true,
+      "archivePath": "watches/rwanda/archive.json"
     }
   ],
   "basins": [
@@ -72,9 +123,20 @@
       "name": "Ganges–Brahmaputra–Meghna",
       "short": "GBM",
       "region": "South Asia",
-      "countries": ["Bangladesh", "India", "Nepal", "Bhutan", "China"],
-      "covered": ["Bangladesh"],
-      "pin": [89.5, 24.4],
+      "countries": [
+        "Bangladesh",
+        "India",
+        "Nepal",
+        "Bhutan",
+        "China"
+      ],
+      "covered": [
+        "Bangladesh"
+      ],
+      "pin": [
+        89.5,
+        24.4
+      ],
       "note": "Coverage is currently Bangladesh only, the lowest riparian. India, Nepal, Bhutan and the Tibetan upper Brahmaputra have no member watch yet."
     },
     {
@@ -82,9 +144,18 @@
       "name": "South-eastern Bangladesh hill and coastal rivers",
       "short": "SE Bangladesh",
       "region": "South Asia",
-      "countries": ["Bangladesh", "Myanmar", "India"],
-      "covered": ["Bangladesh"],
-      "pin": [92.1, 21.9],
+      "countries": [
+        "Bangladesh",
+        "Myanmar",
+        "India"
+      ],
+      "covered": [
+        "Bangladesh"
+      ],
+      "pin": [
+        92.1,
+        21.9
+      ],
       "note": "Karnaphuli, Halda, Sangu, Matamuhuri, Bakkhali and Naf drain the Chittagong hills directly to the Bay of Bengal, outside the GBM system. Records are assigned here from their named river; the assignment is a heuristic."
     },
     {
@@ -92,9 +163,26 @@
       "name": "Mekong",
       "short": "Mekong",
       "region": "Southeast Asia",
-      "countries": ["China", "Myanmar", "Lao PDR", "Thailand", "Cambodia", "Viet Nam"],
-      "covered": ["China", "Myanmar", "Lao PDR", "Thailand", "Cambodia", "Viet Nam"],
-      "pin": [104.5, 15.0],
+      "countries": [
+        "China",
+        "Myanmar",
+        "Lao PDR",
+        "Thailand",
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "covered": [
+        "China",
+        "Myanmar",
+        "Lao PDR",
+        "Thailand",
+        "Cambodia",
+        "Viet Nam"
+      ],
+      "pin": [
+        104.5,
+        15.0
+      ],
       "note": "All six riparian countries are in scope; the collection is weighted toward Viet Nam and the delta."
     },
     {
@@ -102,9 +190,16 @@
       "name": "Athi–Galana–Sabaki",
       "short": "Athi",
       "region": "East Africa",
-      "countries": ["Kenya"],
-      "covered": [],
-      "pin": [38.4, -2.6],
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        38.4,
+        -2.6
+      ],
       "note": "Kenya Water Resources Authority basin area. Includes the Makueni, Machakos, Kitui-border and Kajiado seasonal sand rivers (e.g. Thwake, Kaiti) where sand harvesting is widely reported."
     },
     {
@@ -112,9 +207,16 @@
       "name": "Tana",
       "short": "Tana",
       "region": "East Africa",
-      "countries": ["Kenya"],
-      "covered": [],
-      "pin": [39.2, -0.9],
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        39.2,
+        -0.9
+      ],
       "note": "Kenya Water Resources Authority basin area, including Kitui County's seasonal sand rivers draining to the Tana."
     },
     {
@@ -122,9 +224,16 @@
       "name": "Lake Victoria North and South (Kenya)",
       "short": "L. Victoria (KE)",
       "region": "East Africa",
-      "countries": ["Kenya"],
-      "covered": [],
-      "pin": [34.8, 0.2],
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        34.8,
+        0.2
+      ],
       "note": "Two Kenya Water Resources Authority basin areas draining to Lake Victoria and the Nile (Nzoia, Yala, Nyando, Sondu-Miriu, Kuja-Migori)."
     },
     {
@@ -132,9 +241,16 @@
       "name": "Rift Valley (Kenya)",
       "short": "Rift Valley",
       "region": "East Africa",
-      "countries": ["Kenya"],
-      "covered": [],
-      "pin": [36.1, 0.8],
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        36.1,
+        0.8
+      ],
       "note": "Kenya Water Resources Authority basin area of mostly closed lake basins (Turkana, Baringo, Naivasha, Magadi)."
     },
     {
@@ -142,19 +258,48 @@
       "name": "Ewaso Ng'iro North",
       "short": "Ewaso Ng'iro",
       "region": "East Africa",
-      "countries": ["Kenya"],
-      "covered": [],
-      "pin": [38.6, 1.6],
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        38.6,
+        1.6
+      ],
       "note": "Kenya Water Resources Authority basin area covering the northern drylands."
+    },
+    {
+      "id": "ke-national",
+      "name": "Kenya (national scope)",
+      "short": "Kenya national",
+      "region": "East Africa",
+      "countries": [
+        "Kenya"
+      ],
+      "covered": [
+        "Kenya"
+      ],
+      "pin": [
+        37.6,
+        -0.2
+      ],
+      "note": "Kenya-wide records, such as national regulations, guidelines and studies, that do not belong to a single basin area."
     },
     {
       "id": "rw-nile",
       "name": "Nile headwaters (Rwanda)",
       "short": "Nile (RW)",
       "region": "East Africa",
-      "countries": ["Rwanda"],
+      "countries": [
+        "Rwanda"
+      ],
       "covered": [],
-      "pin": [30.2, -1.8],
+      "pin": [
+        30.2,
+        -1.8
+      ],
       "note": "Roughly two-thirds of Rwanda drains to the Nile via the Nyabarongo, Akanyaru, Mukungwa, Muvumba and Akagera."
     },
     {
@@ -162,9 +307,14 @@
       "name": "Congo headwaters (Rwanda)",
       "short": "Congo (RW)",
       "region": "East Africa",
-      "countries": ["Rwanda"],
+      "countries": [
+        "Rwanda"
+      ],
       "covered": [],
-      "pin": [29.2, -2.2],
+      "pin": [
+        29.2,
+        -2.2
+      ],
       "note": "Western Rwanda drains to Lake Kivu and the Rusizi, part of the Congo basin (e.g. the Sebeya)."
     }
   ]

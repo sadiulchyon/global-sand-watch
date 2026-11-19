@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-19",
+  "watch": "rwanda",
+  "records": [],
+  "sources": [
+    {
+      "name": "The New Times",
+      "url": "https://newtimes.co.rw/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "KT Press",
+      "url": "https://ktpress.rw/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Kigali Today",
+      "url": "https://kigalitoday.com/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda / English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "IGIHE",
+      "url": "https://igihe.com/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda / English / French"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Taarifa",
+      "url": "https://taarifa.rw/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Rwanda Broadcasting Agency",
+      "url": "https://rba.co.rw/",
+      "kind": "News (public broadcaster)",
+      "languages": [
+        "Kinyarwanda / English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Rwanda Mines, Petroleum and Gas Board",
+      "url": "https://rmb.gov.rw/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Rwanda Environment Management Authority",
+      "url": "https://rema.gov.rw/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Rwanda Water Resources Board",
+      "url": "https://rwb.rw/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Official Gazette / Ministry of Justice",
+      "url": "https://minijust.gov.rw/",
+      "kind": "Official (legislation)",
+      "languages": [
+        "Kinyarwanda / English / French"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    }
+  ],
+  "runs": []
+}

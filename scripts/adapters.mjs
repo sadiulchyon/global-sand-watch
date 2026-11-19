@@ -142,10 +142,12 @@ function mekong(record, watch) {
   };
 }
 
-// For new watches built directly on the global schema (Kenya, Rwanda): records already match.
+// Hosted regions (Kenya, Rwanda) are written directly in the global schema; this only normalises lists.
 function globalV1(record, watch) {
+  const {id, decision, figureQuotes, ...rest} = record;
   return {
-    ...record,
+    ...rest,
+    counties: splitList(record.counties),
     countries: splitList(record.countries),
     basins: splitList(record.basins).length ? splitList(record.basins) : [watch.defaultBasin],
     rivers: uniq(splitList(record.rivers).map(riverFacet).filter(Boolean)),

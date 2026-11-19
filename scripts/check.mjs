@@ -20,7 +20,18 @@ ok(new Set(registry.watches.map(w => w.id)).size === registry.watches.length, 'w
 for (const w of registry.watches) {
   ok(['live', 'planned', 'paused'].includes(w.status), `${w.id}: known status`);
   ok(w.basins.every(b => basinIds.has(b)) && basinIds.has(w.defaultBasin), `${w.id}: basins exist`);
-  if (w.status === 'live') ok(safeUrl(w.archiveUrl) && safeUrl(w.siteUrl), `${w.id}: live watch has archive and site URLs`);
+  if (w.archivePath) {
+    ok(w.hosted && existsSync(path.join(root, w.archivePath)), `${w.id}: hosted archive file exists`);
+    const hostedArchive = JSON.parse(read(w.archivePath));
+    ok(hostedArchive.schemaVersion === 1 && Array.isArray(hostedArchive.records), `${w.id}: hosted archive shape`);
+    for (const r of hostedArchive.records) {
+      ok(new RegExp(`^${w.prefix}-\\d{3,}$`).test(r.id), `${w.id}: record id ${r.id}`);
+      ok(r.countries.every(c => w.countries.includes(c)) && r.basins.every(b => w.basins.includes(b)), `${r.id}: country and basin belong to ${w.id}`);
+      ok(r.date === null ? /unverified/i.test(r.dateKind) : /\S/.test(r.dateEvidence), `${r.id}: date has evidence or is marked unverified`);
+      ok(typeof r.review === 'string' && r.review && typeof r.summary === 'string' && r.summary.length > 40, `${r.id}: review and summary`);
+    }
+    if (hostedArchive.records.length) ok(w.status === 'live', `${w.id}: has records so status should be live`);
+  } else if (w.status === 'live') ok(safeUrl(w.archiveUrl) && safeUrl(w.siteUrl), `${w.id}: live watch has archive and site URLs`);
   if (w.collectionPlan) {
     ok(existsSync(path.join(root, w.collectionPlan)), `${w.id}: collection plan file exists`);
     const plan = JSON.parse(read(w.collectionPlan));
@@ -84,6 +95,18 @@ const fc = facetCounts(recs, {basin: 'gbm'}, 'basin', r => r.basins);
 ok(fc.some(([v]) => v === 'mekong'), 'facet counts ignore their own filter');
 ok(csv([['=SUM(1)', 'a"b']]) === '﻿"\'=SUM(1)","a""b"', 'CSV escapes formulas and quotes');
 ok(safeUrl('javascript:alert(1)') === '', 'unsafe URLs rejected');
+
+// Collector helpers (the collector itself needs API keys and runs in GitHub Actions)
+const {focusedSearch, interleave, canonicalUrl} = await import('../collector/search-plan.mjs');
+const {titleContainsGoldMining} = await import('../collector/editorial-rules.mjs');
+ok(focusedSearch(['a', 'b'], 3) === 'b' && focusedSearch([], 1) === null, 'rotating focus search');
+ok(interleave([['a1', 'a2'], ['b1']]).join() === 'a1,b1,a2', 'interleave search results');
+ok(canonicalUrl('https://example.org/a/?utm_source=x#y') === 'https://example.org/a', 'canonical URLs');
+ok(titleContainsGoldMining('Uchimbaji wa dhahabu Migori') && !titleContainsGoldMining('Sand is the new gold for Makueni youth'), 'gold-mining screen');
+for (const w of registry.watches.filter(w => w.hosted && existsSync(path.join(root, `watches/${w.id}/collector.json`)))) {
+  const c = JSON.parse(read(`watches/${w.id}/collector.json`));
+  ok(c.watch === w.id && c.idPrefix === w.prefix && c.basins.every(b => w.basins.includes(b.id)), `${w.id}: collector config matches registry`);
+}
 
 // Static assets referenced by the page
 const html = read('public/index.html');

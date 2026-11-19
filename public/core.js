@@ -19,7 +19,7 @@ function corpus(r) {
   let c = searchCache.get(r);
   if (!c) {
     c = normalize([r.gid, r.title, r.titleEn, r.publisher, r.authors, r.summary, r.location,
-      r.countries.join(' '), r.rivers.join(' '), r.topics.join(' '), r.themes.join(' '),
+      r.countries.join(' '), (r.counties || []).join(' '), r.rivers.join(' '), r.topics.join(' '), r.themes.join(' '),
       r.materials.join(' '), r.doi].join(' '));
     searchCache.set(r, c);
   }
@@ -78,7 +78,7 @@ export function csv(rows) {
 export const CSV_COLUMNS = [
   ['Global ID', r => r.gid], ['Watch', r => r.watch], ['Watch record ID', r => r.sourceId],
   ['Basins', r => r.basins.join('; ')], ['Countries', r => r.countries.join('; ')],
-  ['Location', r => r.location], ['Rivers', r => r.rivers.join('; ')],
+  ['Location', r => r.location], ['Counties', r => (r.counties || []).join('; ')], ['Rivers', r => r.rivers.join('; ')],
   ['Title (original)', r => r.title], ['Title (English)', r => r.titleEn],
   ['Publisher', r => r.publisher], ['Category', r => r.category], ['Date', r => r.date || ''],
   ['Date kind', r => r.dateKind], ['Language', r => r.language], ['Themes (derived)', r => r.themes.join('; ')],

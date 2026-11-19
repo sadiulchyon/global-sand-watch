@@ -1,53 +1,63 @@
 # Global Sand Watch
 
-One searchable archive of source-backed evidence on river sand extraction, aggregated from independent national and basin watches.
+One searchable archive of source-backed evidence on river sand extraction, by river basin and country. It combines independent member watches with countries that Global Sand Watch collects itself.
 
-| Watch | Basin(s) | Status | Records |
-|---|---|---|---|
-| [Bangladesh Sand Watch](https://sadiulchyon.github.io/bangladesh-sand-watch/) | Ganges–Brahmaputra–Meghna; SE Bangladesh hill rivers | Live | synced daily |
-| [Mekong Sand Watch](https://sadiulchyon.github.io/mekong-sand-watch/) | Mekong | Live | synced daily |
-| Kenya Sand Watch | Athi, Tana, Lake Victoria (KE), Rift Valley, Ewaso Ng'iro North | Planned: [collection plan](watches/kenya/collection-plan.json) | none yet |
-| Rwanda Sand Watch | Nile and Congo headwaters | Planned: [collection plan](watches/rwanda/collection-plan.json) | none yet |
+Live site: https://sadiulchyon.github.io/global-sand-watch/
 
-Member watches stay independent: each keeps its own collector, editorial policy, secrets, site and repository. Global Sand Watch only reads their published `data/archive.json`.
+| Source | Basin(s) | How it gets here |
+|---|---|---|
+| [Bangladesh Sand Watch](https://sadiulchyon.github.io/bangladesh-sand-watch/) | Ganges–Brahmaputra–Meghna; SE Bangladesh hill rivers | Member watch, synced daily |
+| [Mekong Sand Watch](https://sadiulchyon.github.io/mekong-sand-watch/) | Mekong | Member watch, synced daily |
+| **Kenya** | Athi, Tana, Lake Victoria (KE), Rift Valley, Ewaso Ng'iro North, national | Hosted here: [plan](watches/kenya/collection-plan.json), [data](watches/kenya/archive.json), daily collector |
+| **Rwanda** | Nile and Congo headwaters | Hosted here: [plan](watches/rwanda/collection-plan.json); collection not started |
+
+Member watches stay independent: each keeps its own collector, editorial policy, secrets, site and repository, and Global Sand Watch only reads their published `data/archive.json`. Hosted regions live entirely in this repository under `watches/<country>/`.
 
 ## Run locally
 
-Node 22+; no packages to install.
+Node 22+; the site needs no packages.
 
 ```sh
-node scripts/sync.mjs     # fetch member archives -> public/data/archive.json
-node scripts/check.mjs    # validate registry, archive, adapters, helpers
+node scripts/sync.mjs     # member archives + hosted regions -> public/data/archive.json
+node scripts/check.mjs    # validate registry, archives, adapters, collector helpers
 node scripts/serve.mjs    # http://127.0.0.1:4173/
 node scripts/build-pages.mjs   # static site in _site/
 ```
 
-`node scripts/sync.mjs --from DIR` reads `DIR/<watch-id>.json` instead of fetching.
+`node scripts/sync.mjs --from DIR` reads member archives from `DIR/<watch-id>.json` instead of fetching. Hosted regions are always read from `watches/<id>/archive.json`.
 
 ## How it works
 
-- `public/watches.json` is the registry of watches and basins (countries, coverage, map pins, notes).
-- `scripts/adapters.mjs` maps each watch's schema to the [global record schema](docs/record-schema.md). Summaries, dates, figures and review decisions are copied unchanged. It also adds:
+- `public/watches.json` is the registry of watches, hosted regions and basins (countries, coverage, map pins, notes).
+- `scripts/adapters.mjs` maps each member watch's schema to the [global record schema](docs/record-schema.md). Summaries, dates, figures and review decisions are copied unchanged. It also adds:
   - river-name normalisation for facets (e.g. `Padma River` → `Padma`, `sông Hậu` → `Hau / Bassac`);
   - a small, rule-based **theme** index (12 themes) so basins can be compared;
   - a heuristic basin split for Bangladesh: Karnaphuli, Halda, Sangu, Matamuhuri, Bakkhali, Naf and Maheshkhali records go to the SE hill-rivers basin, the rest to GBM.
-- Bangladesh records are included only when accepted by that watch. Mekong records are included with their review status (most are pending owner and native-language review), shown on every record.
-- If a watch cannot be fetched, its previous records are kept and it is marked stale.
-- The same URL filed by two watches is kept in both and linked with `alsoIn`.
+- Bangladesh records are included only when accepted by that watch. Mekong and Kenya records show their review status (mostly pending owner review) on every record.
+- If a member watch cannot be fetched, its previous records are kept and it is marked stale.
+- The same URL filed by two sources is kept in both and linked with `alsoIn`.
+
+## Hosted regions (Kenya, Rwanda)
+
+Each hosted region has, under `watches/<id>/`:
+
+- `collection-plan.json`: scope, basin areas, counties/districts, rivers, search terms, sources, editorial notes;
+- `collector.json`: what the daily collector uses (basins, admin units, river vocabulary, searches, editorial prompt parts);
+- `archive.json`: the region's records in the global schema, source registry and run history;
+- `collection-runs/`: the collector's audit logs (source-body hashes, date and figure quotes, outcomes).
+
+Kenya records are filed by the Water Resources Authority basin area of their named river and list the counties they name; Kenya-wide material goes to "Kenya (national scope)".
+
+`collector/collect.mjs` (adapted from the Mekong Sand Watch collector) runs from `.github/workflows/collect.yml` daily at 16:20 UTC, or by hand with `region`, `max_records` and `dry_run`. It searches (TinyFish), reads each original page (TinyFish, direct read, then a capped Firecrawl fallback), has Claude draft a record whose date and figure quotes must appear verbatim in the article, and requires a second Claude review before saving. It needs repository secrets `ANTHROPIC_API_KEY` and `TINYFISH_API_KEY` (`FIRECRAWL_API_KEY` optional); without them it fails safely and saves nothing.
 
 ## Deployment
 
-`.github/workflows/pages.yml` runs daily at 17:30 UTC (after the Bangladesh 14:40 and Mekong 15:40 collectors), on manual dispatch, and on push. Every run syncs, checks, commits changed data, builds and deploys to GitHub Pages. No secrets are needed.
+`.github/workflows/pages.yml` runs daily at 17:30 UTC (after the Bangladesh 14:40, Mekong 15:40 and Kenya 16:20 collectors), on manual dispatch, and on push. Every run syncs, checks, commits changed data, builds and deploys to GitHub Pages. Settings → Pages → Source is set to **GitHub Actions**.
 
-One-time setup: create the `sadiulchyon/global-sand-watch` repository, push `main`, then Settings → Pages → Source: **GitHub Actions**.
+## Adding a country or watch
 
-## Adding a watch
-
-1. Add the watch and its basins to `public/watches.json` (`status: "planned"` until it publishes).
-2. Publish a static `archive.json` in the global schema (`adapter: "global-v1"`), or write an adapter.
-3. Set `status: "live"` and `archiveUrl`; run `sync` and `check`.
-
-Kenya and Rwanda plans list basins, counties/districts, rivers, search terms in English, Swahili, Kinyarwanda and French, starting sources and editorial notes. They are drafts: no records have been collected.
+- **New country (hosted):** add it and its basins to `public/watches.json` with `hosted: true` and `archivePath`, then create `watches/<id>/` with a plan, collector config and empty archive. Set `status: "live"` once it has records.
+- **Existing independent watch:** add it with its public `archiveUrl` and an adapter in `scripts/adapters.mjs`.
 
 ## Map data
 
@@ -55,4 +65,4 @@ Kenya and Rwanda plans list basins, counties/districts, rivers, search terms in 
 
 ## Limits
 
-Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, and countries without a watch show no records. Member acceptance is not independent verification.
+Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, Kenya starts from a small seed collection, and countries not yet covered show no records. Acceptance is not independent verification.

@@ -34,7 +34,7 @@
       <div class="wrap">
         <p class="eyebrow">A network of river sand watches</p>
         <h1>Sand moves across borders.<br><em>So should the evidence.</em></h1>
-        <p class="lede">Global Sand Watch gathers the published records of independent national and basin watches into one searchable archive. Every record keeps its source link, its member watch's review status and its stated limitations.</p>
+        <p class="lede">Global Sand Watch brings independent national and basin watches together with countries it collects itself, starting with Kenya and Rwanda, in one searchable archive. Every record keeps its source link, its review status and its stated limitations.</p>
         <form class="hero-search" id="hero-form" role="search">
           <input id="hero-q" type="search" placeholder="Search rivers, places, publishers, topics" aria-label="Search the global archive">
           <button type="submit">Search</button>
@@ -83,7 +83,7 @@
       <div class="wrap">
         <div class="section-head"><div>
           <h2>Basins and member watches</h2>
-          <p>Coverage starts with the Ganges–Brahmaputra–Meghna and the Mekong. Kenya and Rwanda are the first African watches in preparation.</p>
+          <p>The Ganges–Brahmaputra–Meghna and the Mekong come from independent member watches. Kenya and Rwanda, the first African countries, are collected and published here by Global Sand Watch itself.</p>
         </div></div>
         <div class="basin-grid" id="basin-grid"></div>
       </div>
@@ -136,18 +136,18 @@
       <div class="wrap prose">
         <h2>Method and limits</h2>
         <h3>How aggregation works</h3>
-        <p>Each member watch runs its own collection, its own editorial policy and its own public archive. Once a day, after the member collectors finish, Global Sand Watch reads each live watch's published <code>archive.json</code>, maps it to a shared record shape with a small adapter, and rebuilds this site. Summaries, dates, figures and review decisions are copied unchanged. Nothing here is re-written, re-translated or re-verified. If one watch is unreachable, its previous records are kept and the watch is marked stale.</p>
+        <p>Records come from two kinds of source. <strong>Member watches</strong> (Bangladesh and Mekong) run their own collection, editorial policy and public archive; once a day Global Sand Watch reads each one's published <code>archive.json</code>, maps it to a shared record shape and copies summaries, dates, figures and review decisions unchanged. If a member watch is unreachable, its previous records are kept and it is marked stale. <strong>Hosted regions</strong> (Kenya, then Rwanda) are collected here: a daily collector searches local publishers, reads each article, checks the quoted date and figures against the article text, and a second model pass reviews the draft before it is saved.</p>
         <h3>Review status is not the same everywhere</h3>
-        <p>Bangladesh Sand Watch publishes only records it has accepted. Mekong Sand Watch publishes pilot and imported records whose summaries and translations still await owner and native-language review. The review field on every record shows which applies. Acceptance by a member watch is approval for inclusion and faithful source representation; it does not independently verify allegations.</p>
+        <p>Bangladesh Sand Watch publishes only records it has accepted. Mekong Sand Watch publishes pilot and imported records whose summaries and translations still await owner and native-language review. Kenya records are seed or automated records awaiting owner review. The review field on every record shows which applies. Acceptance is approval for inclusion and faithful source representation; it does not independently verify allegations.</p>
         <h3>Reading the counts</h3>
         <ul>
           <li>Counts are of sources, not of mining incidents. Several reports can describe one event; one study can cover many sites.</li>
-          <li>Coverage is uneven. Bangladesh is the only GBM country covered so far, and the Mekong collection leans toward Viet Nam. A country with no records may simply have no watch yet.</li>
+          <li>Coverage is uneven. Bangladesh is the only GBM country covered so far, the Mekong collection leans toward Viet Nam, and Kenya starts from a small seed collection. A country with no records may simply not be covered yet.</li>
           <li>Themes are a coarse, rule-based index added here. Member topics are kept as written.</li>
           <li>Bangladesh records in the Karnaphuli, Halda, Sangu, Matamuhuri, Bakkhali, Naf and Maheshkhali systems are placed in a separate south-eastern basin by their named river. This assignment is a heuristic.</li>
         </ul>
         <h3>Joining the network</h3>
-        <p>A new watch publishes a static <code>archive.json</code> and is added to <code>watches.json</code> with an adapter. New watches, starting with Kenya and Rwanda, can publish directly in the shared record shape documented in the repository, so no adapter is needed.</p>
+        <p>An existing independent watch can join by publishing a static <code>archive.json</code>; it is added to <code>watches.json</code> with an adapter. A new country is added as a hosted region: a collection plan, a collector configuration and an archive file under <code>watches/&lt;country&gt;/</code>, written directly in the shared record shape.</p>
         <p class="sources" id="member-links"></p>
       </div>
     </section>

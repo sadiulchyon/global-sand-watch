@@ -1,0 +1,2117 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-19",
+  "watch": "kenya",
+  "records": [
+    {
+      "id": "KSW-001",
+      "title": "The Makueni County Sand Conservation and Utilization Act, 2015",
+      "titleEn": "The Makueni County Sand Conservation and Utilization Act, 2015",
+      "publisher": "County Government of Makueni (Makueni County Gazette Supplement)",
+      "authors": "County Assembly of Makueni",
+      "category": "Official",
+      "date": "2015-02-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Date of Assent: 13th February, 2015",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Legislation",
+        "Licensing",
+        "Harvesting hours",
+        "Revenue sharing",
+        "Riverbed protection",
+        "Penalties"
+      ],
+      "summary": "The Makueni County Sand Conservation and Utilization Act, 2015 creates the Makueni County Sand Conservation and Utilization Authority, sub-county committees and sand resource user associations, and licenses sand harvesters and dealers. It allows harvesting and transport only between 6am and 6pm, with offenders liable to two years' imprisonment or a fine of 200,000 shillings or both. Riverbed harvesting must retain a sand reserve for water retention, is barred on riverbanks, and is banned within one hundred metres of infrastructure such as bridges. Sand revenue is split 50% to a conservation fund, 25% to the Authority, 20% to the county government and 5% to the local community.",
+      "hasLocalSummary": false,
+      "limitations": "Original 2015 text as gazetted; later amendments not reviewed. The PDF is a scanned gazette with an OCR text layer, so string matching may need whitespace normalisation. Date is the date of assent.",
+      "url": "https://umanyi.makueni.go.ke/storage/publications/GoMC-KM-2025-7938.pdf",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Sand Conservation and Utilization Act, 2015 and shall",
+        "transport sand between the hours of 6am to 6pm.",
+        "two years or a fine of 200,000 shillings or both.",
+        "within one-hundred metres of either side of any physical",
+        "50% of all revenue collected shall go to the",
+        "25% shall be given to the Authority for the day to",
+        "20% shall go to the County Government as",
+        "5% shall go to the local community."
+      ]
+    },
+    {
+      "id": "KSW-002",
+      "title": "Laikipia suspends sand harvesting amid protests",
+      "titleEn": "Laikipia suspends sand harvesting amid protests",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-01-19",
+      "dateKind": "Updated",
+      "dateEvidence": "Source page: 19 January 2019 - 17:07",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-ewaso-ngiro-north"
+      ],
+      "counties": [
+        "Laikipia"
+      ],
+      "location": "Laikipia County, Laikipia North sub-county, Mukogodo division, border of Kurikuri and Makurian group ranches",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "ban",
+        "conflict",
+        "land dispute",
+        "livelihoods",
+        "enforcement"
+      ],
+      "summary": "The Laikipia North sub-county security committee banned sand harvesting on a section of land disputed by two communities, and assistant commissioner Benedict Nduva said anyone caught harvesting would be prosecuted. The Yiaku community of Kurikuri Group Ranch in Mukogodo division, led by Lax Manasseh, protested at the border with Makurian group ranch. They alleged administration officers favoured the Makurian side, saying their lorry was turned away by police while four from the other side were allowed to harvest. The article says communities from four group ranches rely on sand harvesting as their main livelihood.",
+      "hasLocalSummary": false,
+      "limitations": "The page shows 19 January 2019, but the canonical URL slug indicates original publication on 2013-09-30; the 2019 date is likely a site migration timestamp. Allegations of bias are from one community only.",
+      "url": "https://www.the-star.co.ke/news/2013-09-30-laikipia-suspends-sand-harvesting-amid-protests",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "four from the other side were allowed to harvest",
+        "Communities from four group ranches in the Sub County rely on the sand harvesting"
+      ]
+    },
+    {
+      "id": "KSW-003",
+      "title": "Machakos bans sand mining to save dying rivers",
+      "titleEn": "Machakos bans sand mining to save dying rivers",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-01-20",
+      "dateKind": "Updated",
+      "dateEvidence": "Source page: 20 January 2019 - 06:18",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Machakos"
+      ],
+      "location": "Machakos County; Masinga, Yatta, Mwala, Kathiani and Kangundo; Mwitasyano River, Yatta",
+      "rivers": [
+        "Mwitasyano"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Legislation",
+        "Ban",
+        "Enforcement",
+        "Deaths in sand pits",
+        "Revenue sharing"
+      ],
+      "summary": "The Star reported that the Machakos County assembly passed a law banning riverbed sand harvesting; under the Sand Harvesting Act 2014, licensed groups may harvest only at designated sites at least 50 metres from rivers and no deeper than six feet. County Environment Officer Isaac Kimitei blamed harvesting for drying riverbeds, road damage, drug abuse and school dropouts, citing one scooper buried alive in Kangundo and two in Masinga the previous year. He said restoration orders were issued in Kangundo and five illegal harvesting cases prosecuted in Mwala and Machakos. Ten per cent of collected revenue goes to the committee and associations. Masinga, Yatta, Mwala, Kathiani and Kangundo are most affected.",
+      "hasLocalSummary": false,
+      "limitations": "Page shows 20 January 2019 (apparent archive migration date); URL slug indicates original publication on 2015-02-06. Statements are the county officer's.",
+      "url": "https://www.the-star.co.ke/news/2015-02-06-machakos-bans-sand-mining-to-save-dying-rivers",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "at least 50 metres away from rivers, says the Sand Harvesting Act 2014.",
+        "one sand scooper was buried alive in Kangundo and other two in Masinga",
+        "prosecuted five cases of illegal sand harvesting in Mwala and Machakos",
+        "Ten per cent of the money collected will be allocated to the committee and the associations"
+      ]
+    },
+    {
+      "id": "KSW-004",
+      "title": "Why hunger for resource is a threat to environment conservation",
+      "titleEn": "Why hunger for resource is a threat to environment conservation",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-01-22",
+      "dateKind": "Updated",
+      "dateEvidence": "Source page: 22 January 2019 - 23:36",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Homa Bay"
+      ],
+      "location": "Homa Bay County, Rachuonyo North sub-county (Kobuya and Kobala), Karachuonyo constituency; lakeshore beaches Nyakwara, Sindo, Gingo, Kakione and Kaswanga",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "lakeshore sand",
+        "livelihoods",
+        "land degradation",
+        "governance",
+        "infrastructure risk"
+      ],
+      "summary": "The Star reports that demand from Oyugis, Homa Bay Town and Kisii has made sand harvesting an alternative livelihood for youths and women in Homa Bay, destroying lakeshore riparian areas, rivers and farms. Environment director John Maniafu said farm harvesting in Kobuya and Kobala is more destructive than riparian harvesting, that houses in Karachuonyo stand in deep pits, and that Kenya Power cut supply where poles were left hanging. He said beaches such as Nyakwara, Sindo, Gingo, Kakione and Kaswanga are at risk, and that harvesters are not organised in groups, contrary to the National Sand Harvesting Guidelines' sub-county committee structure.",
+      "hasLocalSummary": false,
+      "limitations": "The page shows 22 January 2019, but the canonical URL slug indicates original publication on 2018-07-17; the 2019 date is likely a migration timestamp. Much of the activity described is on farms rather than rivers. No quantitative data.",
+      "url": "https://www.the-star.co.ke/news/2018-07-17-why-hunger-for-resource-is-a-threat-to-environment-conservation",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": []
+    },
+    {
+      "id": "KSW-005",
+      "title": "Sand transporters in Kajiado warned against overloading",
+      "titleEn": "Sand transporters in Kajiado warned against overloading",
+      "publisher": "Kenya News Agency",
+      "authors": "Janet Rop",
+      "category": "News",
+      "date": "2019-10-01",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: October 1, 2019",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Kajiado"
+      ],
+      "location": "Kajiado County; Kajiado-Isara road; Eselenkei River; Mashuuru sub-county",
+      "rivers": [
+        "Eselenkei"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Lorry transport",
+        "Enforcement",
+        "Infrastructure damage",
+        "Night transport"
+      ],
+      "summary": "Kajiado County Commissioner Joshua Nkanatha warned sand transporters on the Kajiado-Isara road against overloading, KNA reported. He said the 68 kilometre low-volume seal road linking Kajiado to Loitoktok is limited to vehicles of 10 tonnes, but trucks carrying sand from Eselenkei River are loaded beyond this, forcing the contractor to redo 16 kilometres. Three lorries overloaded with sand were impounded and their drivers arrested during an inspection of the Sh. 3 billion road. He said transporters ferry sand at night and remove number plates to evade police. More than 200 trucks carrying Eselenkei sand use the road daily, with Mashuuru supplying Nairobi, Makueni and Machakos.",
+      "hasLocalSummary": false,
+      "limitations": "Official statements; transporters dispute the road's design. Focus is road damage rather than river impacts.",
+      "url": "https://www.kenyanews.go.ke/sand-transporters-in-kajiado-warned-against-overloading",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "the 68 kilometre road that links Kajiado to Loitoktok town",
+        "vehicles using the road must not weigh more than 10 tonnes",
+        "the contractor has been forced to re-do 16 kilometres",
+        "which he chairs, inspected the Sh. 3 billion road.",
+        "More than 200 trucks that ferry sand from Eselenkei use the road every day"
+      ]
+    },
+    {
+      "id": "KSW-006",
+      "title": "Contractor threatens to stop Lapset road project over Kitui tax",
+      "titleEn": "Contractor threatens to stop Lapset road project over Kitui tax",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2019-11-21",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 21 November 2019 - 12:24",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana",
+        "ke-athi"
+      ],
+      "counties": [
+        "Kitui",
+        "Makueni"
+      ],
+      "location": "Kitui County; Kibwezi-Kitui-Migwani road; Athi River border with Makueni County",
+      "rivers": [
+        "Athi"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Revenue and cess",
+        "Governance",
+        "Infrastructure projects",
+        "Sand ownership"
+      ],
+      "summary": "Kitui County demanded Sh132 million from a Chinese contractor building the Kibwezi-Kitui-Migwani road for ballast and sand taken locally, including from rivers up to the Athi River border with Makueni, and blocked its access to local materials, The Star reported. The contractor threatened to halt works and said the levy was not in its contract. County commissioner John Ondego said the county framed the invoice as payment for sand and ballast obtained below six feet underground, and that the development committee could not tell whether national or county government owns sand in rivers. He said a similar invoice went to the Thwake Dam contractor.",
+      "hasLocalSummary": false,
+      "limitations": "Account largely from the county commissioner, who disputed the county's position; county government response not quoted directly.",
+      "url": "https://www.the-star.co.ke/news/2019-11-21-contractor-threatens-to-stop-lapset-road-project-over-kitui-tax",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "The Kitui government is demanding Sh132 million from the contractor"
+      ]
+    },
+    {
+      "id": "KSW-007",
+      "title": "Mjanaheri residents call for policy on sand harvesting",
+      "titleEn": "Mjanaheri residents call for policy on sand harvesting",
+      "publisher": "Kenya News Agency",
+      "authors": "Emmanuel Masha",
+      "category": "News",
+      "date": "2019-12-18",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: December 18, 2019",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Kilifi"
+      ],
+      "location": "Kilifi County; Magarini sub-county; Mjanaheri village",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Conflict",
+        "Cooperatives",
+        "Licensing",
+        "Policy",
+        "Environmental degradation"
+      ],
+      "summary": "Residents of Mjanaheri village, Kilifi County, asked the county to formulate a sand harvesting policy to end conflicts between quarry owners, transporters, loaders and a cooperative society they said monopolised the trade, KNA reported. Mohamed Mbitha of the Mjanaheri Sand Harvesters CBO said owners were exploited and urged NEMA to license their organisations. County Geologist George Shoka, leading a fact-finding tour, acknowledged violent confrontations and said a draft policy would go to the County Executive Committee and assembly, adding that Magarini is the county's only area with high quality river sand. The tour found bare quarries and damaged roads.",
+      "hasLocalSummary": false,
+      "limitations": "Monopoly and exploitation claims are residents' allegations; the cooperative's response is not included. River not named.",
+      "url": "https://www.kenyanews.go.ke/mjanaheri-residents-call-for-policy-on-sand-harvesting",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Magarini Sub County is the only area in the county with high quality river sand"
+      ]
+    },
+    {
+      "id": "KSW-008",
+      "title": "Two drivers nabbed ferrying sand despite harvesting ban",
+      "titleEn": "Two drivers nabbed ferrying sand despite harvesting ban",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2020-01-31",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 31 January 2020 - 13:01",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Taita-Taveta"
+      ],
+      "location": "Taita-Taveta County; Voi; Voi River",
+      "rivers": [
+        "Voi"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Ban",
+        "Enforcement",
+        "Lorry transport",
+        "Revenue",
+        "Flooding"
+      ],
+      "summary": "Two drivers were arrested in Voi, Taita Taveta County, while transporting sand harvested from the Voi River despite a county ban, The Star reported. Governor Granton Samboja had banned sand harvesting and brick-making the previous year after flooding along the river displaced more than 200 families. Finance CEC Andrew Kubo said the suspects would be arraigned and the two lorries were held at Voi subcounty offices. He said the illegal trade, run by a few individuals, caused environmental degradation and denied the county revenue, and that a policy framework to regulate sand harvesting was planned. Traders asked the county to lift the ban.",
+      "hasLocalSummary": false,
+      "limitations": "Official account; outcome of the case not reported.",
+      "url": "https://www.the-star.co.ke/news/2020-02-01-two-drivers-nabbed-ferrying-sand-despite-harvesting-ban",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "following flooding along the river that displaced more than 200 families"
+      ]
+    },
+    {
+      "id": "KSW-009",
+      "title": "Sand harvesting a threat to agricultural land, NECC says",
+      "titleEn": "Sand harvesting a threat to agricultural land, NECC says",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2020-10-21",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 21 October 2020 - 10:35",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria",
+        "ke-rift-valley",
+        "ke-athi"
+      ],
+      "counties": [
+        "Homa Bay",
+        "West Pokot",
+        "Trans Nzoia",
+        "Makueni",
+        "Machakos"
+      ],
+      "location": "National scope; cases cited in Homa Bay, Makueni, West Pokot (Mtembur and Kanyarkwar), Machakos and Trans Nzoia",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "national policy",
+        "farmland loss",
+        "night harvesting",
+        "infrastructure damage",
+        "prices"
+      ],
+      "summary": "National Environmental Complaints Committee secretary John Chumo said sand demand was pushing harvesters from depleted riverbeds onto farmland, citing NECC investigations in Homa Bay, Makueni, West Pokot, Machakos and Trans Nzoia. He said on one five-acre farm only an acre remained in production. The Star notes the law restricts mining to between 6am and 6pm but illegal miners work at night, and that a local harvester fetches Sh15,000 to Sh20,000 per lorry. Chumo said lorries at Mtembur and Kanyarkwar in West Pokot had destroyed roads and bridges, and cited a UNEP estimate of over 50 billion tonnes of sand and gravel mined yearly.",
+      "hasLocalSummary": false,
+      "limitations": "The article refers to a 'Sand Harvesting Act in 2014', which does not match known national instruments (the 2007 guidelines and the 2024 regulations); treat it as reported. Focuses mainly on farm sand. The photo caption (River Thwake, Mwala) is not part of the body.",
+      "url": "https://www.the-star.co.ke/news/2020-10-21-sand-harvesting-a-threat-to-agricultural-land-necc-says",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "out of a five-acre farm only an acre is under production",
+        "The law restricts sand mining to between 6am and 6pm",
+        "A local sand harvester fetches between Sh 15,000 and Sh20,000 per lorry.",
+        "over 50 billion tonnes of sand and gravel are mined per year"
+      ]
+    },
+    {
+      "id": "KSW-010",
+      "title": "Kibwana suspends officer over illegal sand harvesting",
+      "titleEn": "Kibwana suspends officer over illegal sand harvesting",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2020-11-04",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 04 November 2020 - 10:55",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County, Mbooni East sub-county, Mukio River; Tawa-Machakos road",
+      "rivers": [
+        "Mukio"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Illegal sand harvesting",
+        "Enforcement",
+        "Night transport",
+        "Cartels",
+        "Governance"
+      ],
+      "summary": "Makueni Governor Kivutha Kibwana suspended Jackson Muthaisu, director of the county Sand Conservation and Utilisation Authority, pending investigations into sand harvesting at Mukio River in Mbooni East, The Star reported. Residents complained that trucks ferried sand from the river at night, against the Makueni County Sand Conservation and Utilisation Act, 2015. Kibwana said the law allows only domestic sand to be harvested from rivers. Cartels allegedly exploited an authorised window to remove sand deposited on farms; Muthaisu had said community committees supervised the work. A resident said covered trucks moved sand at night towards Machakos along the Tawa Machakos road.",
+      "hasLocalSummary": false,
+      "limitations": "Cartel involvement and night trucking are residents' allegations; investigation outcome not reported.",
+      "url": "https://www.the-star.co.ke/news/2020-11-04-kibwana-suspends-officer-over-illegal-sand-harvesting",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "against the Makueni County Sand Conservation and Utilisation Act, 2015."
+      ]
+    },
+    {
+      "id": "KSW-011",
+      "title": "Youths find refuge in sand mining after pandemic disruptions",
+      "titleEn": "Youths find refuge in sand mining after pandemic disruptions",
+      "publisher": "Kenya News Agency",
+      "authors": "Philip Onyango",
+      "category": "News",
+      "date": "2021-06-27",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: June 27, 2021",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Siaya",
+        "Busia"
+      ],
+      "location": "Siaya County, Usonga location, Nyadorera (lower course of River Nzoia); one harvester from neighbouring Busia County",
+      "rivers": [
+        "Nzoia"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "COVID-19",
+        "fisheries decline",
+        "safety",
+        "middlemen",
+        "prices"
+      ],
+      "summary": "KNA reports that youths on the lower River Nzoia at Nyadorera, Usonga, Siaya County, turned to sand mining as the coronavirus pandemic hit jobs and once-common fish species disappeared. George Otieno, mining for two years, described two-person canoe crews diving to scoop riverbed sand by hand, saying four full canoes fill a 12-tonne lorry. Harvesters dive without gear and report drownings, typhoid and bilharzia, and asked governments for diving equipment. Chrispinus Ngaywa from Busia said middlemen pay Sh5,500 for a 12-tonne lorry and sell it for Sh17,000 or more, and that harvesters plan to form a union.",
+      "hasLocalSummary": false,
+      "limitations": "Prices and methods are harvesters' accounts. No official or environmental assessment.",
+      "url": "https://www.kenyanews.go.ke/youths-find-refuge-in-sand-mining-after-pandemic-disruptions",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "George Otieno has been mining sand for two years",
+        "it takes four full canoes to fill a 12 tonne lorry",
+        "A 12 tonne lorry cost a mere Sh5,500 while they sell it at Sh17,000 or even more"
+      ]
+    },
+    {
+      "id": "KSW-012",
+      "title": "Efforts to restore Ewaso-Ng’iro River basin revived",
+      "titleEn": "Efforts to restore Ewaso-Ng'iro River basin revived",
+      "publisher": "Kenya News Agency",
+      "authors": "David Nduro",
+      "category": "News",
+      "date": "2022-02-21",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: February 21, 2022",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-ewaso-ngiro-north"
+      ],
+      "counties": [
+        "Isiolo",
+        "Samburu"
+      ],
+      "location": "Archer's Post ('Achers post') along the Isiolo-Samburu boundary; Waso location, Samburu County",
+      "rivers": [
+        "Ewaso Ng'iro"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "river flow",
+        "enforcement",
+        "livelihoods",
+        "upstream abstraction",
+        "restoration"
+      ],
+      "summary": "KNA reports that National Environmental Complaints Committee secretary Dr John Chumo, visiting sand harvesting sites at Archer's Post on the Isiolo-Samburu boundary, said harvesting downstream had deprived the Ewaso Ng'iro of water, contributing to dwindling flows and human and wildlife suffering. He called for enforcement of environmental laws and said upstream farmers obstructing the river leave it dry in some months, which pushes youths into the channel to harvest sand. Waso location chief Kelvin Lenayasa, of Samburu County, asked the government to provide alternative livelihoods for over 600 youth who depend on harvesting sand from the river.",
+      "hasLocalSummary": false,
+      "limitations": "No measurements of flow or extraction. The causal claims about drying are officials' statements. English translation of the headline awaits Swahili review.",
+      "url": "https://www.kenyanews.go.ke/effort-to-restore-ewaso-ngiro-river-intensifies",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "alternative economic activities for over 600 youth who depend on the river by harvesting sand"
+      ]
+    },
+    {
+      "id": "KSW-013",
+      "title": "Declining catch: Sand harvesting endangers mudfish in Embu",
+      "titleEn": "Declining catch: Sand harvesting endangers mudfish in Embu",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2022-06-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 28 June 2022 - 10:06",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Embu"
+      ],
+      "location": "Embu County, Mbeere South, Mutuobare, Kiromboko harvesting site (River Tana, Embu-Kitui border); Marivwe and Muthanthara in Mbeere North also mentioned",
+      "rivers": [
+        "Tana"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "fisheries",
+        "livelihoods",
+        "environmental impact",
+        "sand volumes",
+        "desilting",
+        "regulation"
+      ],
+      "summary": "The Star reports that sand harvesting on the River Tana at Kiromboko, Mutuobare (Mbeere South, Embu) has degraded mudfish habitat. Fisherman Alfred Musyoki, who trapped fish there about 15 years ago, says faster flows mean fish cannot thrive. Site coordinator Tata Nzule says the site can produce more than 500 lorries of sand a week in the dry season and loads more than 70 lorries a day. A Machakos fish vendor says his daily earnings fell from Sh2,000 and above to less than Sh1,000. Embu NEMA director Boniface Birichi says the activity is desilting to protect the Kiambere hydroelectric dam, while activists call for county regulation.",
+      "hasLocalSummary": false,
+      "limitations": "Volumes are a site coordinator's claim, not measured. Fish-decline link is based on fishermen's and vendors' accounts. No byline is shown on the page. The site lies on the Embu-Kitui border; the record covers the Embu side as described.",
+      "url": "https://www.the-star.co.ke/news/2022-06-28-declining-catch-sand-harvesting-endangers-mudfish-in-embu",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "About 15 years ago, Alfred Musyoki ran a thriving business trapping fish in River Tana.",
+        "can produce more than 500 lorries of sand a week during the dry seasons",
+        "During the dry season we load more than 70 lorries a day",
+        "he used to make Sh2,000 and above, now he makes less than Sh1,000."
+      ]
+    },
+    {
+      "id": "KSW-014",
+      "title": "Sand harvesting causing rivers to dry up in Taita",
+      "titleEn": "Sand harvesting causing rivers to dry up in Taita",
+      "publisher": "Kenya News Agency",
+      "authors": "Arnold Linga Masila",
+      "category": "News",
+      "date": "2022-07-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: July 11, 2022",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Taita-Taveta"
+      ],
+      "location": "Taita-Taveta County; Mwatate",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Illegal sand harvesting",
+        "Drying rivers",
+        "Night harvesting",
+        "Livelihoods",
+        "Awareness"
+      ],
+      "summary": "KNA reports that illegal sand harvesting is drying rivers in Taita Taveta County. Young harvesters such as Peter Mwakera said they have scooped sand from local rivers since childhood as their only income. County assembly environment committee chair Abraham Juma said the county has comprehensive natural resource legislation but illegal harvesters beat the system. The article says they scoop riverbanks at night, starting at midnight and leaving by 5 am, and that tens of rivers have dried up except a few with little water. NEMA official Edith Kalo, based at Mwatate, said agencies were collaborating on public awareness of environmental protection.",
+      "hasLocalSummary": false,
+      "limitations": "Feature with general claims; specific rivers not named and the drying of rivers is not quantified.",
+      "url": "https://www.kenyanews.go.ke/sand-harvesting-causing-rivers-to-dry-up-in-taita",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "They start at midnight and by 5 am they are all gone."
+      ]
+    },
+    {
+      "id": "KSW-015",
+      "title": "Grains of greed: illegal sand mining in Kenya",
+      "titleEn": "Grains of greed: illegal sand mining in Kenya",
+      "publisher": "ENACT Africa / Institute for Security Studies",
+      "authors": "Mohamed Daghar",
+      "category": "Context",
+      "date": "2022-07-31",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Published on 31 July 2022",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Machakos",
+        "Kajiado",
+        "Nairobi",
+        "Makueni"
+      ],
+      "location": "Machakos, Kajiado, Nairobi and Makueni counties",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Cartels",
+        "Lorry transport",
+        "Corruption",
+        "Child labour",
+        "Governance"
+      ],
+      "summary": "In an ENACT Observer article, ISS researcher Mohamed Daghar summarises an ENACT study of illegal sand mining in Machakos, Kajiado, Nairobi and Makueni. It reports up to 500 overloaded 10-tonne sand-tipper trucks leaving Machakos by day and up to 200 leaving Kajiado, excluding night traffic, mainly to supply Nairobi. It describes cartels of brokers, loaders and gangs protected for a fee by state officers, plus child labour and community conflict. It says that of 47 counties only Makueni has a sand policy framework and authority, set up in 2015, which it credits with weeding out cartels in seven years.",
+      "hasLocalSummary": false,
+      "limitations": "Commentary summarising an ENACT research paper; truck counts are study estimates and methodology is not described in the article.",
+      "url": "https://issafrica.org/enactafrica/enact-observer/grains-of-greed-illegal-sand-mining-in-kenya",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "up to 500 overloaded 10-tonne sand-tipper trucks leave Machakos during the day, with up to 200 leaving Kajiado",
+        "Out of the 47 county governments though, only Makueni has put in place a",
+        "regulate sand harvesting and trading in 2015. In seven years, Makueni has managed to weed out the cartels"
+      ]
+    },
+    {
+      "id": "KSW-016",
+      "title": "West Pokot launches sand harvesting policy for Kipkomo",
+      "titleEn": "West Pokot launches sand harvesting policy for Kipkomo",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-06-07",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 07 June 2023 - 11:45",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-rift-valley"
+      ],
+      "counties": [
+        "West Pokot"
+      ],
+      "location": "West Pokot County, Kipkomo subcounty, Chepareria",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "policy",
+        "cartels",
+        "revenue sharing",
+        "land degradation",
+        "community governance"
+      ],
+      "summary": "West Pokot launched the Kipkomo Community's Sustainable Sand Harvesting Policy, drafted with input from the University of Eldoret and others, to regulate harvesting in Kipkomo subcounty. Deputy county commissioner Teresia Muguro said cartels had exploited sand without benefit to the community, causing river-bank erosion, sedimentation of seasonal rivers and a lowered water table, and urged MCAs to enact it into law. The Star reports buyers paid the community as little as Sh500 instead of Sh50,000. NEMA's Cliff Barkatch said harvesting must be in daytime; the policy allocates 30 per cent of revenue to conservation, 40 per cent to community projects and 15 per cent to social support.",
+      "hasLocalSummary": false,
+      "limitations": "The policy still required county assembly enactment at the time. The photo caption shows Kivou River in Kitui, which is unrelated to the story. No rivers are named in the body.",
+      "url": "https://www.the-star.co.ke/news/2023-06-07-west-pokot-launches-sand-harvesting-policy-for-kipkomo",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "paying the community as little as Sh500 instead of Sh50,000",
+        "30 per cent of the revenue collected will be for environmental conservation",
+        "40 per cent for community development projects, and 15 per cent will be geared towards social support"
+      ]
+    },
+    {
+      "id": "KSW-017",
+      "title": "Sand harvesting: EACC investigating senior officials in Kitui",
+      "titleEn": "Sand harvesting: EACC investigating senior officials in Kitui",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-06-25",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 25 June 2023 - 17:53",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Kitui"
+      ],
+      "location": "Kitui County; Mwingi rivers; Mwingi-Matuu Road; Kanyonyo Police Station; Kauwi Ward, Kitui West",
+      "rivers": [
+        "Kivou"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Corruption",
+        "Illegal sand harvesting",
+        "Lorry transport",
+        "Enforcement",
+        "Licensing"
+      ],
+      "summary": "The Ethics and Anti-Corruption Commission accused senior Kitui County and national government officials of protecting illegal sand harvesting and sharing bribes weekly, The Star reported. EACC communications head Eric Ngumbi said lorries ferrying sand from Mwingi rivers pay Sh6,000 each at roadblocks, money that does not reach the county, and that NEMA had not issued harvesting licences. He said EACC arrested four people on April 12, 2023 for mounting illegal roadblocks on the Mwingi-Matuu Road; they were released on bond at Kanyonyo Police Station. EACC urged the county assembly to exercise oversight and legislate on sand harvesting. A photo shows loading at Kivou river.",
+      "hasLocalSummary": false,
+      "limitations": "Bribery claims are EACC statements from an ongoing probe; no charges against officials reported.",
+      "url": "https://www.the-star.co.ke/news/2023-06-25-sand-harvesting-eacc-investigating-senior-officials-in-kitui",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "lorries ferrying sand from Mwingi rivers are stopped at various roadblocks where they pay Sh6,000 each",
+        "on April 12, 2023, EACC arrested four people who had mounted illegal roadblocks"
+      ]
+    },
+    {
+      "id": "KSW-018",
+      "title": "County urged to regulate sand harvesting",
+      "titleEn": "County urged to regulate sand harvesting",
+      "publisher": "Kenya News Agency",
+      "authors": "Rop Janet",
+      "category": "News",
+      "date": "2023-10-09",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: October 9, 2023",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Kajiado"
+      ],
+      "location": "Kajiado County; Kajiado town; Ilodokilani",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Legislation",
+        "Livelihoods",
+        "Child labour",
+        "Exploitation",
+        "Environmental degradation"
+      ],
+      "summary": "At a public participation forum in Kajiado town, stakeholders and environmentalists called for laws to regulate sand harvesting, KNA reported. Kajiado Youth Senate representative Gideon Toimasi said unregulated harvesting had caused riverbank degradation, soil erosion, habitat loss, sedimentation of seasonal rivers and drying tributaries, alongside drug abuse and child labour, and said they had petitioned the County Assembly to pass the Kajiado County Sand Harvesting and Quarry Bill 2020. Sand loader Moses Kikayaya from Ilodokilani said a lorry of sand fetches up to Sh30,000 while harvesters are paid only Sh13,000, and that many rivers had dried up from overharvesting.",
+      "hasLocalSummary": false,
+      "limitations": "Views of forum participants; no county response reported; specific rivers not named.",
+      "url": "https://www.kenyanews.go.ke/county-urged-to-regulate-sand-harvesting",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "pass the Kajiado County Sand Harvesting and Quarry Bill 2020",
+        "A lorry of sand fetches up to Sh30,000, but the sand harvesters are paid only Sh13,000."
+      ]
+    },
+    {
+      "id": "KSW-019",
+      "title": "Lake Victoria: Tough times push struggling families into sand business",
+      "titleEn": "Lake Victoria: Tough times push struggling families into sand business",
+      "publisher": "Citizen Digital",
+      "authors": "Citizen Reporter",
+      "category": "News",
+      "date": "2023-10-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: October 11, 2023 06:25 (EAT)",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Migori"
+      ],
+      "location": "Migori County, Ratieny (River Ratieny, which empties into Lake Victoria); Kadem",
+      "rivers": [
+        "Ratieny"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "fisheries decline",
+        "prices",
+        "exploitation",
+        "family labour"
+      ],
+      "summary": "Citizen Digital (Wananchi Reporting) says families in Ratieny, Migori County, have turned to harvesting sand from the River Ratieny, which drains into Lake Victoria, because of high living costs and falling fish catches. Women, men and children dig sand from the riverbed and banks and carry it to the roadside for buyers. Residents said buyers from Kisii and Homa Bay pay them a paltry Ksh2,000 for a tipper of sand despite high demand. A woman identified only as Jane said households treat it as a family business but cannot afford school fees. Residents asked the local administration to promote responsible harvesting and protect harvesters from exploitation.",
+      "hasLocalSummary": false,
+      "limitations": "Citizen-journalism piece with anonymous or first-name sources. No official comment.",
+      "url": "https://citizen.digital/article/lake-victoria-tough-times-push-struggling-families-into-sand-business-n329122",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "they get paid a paltry Ksh2,000 for a tipper filled with sand."
+      ]
+    },
+    {
+      "id": "KSW-020",
+      "title": "Heavy rains hamper sand harvesting in Migori",
+      "titleEn": "Heavy rains hamper sand harvesting in Migori",
+      "publisher": "Kenya News Agency",
+      "authors": "George Agimba",
+      "category": "News",
+      "date": "2023-12-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: December 11, 2023",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Migori"
+      ],
+      "location": "Migori County, Nyatike constituency, Luanda village and Angugo areas",
+      "rivers": [
+        "Migori",
+        "Kuja"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "floods",
+        "transport",
+        "county revenue",
+        "markets"
+      ],
+      "summary": "KNA reports that heavy rains left hundreds of sand harvesters in Nyatike, Migori County, jobless after the Migori and Kuja rivers burst their banks and flooded mining areas. Luanda sand harvesters' association chair John Owino said members rely on the income for school fees and healthcare. Harvester Willis Oketch said construction in Migori, Isebania, Rongo and Kisii depends on Nyatike sand, and that the long rains make harvesting impossible. Truck driver Tom Ambani said drivers had parked their trucks for the past two weeks and used to earn Sh1,000 to Sh2,000 per day. The county's revenue from sand lorries also fell.",
+      "hasLocalSummary": false,
+      "limitations": "No figures on harvested volumes or county revenue. Accounts are from harvesters and drivers.",
+      "url": "https://www.kenyanews.go.ke/heavy-rains-hamper-sand-harvesting-in-migori",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "rendered hundreds of sand harvesters in the region jobless and beggars",
+        "they have been forced to park their trucks for lack of minerals in the past two weeks",
+        "We used to earn Sh 1,000 to Sh 2,000 per day from our employers"
+      ]
+    },
+    {
+      "id": "KSW-021",
+      "title": "No more harvesting sand at night, says Kitui official",
+      "titleEn": "No more harvesting sand at night, says Kitui official",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-03-10",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 10 March 2024 - 10:01",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Kitui"
+      ],
+      "location": "Kitui County; Kivou River, Mwingi Central sub-county; Kanyonyoo checkpoint, Nairobi-Garissa highway",
+      "rivers": [
+        "Kivou"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Legislation",
+        "Harvesting hours",
+        "Penalties",
+        "Licensing",
+        "Cartels"
+      ],
+      "summary": "Kitui Environment executive John Mwendandu told The Star that the Kitui County Sand Utilization and River Basins Conservation Act, 2023, assented by Governor Julius Malombe on March 1, bars harvesting between 6pm and 6am and transport between 8pm and 6am. Night harvesting or transport, or dealing in sand without a licence, attracts a fine of up to Sh2 million or up to two years in jail. The assembly passed the law unanimously on February 28; it cancels all earlier licences, confines harvesting to gazetted sites and sets up caretaker committees. Malombe said the law targets destruction of river basins from unregulated harvesting.",
+      "hasLocalSummary": false,
+      "limitations": "Describes the Act as presented by county officials; implementation not assessed. Page date (10 March) differs from URL slug (2024-03-11).",
+      "url": "https://www.the-star.co.ke/news/2024-03-11-no-more-harvesting-sand-at-night-says-kitui-official",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Kitui County Sand Utilization and River Basins Conservation Act, 2023, on March 1",
+        "the new law stipulates that sand should not be harvested between 6pm and 6am.",
+        "Its transportation will not be allowed between 8pm and 6am",
+        "a fine of up to Sh2 million or a jail term of up to two years",
+        "was unanimously passed by the Kitui county assembly on February 28"
+      ]
+    },
+    {
+      "id": "KSW-022",
+      "title": "Karibu Kobala, kijiji ambako watu huishi na wafu",
+      "titleEn": "Welcome to Kobala, the village where people live with the dead",
+      "publisher": "Taifa Leo",
+      "authors": "Zeynab Wandati",
+      "category": "News",
+      "date": "2024-08-19",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: August 19th, 2024",
+      "studyPeriod": "Not specified",
+      "language": "Swahili",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Homa Bay"
+      ],
+      "location": "Homa Bay County, Kobala village / Kobala sub-location (Lake Victoria shore)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "lakeshore sand",
+        "graves",
+        "land degradation",
+        "displacement",
+        "livelihoods"
+      ],
+      "summary": "Taifa Leo reports that in Kobala village, Homa Bay County, sand digging has left deep pits, hanging houses and exposed graves, with coffin parts and human bones surfacing. Resident Willis Omullo said it began 15 years ago when sand extraction intensified, that at least a quarter of the village has been dug up, and that eight houses once stood on land now swamped. He said some digging takes place below the lake water level, and that families themselves dig their own land. Former digger Karen Juma Odera said it took her four days to fill a lorry, for which she was paid Sh1,000.",
+      "hasLocalSummary": false,
+      "limitations": "Swahili feature based on residents' testimony; no official comment. The lede refers to gravel diggers (wachimbaji changarawe) while the body describes sand digging; extraction is on family land along the lakeshore. English translation of the headline awaits Swahili review.",
+      "url": "https://taifaleo.nation.co.ke/makala/karibu-kobala-kijiji-ambako-watu-huishi-na-wafu",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Haya yote yalianza miaka 15 iliyopita wakati uchimbaji wa mchanga ulipokithiri",
+        "Miaka 15 iliyopita kulikuwa na nyumba nane katika eneo hili",
+        "ilinichukua siku nne kujaza lori, na baada ya hapo ningelipwa Sh1,000"
+      ]
+    },
+    {
+      "id": "KSW-023",
+      "title": "Locals fury as Makueni opens old wound in sand mining",
+      "titleEn": "Locals fury as Makueni opens old wound in sand mining",
+      "publisher": "NTV Kenya (Nation Media Group)",
+      "authors": "Pius Maundu",
+      "category": "News",
+      "date": "2024-08-24",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: August 24, 2024",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County; Kiimakiu/Kalanzoni Ward; Kilombo Dam; River Ndovoini; Kasikeu Township",
+      "rivers": [
+        "Ndovoini",
+        "Kaiti"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Commercial sand harvesting",
+        "Governance",
+        "Community opposition",
+        "Corruption allegations",
+        "Water supply",
+        "Violence"
+      ],
+      "summary": "NTV/Nation reported that Makueni County opened some earth dams and rivers to commercial sand mining, ending a 10-year lull, as the administration eyed Sh47 million in taxes towards its Sh11 billion 2024/2025 budget. Kiimakiu/Kalanzoni Ward residents petitioned against it. Governor Mutula Kilonzo Jr said harvesting at Kilombo Dam was for desilting, while the county Sand Authority banned harvesting at River Ndovoini a day after officials opened it. Water Executive John Kieti said sand dams on River Kaiti supply more than 70 per cent of Wote Town's water. The piece recalls the 2014 ban, ensuing violence including the killing of police officer Geoffrey Kasyoki, and the 2015 sand law.",
+      "hasLocalSummary": false,
+      "limitations": "Graft claims and community objections are attributed to petitioners and leaked documents; the county says Kilombo harvesting is desilting. Not independently verified.",
+      "url": "https://ntvkenya.co.ke/news/locals-fury-as-makueni-opens-old-wound-in-sand-mining",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "This marks the end of a 10-year lull on commercial sand harvesting in the county.",
+        "eyes Sh47 million in taxes from the building material",
+        "to fund its Sh11 billion budget for the 2024/2025 financial year",
+        "provide more than 70 per cent of the water needed at Wote Town",
+        "In 2014, the then Makueni Governor Kivutha Kibwana drew the wrath of sand miners",
+        "It took the enacting and implementation of the Makueni sand law in 2015"
+      ]
+    },
+    {
+      "id": "KSW-024",
+      "title": "NEMA decries rampant illegal sand harvesting in Kisumu",
+      "titleEn": "NEMA decries rampant illegal sand harvesting in Kisumu",
+      "publisher": "The Star",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-09-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 11 September 2024 - 13:16",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Kisumu"
+      ],
+      "location": "Kisumu County (major rivers, not named)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "enforcement",
+        "regulation",
+        "licensing",
+        "penalties",
+        "environmental impact"
+      ],
+      "summary": "NEMA's Kisumu County Director of Environment, Leonard Ofula, told The Star that illegal sand harvesting was rising and common along major rivers in the county, disrupting water flow and degrading the environment. He said NEMA and the county government had launched a joint campaign to step up surveillance, with the county setting standards and enforcing licensing for harvesters and transporters. NEMA would not issue mining permits without Environmental Impact Assessments. Ofula warned offenders risk up to four years in jail, a fine of up to Sh4 million, or both, and said NEMA would work with NGAO officers on community sensitisation meetings.",
+      "hasLocalSummary": false,
+      "limitations": "Rivers are not named. Statement-based story with no data on the number of illegal sites. KBC carried an equivalent version (not recorded separately).",
+      "url": "https://www.the-star.co.ke/news/2024-09-11-nema-decries-rampant-illegal-sand-harvesting-in-kisumu",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "they risked up to four years in jail, a fine not exceeding Sh4 million or both."
+      ]
+    },
+    {
+      "id": "KSW-025",
+      "title": "Row brewing in Embu County over sand harvesting",
+      "titleEn": "Row brewing in Embu County over sand harvesting",
+      "publisher": "Kenya News Agency",
+      "authors": "Samuel Waititu",
+      "category": "News",
+      "date": "2024-09-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: September 28, 2024",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Embu"
+      ],
+      "location": "Embu County, Mbeere Constituency, Kiambere Ward, Karura Village (Tana River within the Seven Forks Dams cascade)",
+      "rivers": [
+        "Tana"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "conflict",
+        "revenue sharing",
+        "community governance",
+        "transport",
+        "health"
+      ],
+      "summary": "KNA reports a dispute in Kiambere Ward, Mbeere, over control of revenue from sand harvesting along the Tana River in the Seven Forks Dams cascade. Residents of Karura Village broke from the Kiambere Ward CBO, which has managed the resource for eight years, and formed their own association, barricading the road so trucks could not leave without paying a fee of Sh1, 000 (as printed) to the new CBO. Residents complained of road damage and dust-related respiratory illness. Ward Rep Lenny Masters, the ward CBO's patron, denied favouritism, said proceeds bought an ambulance and funded water, school and road projects, and accused county officials of backing the parallel group.",
+      "hasLocalSummary": false,
+      "limitations": "Allegations from both sides are unverified. Citizen Digital ran a near-identical version of this story (not recorded separately).",
+      "url": "https://www.kenyanews.go.ke/row-brewing-in-embu-county-over-sand-harvesting",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "has been managing the resource for eight years",
+        "paying the requisite fee of Sh1, 000 to the newly established CBO"
+      ]
+    },
+    {
+      "id": "KSW-026",
+      "title": "Environmental Implications of Sand Harvesting: Insights from Archer’s Post, Samburu County.",
+      "titleEn": "Environmental Implications of Sand Harvesting: Insights from Archer's Post, Samburu County",
+      "publisher": "Journal of the Kenya National Commission for UNESCO",
+      "authors": "Samuel Lemeleny; Silva M. Namalwa",
+      "category": "Research",
+      "date": "2024-12-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2024-12-29",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-ewaso-ngiro-north"
+      ],
+      "counties": [
+        "Samburu",
+        "Isiolo",
+        "Meru"
+      ],
+      "location": "Samburu County, Archer's Post Sub Location (Ewaso Nyiro riverine); sand supplied to Isiolo, Meru and other towns",
+      "rivers": [
+        "Ewaso Nyiro"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "research",
+        "environmental impact",
+        "vegetation loss",
+        "soil erosion",
+        "regulatory gaps",
+        "livelihoods"
+      ],
+      "summary": "This open-access study by Maasai Mara University researchers assesses drivers and environmental effects of sand harvesting at Archer's Post, Samburu County, where sand is taken from the Ewaso Nyiro riverine in the rainy season and from land in the dry season, and supplied to Isiolo, Meru and other towns. It used a target population of 135 individuals, including residents, harvesters, chiefs and Ministry of Land and NEMA officers. It finds harvesting is driven by the need for income and construction demand, and causes soil erosion, vegetation loss and sedimentation. 75% of respondents agreed it reduces vegetation. It says current regulations do not effectively manage impacts.",
+      "hasLocalSummary": false,
+      "limitations": "Perception survey; the 75% figure comes from the full-text PDF (https://journals.unesco.go.ke/index.php/jknatcom/article/download/185/126/351), not the landing-page abstract. No measured physical data. Meru and Isiolo are listed only as markets for the sand. English translation of the headline awaits Swahili review.",
+      "url": "https://journals.unesco.go.ke/index.php/jknatcom/article/view/185",
+      "doi": "10.62049/jkncu.v5i1.185",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "A target population of 135 individuals from local residents, sand harvesters",
+        "seventy-five percent (75%) express agreement"
+      ]
+    },
+    {
+      "id": "KSW-027",
+      "title": "NEMA implements new regulations for sand transportation",
+      "titleEn": "NEMA implements new regulations for sand transportation",
+      "publisher": "Kenya News Agency",
+      "authors": "Hellen Lunalo",
+      "category": "News",
+      "date": "2025-02-20",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: February 20, 2025",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-national"
+      ],
+      "counties": [],
+      "location": "National scope",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "national regulation",
+        "transport permits",
+        "licensing",
+        "Sand Harvesting Regulations 2024"
+      ],
+      "summary": "KNA reports that NEMA issued a public notice requiring all sand transporters to obtain a sand transportation permit under the 2024 Sand Harvesting Regulations, applying immediately through the Sand Harvesting licensing portal on NEMA's website. The article says Environment Cabinet Secretary Aden Duale published the Sand Harvesting Regulations 2024 on Tuesday, February 18th, setting new controls for harvesting and transport, and that the move could affect sand costs in construction. It also notes that the National Transport and Safety Authority proposed cargo-securement rules on 29th January covering sand and gravel loads.",
+      "hasLocalSummary": false,
+      "limitations": "Summarises a NEMA notice; the regulation text itself was not read (the Kenya Law page blocked automated access). Citizen Digital ran a shorter version on the same notice (not recorded separately).",
+      "url": "https://www.kenyanews.go.ke/nema-implements-new-regulations-for-sand-transportation",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "the 2024 Sand Harvesting Regulations mandate a sand transportation permit from NEMA",
+        "published the Sand Harvesting Regulations 2024 on Tuesday, February 18th",
+        "In a statement released on 29 th January, NTSA maintained"
+      ]
+    },
+    {
+      "id": "KSW-028",
+      "title": "Impact of Selected Anthropogenic Disturbances on the Variability of Riparian Vegetation in the River Kathita Basin, Tharaka Nithi County, Kenya",
+      "titleEn": "Impact of Selected Anthropogenic Disturbances on the Variability of Riparian Vegetation in the River Kathita Basin, Tharaka Nithi County, Kenya",
+      "publisher": "East African Journal of Environment and Natural Resources (EANSO)",
+      "authors": "Denis Kibaara Mugambi; Rithaa Jafford Njeru; Agatha Nthenge",
+      "category": "Research",
+      "date": "2025-09-23",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 23 September, 2025",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Tharaka-Nithi"
+      ],
+      "location": "Tharaka Nithi County, River Kathita basin",
+      "rivers": [
+        "Kathita"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "research",
+        "riparian vegetation",
+        "biodiversity",
+        "environmental impact",
+        "regulation"
+      ],
+      "summary": "This open-access Chuka University study compares riparian vegetation at sand harvesting, charcoal burning and livestock drinking sites with undisturbed control sites, randomly sampled along a 15KM transect, in the River Kathita basin, Tharaka-Nithi County. Disturbed sites showed lower species diversity than undisturbed sites. The correlation with tree diversity was significant for livestock grazing (p=0.01) and marginally insignificant for sand harvesting and charcoal burning (p=0.06). Abandoned sand harvesting sites had high seedling and sapling diversity, suggesting recovery if protected. The authors recommend that local and national stakeholders regulate sand harvesting in riparian areas.",
+      "hasLocalSummary": false,
+      "limitations": "Ecological vegetation study; sand harvesting is one of three disturbances examined, and its statistical association was not significant at p<0.05. No extraction volumes.",
+      "url": "https://journals.eanso.org/index.php/eajenr/article/view/3691",
+      "doi": "10.37284/eajenr.8.3.3691",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "randomly sampled along a 15KM transect",
+        "significant for livestock grazing (p=0.01)",
+        "marginally insignificant for sand harvesting and charcoal burning (p=0.06)"
+      ]
+    },
+    {
+      "id": "KSW-029",
+      "title": "How grassroots resistance fosters sustainability: lessons from sand harvesting and water availability in a farming community in Kenya",
+      "titleEn": "How grassroots resistance fosters sustainability: lessons from sand harvesting and water availability in a farming community in Kenya",
+      "publisher": "Water SA",
+      "authors": "Annelieke Duker; Diego Zuluaga Velásquez; Pooja Prasad; Charlotte de Fraiture; Gabriela Cuadrado Quesada",
+      "category": "Research",
+      "date": "2025-10-31",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2025-10-31",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County; Kasikeu community; Enguli River",
+      "rivers": [
+        "Enguli",
+        "Muooni",
+        "Athi"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Water tables",
+        "Livelihoods",
+        "Conflict",
+        "Governance",
+        "Irrigation",
+        "River restoration"
+      ],
+      "summary": "This open-access Water SA paper by IHE Delft researchers studies how unregulated sand harvesting on the Enguli River, a sand river near Kasikeu in Makueni County draining to the Muooni within the Athi basin, affected smallholder irrigators. Using a baseline survey of 60 farmers and semi-structured interviews, the authors report intensive harvesting between 2012 and 2015, after a district commissioner in 2010 asked Kasikeu leaders to let lorries in. They find excessive harvesting depleted water and forced irrigators to stop farming, and that grassroots resistance pushed the newly decentralised county government to curb sand conflicts and support river restoration under Makueni's Sand Act.",
+      "hasLocalSummary": false,
+      "limitations": "Qualitative case study based on farmer recollections; figure quotes taken from the article PDF (edepot.wur.nl/704950), where line breaks may differ from the HTML landing page.",
+      "url": "https://watersa.net/article/view/24519",
+      "doi": "10.17159/wsa/2025.v51.i4.4185",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Enguli River. Spread along the river, 60 farmers were selected",
+        "intensive sand harvesting took place between 2012 and 2015.",
+        "In 2010, the district commissioner in charge approached the"
+      ]
+    },
+    {
+      "id": "KSW-030",
+      "title": "GOVERNOR MUTULA PUTS SAND CARTELS ON NOTICE, VOWS TO INTENSIFY CRACKDOWN",
+      "titleEn": "Governor Mutula puts sand cartels on notice, vows to intensify crackdown",
+      "publisher": "County Government of Makueni",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": "2025-12-08",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: December 8, 2025",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County; Kilome",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Enforcement",
+        "Cartels",
+        "Ban",
+        "Governance",
+        "Sand authority"
+      ],
+      "summary": "A Makueni County Government news release says Governor Mutula Kilonzo Jr warned illegal sand traders that his administration would not back down in enforcing sand regulations, despite push back by cartels, saying the practice exposes residents to water insecurity. He said a total ban on sand harvesting in Kilome had been in place for two months and that local committees were reviewing the area before any resumption. He spoke while presiding over the absorption of 44 staff into the Makueni Sand Conservation and Utilization Authority, and announced plans for sand value addition once resources allow.",
+      "hasLocalSummary": false,
+      "limitations": "County government press release; claims of progress are the county's own. English translation of the headline awaits Swahili review.",
+      "url": "https://makueni.go.ke/2025/general/governor-mutula-puts-sand-cartels-on-notice-vows-to-intensify-crackdown",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "a total ban on sand harvesting has been in place for two months",
+        "the absorption of 44 staff into the Makueni Sand Conservation and Utilization Authority"
+      ]
+    },
+    {
+      "id": "KSW-031",
+      "title": "Residents call for urgent measures to save their land from sand harvesters",
+      "titleEn": "Residents call for urgent measures to save their land from sand harvesters",
+      "publisher": "Kenya News Agency",
+      "authors": "P, KNA (byline as shown)",
+      "category": "News",
+      "date": "2026-01-14",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: January 14, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Siaya"
+      ],
+      "location": "Siaya County, Siaya West Sub County, Kabura/Uhuyi sub location, Karindi village (Wath Kojwando); also Rapenji village and Nyandori, Sigoma-Uranga sub location",
+      "rivers": [
+        "Nzoia"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "riverbank erosion",
+        "land loss",
+        "conflict",
+        "safety",
+        "water access",
+        "enforcement"
+      ],
+      "summary": "Residents of Karindi village in Siaya West petitioned the government to stop sand harvesters on the banks of the River Nzoia, saying erosion was sinking their land. Michael Osunga said residents recently saved three women from drowning after soil collapsed. Residents said more than 3,000 people depend on the Wath Kojwando water point, now unsafe because of gullies, and that night-time scoopers from neighbouring Ugenya are armed and violent. Environmentalist George Spencer Wambiya warned that digging banks rather than the riverbed accelerates erosion. KNA notes Rapenji villagers earlier reported losing close to 20 acres, and that a sand dispute meeting ended with the harvesters' chairman beaten to death.",
+      "hasLocalSummary": false,
+      "limitations": "Residents' claims are not independently verified. The Rapenji acreage differs from an earlier KNA report (September 2023) that cited close to 10 acres. The byline is truncated on the page.",
+      "url": "https://www.kenyanews.go.ke/residents-call-for-urgent-measures-to-save-their-land-from-sand-harvesters",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "saved three women from drowning after the soil collapsed",
+        "more than 3,000 people who rely on Wath Kojwando water point",
+        "they have lost close to 20 acres of land due to the uncontrolled activities"
+      ]
+    },
+    {
+      "id": "KSW-032",
+      "title": "Tension as two sand harvesters shot dead in Kakamega",
+      "titleEn": "Tension as two sand harvesters shot dead in Kakamega",
+      "publisher": "The Star",
+      "authors": "Cyrus Ombati",
+      "category": "News",
+      "date": "2026-01-21",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 21 January 2026 - 08:08",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria"
+      ],
+      "counties": [
+        "Kakamega"
+      ],
+      "location": "Kakamega County, Shinyalu area, Ondolo area along River Isikhu",
+      "rivers": [
+        "Isikhu"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "violence",
+        "enforcement",
+        "ban",
+        "forest rangers",
+        "conflict"
+      ],
+      "summary": "The Star reports that forest rangers from Lurambi Forest shot dead two sand harvesters in Shinyalu, Kakamega County, on the evening of January 19, 2026, after intercepting a tractor carrying sand from what they called illegal harvesting in the Ondolo area along River Isikhu. Police said the crew raised an alarm and a mob stoned the rangers, who opened fire, killing Godfrey Muyonga, 52, and Benedict Isiakali, 34, and wounding a third man. The mob burned the rangers' motorcycle. Western Region Police Commander Issa Mohamud said investigations were under way; officials said sand harvesting remains banned in the area.",
+      "hasLocalSummary": false,
+      "limitations": "Police account; rangers had not been traced at time of writing. The quantity of sand is described as unknown.",
+      "url": "https://www.the-star.co.ke/news/2026-01-21-tension-as-sand-harvesters-shot-dead-in-kakamega",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "19, 2026 evening after a group of armed forest rangers from Lurambi Forest",
+        "fatally wounded Godfrey Muyonga, 52, and Benedict Isiakali, 34."
+      ]
+    },
+    {
+      "id": "KSW-033",
+      "title": "Sand mining and Kenya’s building boom: Better rules are needed, but not from the top down",
+      "titleEn": "Sand mining and Kenya's building boom: Better rules are needed, but not from the top down",
+      "publisher": "Down To Earth (republished from The Conversation)",
+      "authors": "Kennedy Mkutu; Jan Bachmann",
+      "category": "Context",
+      "date": "2026-02-18",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Published on : 18 Feb 2026, 5:04 am",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-lake-victoria",
+        "ke-rift-valley",
+        "ke-athi"
+      ],
+      "counties": [
+        "Homa Bay",
+        "Nakuru",
+        "Kajiado",
+        "Taita-Taveta",
+        "Makueni",
+        "Kwale",
+        "Kilifi"
+      ],
+      "location": "National scope; study sites in Homa Bay, Nakuru (Kedong), Kajiado, Taita Taveta, Makueni, Kwale and Kilifi",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "commodity chain",
+        "informal governance",
+        "bribery",
+        "profits",
+        "research",
+        "policy"
+      ],
+      "summary": "Researchers Kennedy Mkutu and Jan Bachmann summarise a study of sand commodity chains at sites in seven Kenyan counties, including Homa Bay near Lake Victoria and Nakuru. They say national regulation is rarely enforced and informal rules among loaders, cooperatives and landowners govern extraction. In Kajiado, a driver pays loaders around $10 each and the landowner $40-$50. They report drivers pay around $90 for a 12-ton truck that sells in Nairobi for up to $400, and police request $4-8 per truck. At Kedong in Nakuru, residents destroyed landowners' excavators. They argue for harmonising informal rules with formal ones, citing Makueni.",
+      "hasLocalSummary": false,
+      "limitations": "Commentary summarising the authors' own research; the original is on The Conversation (not fetched). Prices are approximate US-dollar figures. It covers both Athi and non-Athi counties and may overlap with Athi-basin records. English translation of the headline awaits Swahili review.",
+      "url": "https://www.downtoearth.org.in/africa/sand-mining-and-kenyas-building-boom-better-rules-are-needed-but-not-from-the-top-down",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "We examined sites in seven Kenyan counties.",
+        "He pays each of the young men around $10 for their labour and the landowner $40-$50 for the sand.",
+        "pay around $90 for a 12-ton truck of sand, the same load is sold in Nairobi for up to $400",
+        "uniformly request $4-8 from every truck"
+      ]
+    },
+    {
+      "id": "KSW-034",
+      "title": "Olkeriai River Under Pressure: Maasai Communities Confront the Impacts of Sand Harvesting in Kenya",
+      "titleEn": "Olkeriai River Under Pressure: Maasai Communities Confront the Impacts of Sand Harvesting in Kenya",
+      "publisher": "Cultural Survival",
+      "authors": "Lucas Kasosi",
+      "category": "News",
+      "date": "2026-03-16",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: March 16, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Kajiado"
+      ],
+      "location": "Kajiado County; Mashuuru sub-county; Olkeriai River; Nairagie Enkare",
+      "rivers": [
+        "Olkeriai"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Water tables",
+        "Livelihoods",
+        "Gender",
+        "Cartels",
+        "Revenue leakage",
+        "Lorry transport"
+      ],
+      "summary": "Cultural Survival fellow Lucas Kasosi reports from the Olkeriai River in Mashuuru, Kajiado County, where residents say sand harvesting has turned the riverbed into an open quarry and left their water salty. The article states that more than 500 trucks haul sand from Kajiado's riverbeds daily and that sand, gravel and ballast fees were budgeted at about KSh 126 million in 2023-24. Residents say a truckload brings around KSh 3,000 at source but up to KSh 30,000 in Nairobi. Citing a regional study, it says over 92% of surveyed residents reported worse erosion and air pollution and 84% said groundwater had dropped. County natural resources director George Rianto Kimiti said regulation remains a challenge.",
+      "hasLocalSummary": false,
+      "limitations": "Advocacy-oriented feature by an Indigenous rights organisation fellow; the 500-truck figure and study statistics are not individually sourced in the text. Revenue-leakage claims are from activists.",
+      "url": "https://www.culturalsurvival.org/news/olkeriai-river-under-pressure-maasai-communities-confront-impacts-sand-harvesting-kenya",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "More than 500 trucks haul sand out of Kajiado’s riverbeds every day",
+        "in the 2023-24 fiscal year, sand, gravel, and ballast extraction fees were budgeted at about KSh 126 million",
+        "A truckload may bring around KSh 3,000 ($23 USD) at the source",
+        "the same load can fetch up to KSh 30,000 ($230 USD) in Nairobi",
+        "more than 92% reported worsening soil erosion and air pollution, while 84% said groundwater levels had dropped"
+      ]
+    },
+    {
+      "id": "KSW-035",
+      "title": "Why sand harvesting is a nightmare for women",
+      "titleEn": "Why sand harvesting is a nightmare for women",
+      "publisher": "The Star",
+      "authors": "Musembi Nzengu",
+      "category": "News",
+      "date": "2026-06-04",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 04 June 2026 - 06:56",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Kitui"
+      ],
+      "location": "Kitui County; Nguni ward; Mwania village; Kaunguni village; Enziu river",
+      "rivers": [
+        "Enziu"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Water tables",
+        "Gender",
+        "Violence",
+        "Child labour",
+        "Livelihoods",
+        "Illegal sand harvesting"
+      ],
+      "summary": "In a Star feature, Peninah Munyoki of Mwania village in Nguni ward, Kitui County, says round-the-clock sand harvesting along the seasonal Enziu river has lowered the water table, dried springs and left remaining water salty, forcing women and girls to walk farther for water. She says trucks contaminate water with oil leaks. She recalls a February 10 clash between Kaunguni and Mwania villages that left one person dead and others injured, with women sexually assaulted. Munyoki and fellow resident Kasyoka Musila say schoolchildren are drawn into sand loading, drugs and early pregnancies, and call for regulated harvesting.",
+      "hasLocalSummary": false,
+      "limitations": "Based on residents' accounts; the clash and its toll are not confirmed by police in the article. Year of the February clash not stated (implied 2026).",
+      "url": "https://www.the-star.co.ke/news/big-read/2026-06-04-why-sand-harvesting-is-a-nightmare-for-women",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "on February 10 between residents of Kaunguni village and Mwania",
+        "villages that left one person dead and several others injured."
+      ]
+    },
+    {
+      "id": "KSW-036",
+      "title": "Kitui leaders ban sand harvesting near bridges",
+      "titleEn": "Kitui leaders ban sand harvesting near bridges",
+      "publisher": "Kenya News Agency",
+      "authors": "Denson Mututo and Patrick Musyoka",
+      "category": "News",
+      "date": "2026-09-19",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: September 19, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-tana"
+      ],
+      "counties": [
+        "Kitui",
+        "Machakos"
+      ],
+      "location": "Kitui County; Kwa Masesi Bridge across River Tiva, Kitui-Machakos road",
+      "rivers": [
+        "Tiva"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Infrastructure damage",
+        "Ban",
+        "Enforcement",
+        "Livelihoods"
+      ],
+      "summary": "The Kitui County Security Committee banned sand harvesting near river bridges, KNA reported. County Commissioner Erastus Mbui said the Kwa Masesi Bridge across River Tiva on the Kitui-Machakos road was at risk of collapse from uncontrolled harvesting, which could cut transport between Kitui and Machakos. KeNHA inspector Bashir Osman said sand scooping exposes column footings and advised against harvesting within approximately one kilometre on either side of the bridge; KeNHA would backfill exposed foundations before the rains. County executive Richard John Mwendandu said the county would introduce measures to regulate riverine sand harvesting and promote alternative livelihoods.",
+      "hasLocalSummary": false,
+      "limitations": "Risk to the bridge is as described by officials; no engineering assessment published.",
+      "url": "https://www.kenyanews.go.ke/kitui-leaders-ban-sand-harvesting-near-bridges",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "should not be undertaken within approximately one kilometre on either side of the structure"
+      ]
+    },
+    {
+      "id": "KSW-037",
+      "title": "Kilifi county officials put on the spot over failure to curb sand harvesting",
+      "titleEn": "Kilifi county officials put on the spot over failure to curb sand harvesting",
+      "publisher": "The Standard",
+      "authors": "Edwin Nyarangi",
+      "category": "News",
+      "date": "2026-09-22",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Sep. 22, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Kilifi"
+      ],
+      "location": "Kilifi County; Malindi sub-county (Senate Mashinani); Mjana Heri",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Oversight",
+        "Licensing",
+        "Cooperatives",
+        "Livelihoods",
+        "Governance"
+      ],
+      "summary": "The Senate Lands and Environment Committee, chaired by Mombasa Senator Mohammed Faki, faulted Kilifi County Government at a Senate Mashinani sitting in Malindi for failing to act against mining and sand harvesting companies flouting NEMA guidelines, The Standard reported. County Geologist George Shoka cited compliance inspections and a draft Sand Harvesting Policy covering permitting, transport, cess and rehabilitation at Mjana Heri and elsewhere. Mjana Heri residents criticised NEMA for licensing individual harvesters instead of cooperative societies; Charles Katana, a resident for more than 35 years, said locals now gain little. Senators said they would take up the issue with NEMA.",
+      "hasLocalSummary": false,
+      "limitations": "Sand sites are described as quarries and no river is named; claims are those of residents and senators.",
+      "url": "https://www.standardmedia.co.ke/environment-climate/article/2001558385/kilifi-county-officials-put-on-the-spot-over-failure-to-curb-sand-harvesting",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Charles Katana, who has lived in the area for more than 35 years"
+      ]
+    },
+    {
+      "id": "KSW-038",
+      "title": "Kenya's Sand Wars",
+      "titleEn": "Kenya's Sand Wars",
+      "publisher": "Al Jazeera",
+      "authors": "Harriet Constable; photographs and video by Rachel Reed",
+      "category": "News",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "No publication date found on the source page",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-athi"
+      ],
+      "counties": [
+        "Makueni"
+      ],
+      "location": "Makueni County; Kilome; Mangala trading centre",
+      "rivers": [
+        "Ikolya",
+        "Nthange",
+        "Kikuu"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "Violence",
+        "Cartels",
+        "Illegal sand harvesting",
+        "Livelihoods",
+        "Water supply",
+        "Corruption allegations"
+      ],
+      "summary": "Al Jazeera's long-form report from Kilome, Makueni, describes the mob killing in Mangala of police officer Geoffrey Kasyoki, 38, who had campaigned against illegal sand harvesting. It reports at least seven deaths from mining accidents or sand-related violence in the previous two years. On one river stretch, 10 trucks a day removed about 100 tonnes of sand, with up to 20 mining sites on each Makueni river. Activist Anthony Mua Kimeu said cartels sell a truckload for 50,000 shillings; loader Richard Mutinda said drivers pay him 500 shillings a day. It shows the degraded Ikolya, Nthange and Kikuu rivers. Cartel and official-collusion claims come from residents and pseudonymous officials.",
+      "hasLocalSummary": false,
+      "limitations": "No publication date shown on the page (footer reads 2017 copyright; URL path /2017/). Several officials quoted under pseudonyms; cartel allegations not independently verified. Also covers coastal SGR dredging (out of scope).",
+      "url": "https://interactive.aljazeera.com/aje/2017/kenya-sand-wars/index.html",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "The 38-year-old father of two had been fighting against illegal sand harvesting",
+        "at least seven people have died in mining accidents or sand-related violence",
+        "10 trucks come and go from this stretch of river removing about 100 tonnes of sand",
+        "There can be up to 20 mining sites on each of Makueni's rivers.",
+        "sell a truck load for 50,000 Kenyan shillings ($500)",
+        "The truck drivers pay him 500 Kenyan shillings (about $5) a day."
+      ]
+    },
+    {
+      "id": "KSW-039",
+      "title": "Sand Harvesting Regulations 2022",
+      "titleEn": "Sand Harvesting Regulations 2022 (NEMA call for comments on proposed regulations)",
+      "publisher": "National Environment Management Authority (NEMA)",
+      "authors": "Not stated",
+      "category": "Official",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "No publication date found on the source page",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Kenya"
+      ],
+      "basins": [
+        "ke-national"
+      ],
+      "counties": [],
+      "location": "National scope",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "national regulation",
+        "EIA licensing",
+        "public participation",
+        "draft regulations"
+      ],
+      "summary": "NEMA's page on the proposed Environmental Management (Sand Harvesting) Regulations, 2022 explains that EMCA provides for EIA licences for sand harvesting and requires proponents to submit annual audits. NEMA says it was tasked with developing regulations in response to the provisions of part V section 42 (4) of EMCA 1999, to streamline the activity nationwide and make it a sustainable industry. The stated objectives are sustainable use of the sand resource, sound environmental management, and reduced environmental damage alongside socio-economic benefits. The page invites people likely to be affected to submit written comments.",
+      "hasLocalSummary": false,
+      "limitations": "No publication date is shown on the page. This is the draft-stage consultation page; the regulations were later gazetted as the 2024 Sand Harvesting Regulations. The draft text itself (linked PDF) returned a 404 error. English translation of the headline awaits Swahili review.",
+      "url": "https://nema.go.ke/laws-and-guidelines/sand-harvesting-regulations-2022",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "submit written comments on the proposed Environmental Management (Sand Harvesting) Regulations, 2022",
+        "the provisions of part V section 42 (4) of EMCA 1999"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Daily Nation",
+      "url": "https://nation.africa/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "The Standard",
+      "url": "https://standardmedia.co.ke/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "The Star",
+      "url": "https://the-star.co.ke/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Kenya News Agency",
+      "url": "https://kenyanews.go.ke/",
+      "kind": "News (state agency)",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Citizen Digital",
+      "url": "https://citizen.digital/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Taifa Leo",
+      "url": "https://taifaleo.nation.co.ke/",
+      "kind": "News",
+      "languages": [
+        "Swahili"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Kenya Broadcasting Corporation",
+      "url": "https://kbc.co.ke/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "National Environment Management Authority",
+      "url": "https://nema.go.ke/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Water Resources Authority",
+      "url": "https://wra.go.ke/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "Kenya Law",
+      "url": "https://kenyalaw.org/",
+      "kind": "Official (legislation and judgments)",
+      "languages": [
+        "English"
+      ],
+      "status": "Planned",
+      "note": "Candidate source from the collection plan; no coverage check recorded."
+    },
+    {
+      "name": "County Government of Makueni (Makueni County Gazette Supplement)",
+      "url": "https://umanyi.makueni.go.ke/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "ENACT Africa / Institute for Security Studies",
+      "url": "https://issafrica.org/",
+      "kind": "Context",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "NTV Kenya (Nation Media Group)",
+      "url": "https://ntvkenya.co.ke/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Journal of the Kenya National Commission for UNESCO",
+      "url": "https://journals.unesco.go.ke/",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "East African Journal of Environment and Natural Resources (EANSO)",
+      "url": "https://journals.eanso.org/",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Water SA",
+      "url": "https://watersa.net/",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "County Government of Makueni",
+      "url": "https://makueni.go.ke/",
+      "kind": "Official",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Down To Earth (republished from The Conversation)",
+      "url": "https://www.downtoearth.org.in/",
+      "kind": "Context",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Cultural Survival",
+      "url": "https://www.culturalsurvival.org/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://interactive.aljazeera.com/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    }
+  ],
+  "runs": [
+    {
+      "id": "seed-2026-11-19",
+      "date": "2026-11-19",
+      "kind": "Seed collection",
+      "added": 39,
+      "note": "39 records gathered by AI research agents; each source page was re-downloaded and the quoted date and figures matched verbatim before import. Owner review pending."
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 // Pull every live member watch's public archive and rebuild public/data/archive.json.
 //
 //   node scripts/sync.mjs                 fetch from each watch's archiveUrl
-//   node scripts/sync.mjs --from DIR      read DIR/<watch-id>.json instead (offline / testing)
+//   node scripts/sync.mjs --from DIR      read DIR/<watch-id>.json for member watches (offline / testing)
+//
+// Hosted regions (watches with archivePath, e.g. Kenya and Rwanda) are always read from this repository.
 //
 // If one watch cannot be fetched or parsed, its records from the previous global archive
 // are kept and the watch is marked stale, so a single outage never empties the archive.
@@ -19,6 +21,11 @@ const fromDir = fromIndex > -1 ? path.resolve(process.argv[fromIndex + 1]) : nul
 const previous = existsSync(outFile) ? JSON.parse(readFileSync(outFile, 'utf8')) : {records: [], watches: []};
 
 async function load(watch) {
+  if (watch.archivePath) {
+    // Hosted region: its archive lives in this repository.
+    const file = path.join(root, watch.archivePath);
+    return {body: readFileSync(file), origin: watch.archivePath};
+  }
   if (fromDir) {
     const file = path.join(fromDir, `${watch.id}.json`);
     const body = readFileSync(file);
@@ -45,7 +52,8 @@ const records = [];
 const watchStatus = [];
 for (const watch of registry.watches) {
   const base = {id: watch.id, status: watch.status, records: 0};
-  if (watch.status !== 'live' || !watch.archiveUrl) { watchStatus.push(base); continue; }
+  const hosted = Boolean(watch.archivePath);
+  if (!hosted && (watch.status !== 'live' || !watch.archiveUrl)) { watchStatus.push(base); continue; }
   try {
     const {body, origin} = await load(watch);
     const archive = JSON.parse(body.toString('utf8'));
