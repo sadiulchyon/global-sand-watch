@@ -1,0 +1,50 @@
+{
+  "watch": "rwanda",
+  "name": "Rwanda Sand Watch",
+  "status": "Draft plan. No records collected. Sources and terms below are starting points to be confirmed by the first collection runs.",
+  "recordSchema": "docs/record-schema.md (global-v1)",
+  "idPrefix": "RSW",
+  "interfaceLanguage": "English",
+  "sourceLanguages": ["English", "Kinyarwanda", "French"],
+  "scope": "Sand extraction from rivers, wetlands and lakeshores in Rwanda, its licensing, enforcement, cooperatives, livelihoods, construction demand, and effects on riverbanks, wetlands, water quality and sedimentation. Include stone and gravel quarrying only when it affects a river channel, wetland or riparian buffer. Exclude 3T/gold mineral mining unless the record concerns construction-sand extraction.",
+  "basins": [
+    {"id": "rw-nile", "districts": ["Kigali (Gasabo, Kicukiro, Nyarugenge)", "Kamonyi", "Muhanga", "Ruhango", "Nyanza", "Huye", "Gisagara", "Bugesera", "Rwamagana", "Kayonza", "Kirehe", "Ngoma", "Nyagatare", "Gatsibo", "Musanze", "Gakenke", "Burera", "Gicumbi"], "rivers": ["Nyabarongo", "Akanyaru", "Akagera", "Mukungwa", "Base", "Muvumba", "Mwogo", "Mbirurume", "Nyabugogo"]},
+    {"id": "rw-congo", "districts": ["Rubavu", "Rutsiro", "Karongi", "Nyamasheke", "Rusizi", "Nyabihu"], "rivers": ["Sebeya", "Rusizi", "Koko", "Kiwi", "Lake Kivu shore"]}
+  ],
+  "basinAssignment": "Assign a record by its named river; Lake Kivu and its tributaries go to the Congo basin. If only a district is named, use the basin holding most of that district and record the assumption in limitations.",
+  "searchTerms": {
+    "English": ["sand mining", "sand extraction", "illegal sand mining", "sand miners cooperative", "sand mining licence", "sand dredging", "riverbank buffer", "wetland sand"],
+    "Kinyarwanda": ["umucanga", "gucukura umucanga", "abacukura umucanga", "ubucukuzi bw'umucanga", "ubucukuzi butemewe"],
+    "French": ["extraction de sable", "exploitation du sable", "carrière de sable"]
+  },
+  "queryTemplates": [
+    "\"sand mining\" {district} Rwanda {year}",
+    "\"{river}\" sand mining",
+    "\"umucanga\" {district}",
+    "site:{domain} sand mining"
+  ],
+  "sources": [
+    {"name": "The New Times", "domain": "newtimes.co.rw", "kind": "News", "language": "English"},
+    {"name": "KT Press", "domain": "ktpress.rw", "kind": "News", "language": "English"},
+    {"name": "Kigali Today", "domain": "kigalitoday.com", "kind": "News", "language": "Kinyarwanda / English"},
+    {"name": "IGIHE", "domain": "igihe.com", "kind": "News", "language": "Kinyarwanda / English / French"},
+    {"name": "Taarifa", "domain": "taarifa.rw", "kind": "News", "language": "English"},
+    {"name": "Rwanda Broadcasting Agency", "domain": "rba.co.rw", "kind": "News (public broadcaster)", "language": "Kinyarwanda / English"},
+    {"name": "Rwanda Mines, Petroleum and Gas Board", "domain": "rmb.gov.rw", "kind": "Official", "language": "English"},
+    {"name": "Rwanda Environment Management Authority", "domain": "rema.gov.rw", "kind": "Official", "language": "English"},
+    {"name": "Rwanda Water Resources Board", "domain": "rwb.rw", "kind": "Official", "language": "English"},
+    {"name": "Official Gazette / Ministry of Justice", "domain": "minijust.gov.rw", "kind": "Official (legislation)", "language": "Kinyarwanda / English / French"},
+    {"name": "Research (Google Scholar, University of Rwanda repository, African Journals Online)", "domain": "", "kind": "Research", "language": "English"}
+  ],
+  "editorialNotes": [
+    "Follow the Bangladesh Sand Watch editorial policy: read the original body, quote date and figures verbatim, attribute allegations, keep district/sector/cell and named river or wetland.",
+    "Kinyarwanda headlines and summaries require native-language review before acceptance; keep the original title.",
+    "Licences and bans are often reported as announcements; record who announced what and when, without inferring enforcement.",
+    "Distinguish tonnes, cubic metres, truckloads and RWF amounts with their time basis."
+  ],
+  "firstMilestones": [
+    "Historical backfill of The New Times, KT Press and Kigali Today 2015–2026 for the Nyabarongo, Akanyaru and Sebeya.",
+    "Official baseline: RMB licensing notices, REMA and RWB riparian buffer guidance.",
+    "Daily collector with Kinyarwanda search terms, publishing archive.json in global-v1."
+  ]
+}

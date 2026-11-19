@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f1e7">
+  <meta name="description" content="One place to search source-backed evidence on river sand extraction from member watches in the Ganges–Brahmaputra–Meghna and Mekong basins, with East African watches in preparation.">
+  <meta property="og:title" content="Global Sand Watch">
+  <meta property="og:description" content="Source-backed evidence on river sand extraction, aggregated across basins and countries.">
+  <meta property="og:type" content="website">
+  <title>Global Sand Watch</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#archive">Skip to archive</a>
+  <header class="masthead">
+    <a class="brand" href="#top"><img src="assets/mark.svg" width="30" height="30" alt=""><span>Global <strong>Sand Watch</strong></span></a>
+    <nav aria-label="Main">
+      <a href="#map">Map</a>
+      <a href="#basins">Basins</a>
+      <a href="#compare">Compare</a>
+      <a href="#archive">Archive</a>
+      <a href="#method">Method</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">A network of river sand watches</p>
+        <h1>Sand moves across borders.<br><em>So should the evidence.</em></h1>
+        <p class="lede">Global Sand Watch gathers the published records of independent national and basin watches into one searchable archive. Every record keeps its source link, its member watch's review status and its stated limitations.</p>
+        <form class="hero-search" id="hero-form" role="search">
+          <input id="hero-q" type="search" placeholder="Search rivers, places, publishers, topics" aria-label="Search the global archive">
+          <button type="submit">Search</button>
+        </form>
+        <dl class="stats" id="stats" aria-live="polite">
+          <div><dt>Records</dt><dd id="s-records">—</dd></div>
+          <div><dt>Live watches</dt><dd id="s-watches">—</dd></div>
+          <div><dt>Basins covered</dt><dd id="s-basins">—</dd></div>
+          <div><dt>Countries</dt><dd id="s-countries">—</dd></div>
+          <div><dt>Source languages</dt><dd id="s-languages">—</dd></div>
+        </dl>
+        <p class="synced" id="synced"></p>
+      </div>
+    </section>
+
+    <div id="load-error" class="load-error wrap" role="alert" hidden><strong>The archive could not be loaded.</strong> Reload the page; if it persists, check <code>data/archive.json</code>.</div>
+
+    <section id="map" class="band">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Where the evidence comes from</h2>
+            <p>Countries are shaded by the number of records that name them. Pins mark basins: filled pins have a live watch, hollow pins are in preparation. Select a pin to open that basin's records.</p>
+          </div>
+          <div class="seg" role="group" aria-label="Map view">
+            <button type="button" data-map-view="world" aria-pressed="true">World</button>
+            <button type="button" data-map-view="asia" aria-pressed="false">South &amp; Southeast Asia</button>
+            <button type="button" data-map-view="africa" aria-pressed="false">East Africa</button>
+          </div>
+        </div>
+        <figure class="map-figure">
+          <svg id="world" role="img" aria-labelledby="map-title map-desc" preserveAspectRatio="xMidYMid meet">
+            <title id="map-title">World map of Global Sand Watch coverage</title>
+            <desc id="map-desc">Countries shaded by record counts with pins for each river basin.</desc>
+          </svg>
+          <div class="map-tip" id="map-tip" hidden></div>
+          <figcaption>
+            <span class="legend" id="legend"></span>
+            <span>Boundaries: Natural Earth 1:110m (public domain). Pins are approximate basin positions, not extraction sites. Shading counts sources, not mining events.</span>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="basins" class="band alt">
+      <div class="wrap">
+        <div class="section-head"><div>
+          <h2>Basins and member watches</h2>
+          <p>Coverage starts with the Ganges–Brahmaputra–Meghna and the Mekong. Kenya and Rwanda are the first African watches in preparation.</p>
+        </div></div>
+        <div class="basin-grid" id="basin-grid"></div>
+      </div>
+    </section>
+
+    <section id="compare" class="band">
+      <div class="wrap">
+        <div class="section-head"><div>
+          <h2>Compare what each watch records</h2>
+          <p>Share of each watch's records touching a theme. Themes are derived by rule from member topics and English titles, so a record can carry several. Differences partly reflect each watch's sources and collection history.</p>
+        </div></div>
+        <div class="compare" id="compare-themes"></div>
+        <h3 class="sub">Records by source year</h3>
+        <div class="timeline" id="timeline" role="img" aria-label="Records per publication year, by watch"></div>
+      </div>
+    </section>
+
+    <section id="archive" class="band alt">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Archive</h2>
+            <p id="result-count" aria-live="polite">Loading…</p>
+          </div>
+          <div class="head-actions">
+            <label class="sort">Sort <select id="sort"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="title">Title</option></select></label>
+            <button type="button" class="btn" id="export">Download CSV</button>
+          </div>
+        </div>
+        <form class="filters" id="filters">
+          <label class="f-search"><span>Search</span><input type="search" name="q" placeholder="e.g. Padma, expressway, Tonle Sap"></label>
+          <label><span>Basin</span><select name="basin"></select></label>
+          <label><span>Country</span><select name="country"></select></label>
+          <label><span>Watch</span><select name="watch"></select></label>
+          <label><span>Theme</span><select name="theme"></select></label>
+          <label><span>Type</span><select name="category"></select></label>
+          <label><span>Language</span><select name="language"></select></label>
+          <label><span>River</span><select name="river"></select></label>
+          <label><span>Review</span><select name="review"></select></label>
+          <label class="f-year"><span>From</span><select name="from"></select></label>
+          <label class="f-year"><span>To</span><select name="to"></select></label>
+          <button type="reset" class="btn ghost">Clear</button>
+        </form>
+        <ol class="results" id="results"></ol>
+        <div class="more"><button type="button" class="btn" id="more" hidden>Show more</button></div>
+      </div>
+    </section>
+
+    <section id="method" class="band">
+      <div class="wrap prose">
+        <h2>Method and limits</h2>
+        <h3>How aggregation works</h3>
+        <p>Each member watch runs its own collection, its own editorial policy and its own public archive. Once a day, after the member collectors finish, Global Sand Watch reads each live watch's published <code>archive.json</code>, maps it to a shared record shape with a small adapter, and rebuilds this site. Summaries, dates, figures and review decisions are copied unchanged. Nothing here is re-written, re-translated or re-verified. If one watch is unreachable, its previous records are kept and the watch is marked stale.</p>
+        <h3>Review status is not the same everywhere</h3>
+        <p>Bangladesh Sand Watch publishes only records it has accepted. Mekong Sand Watch publishes pilot and imported records whose summaries and translations still await owner and native-language review. The review field on every record shows which applies. Acceptance by a member watch is approval for inclusion and faithful source representation; it does not independently verify allegations.</p>
+        <h3>Reading the counts</h3>
+        <ul>
+          <li>Counts are of sources, not of mining incidents. Several reports can describe one event; one study can cover many sites.</li>
+          <li>Coverage is uneven. Bangladesh is the only GBM country covered so far, and the Mekong collection leans toward Viet Nam. A country with no records may simply have no watch yet.</li>
+          <li>Themes are a coarse, rule-based index added here. Member topics are kept as written.</li>
+          <li>Bangladesh records in the Karnaphuli, Halda, Sangu, Matamuhuri, Bakkhali, Naf and Maheshkhali systems are placed in a separate south-eastern basin by their named river. This assignment is a heuristic.</li>
+        </ul>
+        <h3>Joining the network</h3>
+        <p>A new watch publishes a static <code>archive.json</code> and is added to <code>watches.json</code> with an adapter. New watches, starting with Kenya and Rwanda, can publish directly in the shared record shape documented in the repository, so no adapter is needed.</p>
+        <p class="sources" id="member-links"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot"><div class="wrap">
+    <span>Global Sand Watch · records belong to their member watches and original publishers.</span>
+    <a href="https://github.com/sadiulchyon/global-sand-watch">Repository</a>
+  </div></footer>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <form method="dialog" class="d-close"><button aria-label="Close">×</button></form>
+    <div id="d-body"></div>
+  </dialog>
+</body>
+</html>

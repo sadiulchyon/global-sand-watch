@@ -1,0 +1,53 @@
+name: Sync member watches and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # After Bangladesh (14:40 UTC) and Mekong (15:40 UTC) daily collectors have published.
+    - cron: '30 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: global-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sync member archives
+        run: node scripts/sync.mjs
+      - run: node scripts/check.mjs
+      - name: Commit synced data
+        run: |
+          git add public/data/archive.json
+          if git diff --cached --quiet; then echo 'No changes from member watches.'; exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Sync member watches ($(date -u +%F))"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - run: node scripts/build-pages.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

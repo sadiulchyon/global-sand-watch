@@ -1,0 +1,53 @@
+{
+  "watch": "kenya",
+  "name": "Kenya Sand Watch",
+  "status": "Draft plan. No records collected. Sources and terms below are starting points to be confirmed by the first collection runs.",
+  "recordSchema": "docs/record-schema.md (global-v1)",
+  "idPrefix": "KSW",
+  "interfaceLanguage": "English",
+  "sourceLanguages": ["English", "Swahili"],
+  "scope": "River, seasonal-river (lugga) and lakeshore sand harvesting in Kenya, its governance, enforcement, conflicts, livelihoods, construction supply chains and environmental effects. Include quarrying of river gravel and murram only when it is taken from a river channel or riparian land. Exclude sand dams and water-harvesting projects unless the record concerns extraction from or around them. Exclude titanium/mineral-sand mining at Kwale unless the record concerns the construction-sand trade.",
+  "basins": [
+    {"id": "ke-athi", "counties": ["Makueni", "Machakos", "Kajiado", "Kiambu", "Nairobi", "Taita-Taveta", "Kilifi", "Kwale", "Mombasa"], "rivers": ["Athi", "Galana", "Sabaki", "Thwake", "Kaiti", "Mtito Andei", "Tsavo"]},
+    {"id": "ke-tana", "counties": ["Kitui", "Embu", "Tharaka-Nithi", "Murang'a", "Kirinyaga", "Meru", "Garissa", "Tana River", "Lamu"], "rivers": ["Tana", "Tiva", "Thua", "Thika", "Mutonga", "Kathita"]},
+    {"id": "ke-lake-victoria", "counties": ["Kisumu", "Homa Bay", "Migori", "Siaya", "Busia", "Kakamega", "Bungoma", "Kisii", "Nyamira", "Kericho"], "rivers": ["Nzoia", "Yala", "Nyando", "Sondu-Miriu", "Kuja", "Migori", "Awach"]},
+    {"id": "ke-rift-valley", "counties": ["Nakuru", "Narok", "Baringo", "Turkana", "West Pokot", "Kajiado", "Elgeyo-Marakwet"], "rivers": ["Kerio", "Turkwel", "Perkerra", "Ewaso Ng'iro South", "Malewa"]},
+    {"id": "ke-ewaso-ngiro-north", "counties": ["Laikipia", "Samburu", "Isiolo", "Marsabit", "Wajir", "Mandera"], "rivers": ["Ewaso Ng'iro North", "Uaso Nyiro"]}
+  ],
+  "basinAssignment": "Assign a record to the Water Resources Authority basin area of its named river; if only a county is named, use the basin area holding most of that county and record the assumption in limitations.",
+  "searchTerms": {
+    "English": ["sand harvesting", "sand mining", "illegal sand harvesting", "sand cartels", "sand harvesting ban", "sand harvesting permit", "sand lorries", "riverbed sand", "sand harvesting committee", "sand harvesting regulations", "NEMA sand harvesting"],
+    "Swahili": ["uchimbaji wa mchanga", "uvunaji wa mchanga", "wachimbaji mchanga", "mchanga mto", "magari ya mchanga", "marufuku uchimbaji mchanga"]
+  },
+  "queryTemplates": [
+    "\"sand harvesting\" {county} {year}",
+    "\"sand harvesting\" \"{river}\" river",
+    "\"uchimbaji wa mchanga\" {county}",
+    "site:{domain} \"sand harvesting\""
+  ],
+  "sources": [
+    {"name": "Daily Nation", "domain": "nation.africa", "kind": "News", "language": "English"},
+    {"name": "The Standard", "domain": "standardmedia.co.ke", "kind": "News", "language": "English"},
+    {"name": "The Star", "domain": "the-star.co.ke", "kind": "News", "language": "English"},
+    {"name": "Kenya News Agency", "domain": "kenyanews.go.ke", "kind": "News (state agency)", "language": "English"},
+    {"name": "Citizen Digital", "domain": "citizen.digital", "kind": "News", "language": "English"},
+    {"name": "Taifa Leo", "domain": "taifaleo.nation.co.ke", "kind": "News", "language": "Swahili"},
+    {"name": "Kenya Broadcasting Corporation", "domain": "kbc.co.ke", "kind": "News", "language": "English"},
+    {"name": "National Environment Management Authority", "domain": "nema.go.ke", "kind": "Official", "language": "English"},
+    {"name": "Water Resources Authority", "domain": "wra.go.ke", "kind": "Official", "language": "English"},
+    {"name": "Kenya Law", "domain": "kenyalaw.org", "kind": "Official (legislation and judgments)", "language": "English"},
+    {"name": "County government websites", "domain": "*.go.ke", "kind": "Official", "language": "English"},
+    {"name": "Research (Google Scholar, African Journals Online, university repositories)", "domain": "", "kind": "Research", "language": "English"}
+  ],
+  "editorialNotes": [
+    "Follow the Bangladesh Sand Watch editorial policy: read the original body, quote date and figures verbatim, attribute allegations, keep county/sub-county/ward and named river.",
+    "County sand laws and NEMA guidance differ by county and year; cite the instrument named in the source and do not infer the current legal position.",
+    "Distinguish lorry counts, tonnage, cubic metres and cess revenue; keep KSh amounts with their time basis.",
+    "Seasonal rivers are often unnamed in reports; record the nearest named place and say the river is not identified."
+  ],
+  "firstMilestones": [
+    "Historical backfill of national dailies 2015–2026 for the Athi and Tana basin counties (Makueni, Machakos, Kitui, Kajiado).",
+    "Research and official baseline: NEMA guidance, county sand acts and key studies.",
+    "Daily collector, reusing the Mekong collector with Kenya sources and terms, publishing archive.json in global-v1."
+  ]
+}
