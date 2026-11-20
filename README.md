@@ -65,4 +65,4 @@ Kenya records are filed by the Water Resources Authority basin area of their nam
 
 ## Limits
 
-Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, Kenya and Rwanda start from small seed collections, and countries not yet covered show no records. Acceptance is not independent verification.
+Counts are of sources, not mining incidents. Coverage is uneven: Bangladesh is the only GBM country covered, the Mekong collection leans toward Viet Nam, Kenya (mostly English-language press, with little from the north and north-east) and Rwanda (mostly Kigali Today and Kinyarwanda press) are agent-collected seed archives still awaiting owner review, and countries not yet covered show no records. Acceptance is not independent verification.
