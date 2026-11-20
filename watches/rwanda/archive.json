@@ -1555,6 +1555,3158 @@
       "figureQuotes": [
         "We show that mining sites increased by 18% to 3,751 between 2008 and 2023"
       ]
+    },
+    {
+      "id": "RSW-033",
+      "title": "Officials warn against illegal mining",
+      "titleEn": "Officials warn against illegal mining",
+      "publisher": "The New Times",
+      "authors": "Stephen Rwembeho",
+      "category": "News",
+      "date": "2011-10-22",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Saturday, October 22, 2011",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Rwamagana"
+      ],
+      "location": "Rwamagana District, Eastern Province",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "enforcement",
+        "licensing",
+        "environmental damage",
+        "worker safety"
+      ],
+      "summary": "Rwamagana District leaders warned against stone quarrying that ignores environmental guidelines, with The New Times reporting that weak supervision of stone quarrying and sand harvesting had exposed the whole Eastern Province to environmental degradation. District water and environment official Emmanuel Rwakayigamba said everyone involved in stone and sand extraction must first be cleared by district offices and that workers should get boots, gloves and masks. Mayor Nehemiah Uwimana warned that an operation would soon identify culprits, and provincial planning director Boniface Ntirenganya urged districts to prosecute those who degrade the environment.",
+      "hasLocalSummary": false,
+      "limitations": "The article is mainly about stone quarrying; sand harvesting is mentioned as part of the same problem. No specific sand site or river is named.",
+      "url": "https://www.newtimes.co.rw/article/62475/National/officials-warn-against-illegal-mining",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-034",
+      "title": "Tax collectors lose contracts due to corruption",
+      "titleEn": "Tax collectors lose contracts due to corruption",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2012-01-03",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Tuesday, January 03, 2012",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rubavu"
+      ],
+      "location": "Sebeya sand quarry, Rubavu District",
+      "rivers": [
+        "Sebeya"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "taxation",
+        "corruption",
+        "district revenue"
+      ],
+      "summary": "The New Times reported that Rubavu District's advisory council was cancelling private tax-collection contracts, including the tender for collecting taxes at the Sebeya sand quarry, about three months after they were controversially awarded. Mayor Sheikh Hassan Bahame said there was evidence that collectors charged more than the stipulated rates and that receipts given to traders did not match what was reported to the district. One contractor said they had not been formally told to stop. Unnamed businesspeople alleged some district leaders' relatives had won the contracts.",
+      "hasLocalSummary": false,
+      "limitations": "The Sebeya sand quarry is one of five tax tenders discussed; amounts collected from sand are not given. Corruption claims partly rest on unnamed sources.",
+      "url": "https://www.newtimes.co.rw/article/65713/National/tax-collectors-lose-contracts-due-to-corruption",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-035",
+      "title": "Harsh decisions make people suffer",
+      "titleEn": "Harsh decisions make people suffer",
+      "publisher": "The New Times",
+      "authors": "Geoffrey (reader letter)",
+      "category": "Context",
+      "date": "2012-09-15",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Saturday, September 15, 2012",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gasabo"
+      ],
+      "location": "Gasabo District, Kigali",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "sand prices",
+        "bans and suspensions",
+        "governance"
+      ],
+      "summary": "In a letter to The New Times reacting to its report on soaring construction-sand prices in Gasabo, a reader from Nyarutarama criticised the closure of sand quarries. He argued that shutting a quarry halts construction, costs casual workers their jobs, raises bank interest burdens and pushes up the price of sand, and called for inspections or environmental impact assessments that involve people whose livelihoods depend on sand quarrying and trading instead of top-down clampdowns.",
+      "hasLocalSummary": false,
+      "limitations": "Opinion letter, not reporting; it gives no figures. The original price story is already in the archive.",
+      "url": "https://www.newtimes.co.rw/article/80047/Opinions/harsh-decisions-make-people-suffer",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-036",
+      "title": "Kamonyi: Ibyobo byakorewemo imirimo y’ubucukuzi  bibangamira ibidukikije",
+      "titleEn": "Kamonyi: Pits left by extraction harm the environment",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josee Uwiringira",
+      "category": "Context",
+      "date": "2012-12-30",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 30 December 2012 at 12:41",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Southern Province, Kamonyi District, Runda Sector, Ruyenzi Cell",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "abandoned pits",
+        "licensing",
+        "rehabilitation",
+        "quarry law"
+      ],
+      "summary": "Kigali Today reports that stone, sand and brick-clay extraction is a mainstay of Kamonyi's economy, with 69 licensed operators and cooperatives grouped in a federation and required to extract without harming the environment. Under the 2008 quarry law district councils set rules for operators. Residents of Ruyenzi cell, Runda sector, said open pits left by stone extraction endanger passers-by and children. District environment officer Valens Kabalisa said rules require operators to fill pits and plant trees, and that old pits dug in colonial times or by unlicensed diggers would be filled through community work.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Covers stone, sand and clay extraction together; the pits described are from stone extraction. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ibidukikije/ibungabunga/article/kamonyi-ibyobo-byakorewemo-imirimo-y-ubucukuzi-bibangamira-ibidukikije",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "hari abacukuzi n’amakoperative babifitiye uruhusa bagera kuri 69, bashyizeho ihuriro ribahuza",
+        "Mu Itegeko rigenga ubucukuzi bw’amabuye n’inganzo (carriere) ryatowe mu mwaka wa 2008"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-037",
+      "title": "Gicumbi: Barasabwa kureka gucukura amabuye n’imicanga kuko byangiza ibidukikije",
+      "titleEn": "Gicumbi: Diggers asked to stop extracting stones and sand because it damages the environment",
+      "publisher": "Kigali Today",
+      "authors": "Ernestine Musanabera",
+      "category": "News",
+      "date": "2013-01-07",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 7 January 2013 at 09:37",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gicumbi"
+      ],
+      "location": "Northern Province, Gicumbi District, Byumba Sector, Nyarutarama Cell",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "hillside erosion",
+        "environmental damage",
+        "enforcement",
+        "rehabilitation"
+      ],
+      "summary": "Gicumbi District environment officer Nzeyimana Jean Chrisostome asked people digging sand and building stone in Byumba sector to stop, saying the digging makes hillsides collapse, leaves caves and undermines roads. Residents of Nyarutarama cell said diggers strip whole sections of hills and rain then washes the loose soil away. The article says Byumba sector authorities and environmental awareness bodies would punish those caught, fill the pits and replant trees on collapsed land.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ibidukikije/ibungabunga/article/gicumbi-barasabwa-kureka-gucukura-amabuye-n-imicanga-kuko-byangiza-ibidukikije",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-038",
+      "title": "Kamonyi: Abasore bagera kuri 50 bihimbiye akazi ko gupakira umucanga",
+      "titleEn": "Kamonyi: About 50 young men create their own jobs loading sand",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josee Uwiringira",
+      "category": "News",
+      "date": "2013-01-14",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 14 January 2013 at 15:32",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi",
+        "Gasabo"
+      ],
+      "location": "Southern Province, Kamonyi District, Runda Sector, Muganza Cell, Rwamushumba roadside",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "youth employment",
+        "sand loading",
+        "savings group",
+        "Gisozi pit closures"
+      ],
+      "summary": "About 50 young men gather each morning at a roadside spot at Rwamushumba, Muganza cell, Runda sector, Kamonyi, waiting for trucks from Ruyenzi and Kigali that come to buy sand. Working in teams of five, they are paid Rwf 2000 per truck loaded and say they receive more than a hundred trucks a day; each contributes Rwf 1000 a day to a rotating savings group. Their numbers grew when loaders from the Gisozi pits in Kigali, since suspended, joined them. They also broker and load sand from Bishenyi, Nkoto and other places depending on the type needed.",
+      "hasLocalSummary": false,
+      "limitations": "Extraction sites are not described in detail; the Gisozi (Gasabo, Kigali) pit suspension is mentioned in passing. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ubukungu/ubwiteganyirize/article/Kamonyi-Abasore-bagera-kuri-50-bihimbiye-akazi-ko-gupakira-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Abasore bagera kuri 50 bazindukira ku iseta iri ku muhanda w’ahitwa Rwamushumba",
+        "bigabanyijemo amatsinda agizwe n’abantu 5",
+        "imodoka imwe bayipakirira amafaranga 2000frw kandi ku munsi bakaba bakira imodoka zirenga ijana",
+        "buri wese akaba atanga 1000frw ku munsi, yaba atakoze itsinda rye"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-039",
+      "title": "Kanyonyi: Isuri imaze gutwara hegirati 119 zihinzeho umuceri mu gishanga cy’Umukunguri",
+      "titleEn": "Kanyonyi: Erosion has destroyed 119 hectares of rice in the Mukunguri wetland",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josee Uwiringira",
+      "category": "News",
+      "date": "2013-05-08",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 8 May 2013 at 11:09",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi",
+        "Ruhango"
+      ],
+      "location": "Southern Province, Mukunguri wetland (Kamonyi and Ruhango districts)",
+      "rivers": [
+        "Mukunguri",
+        "Akabebya",
+        "Ururumanza"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "wetland",
+        "rice farming",
+        "erosion",
+        "unregulated sand extraction",
+        "cooperative control"
+      ],
+      "summary": "Rice farmers in the Mukunguri wetland, organised in the COPRORIZ cooperative, said erosion had destroyed 119 hectares of rice, a loss estimated at Rwf 160 million against an expected harvest of about 800 tonnes. They added that disorderly sand extraction from the Mukunguri stream damages its banks and diverts its course into fields. During a visit by Southern Province governor Alphonse Munyentwari with Kamonyi and Ruhango leaders, officials decided that COPRORIZ itself would take over sand extraction and use the income to repair damage. The cooperative said it had already spent about Rwf 10 million this year repairing the wetland.",
+      "hasLocalSummary": false,
+      "limitations": "Sand extraction is one of several problems covered; most losses are attributed to erosion. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ibidukikije/ibungabunga/article/kanyonyi-isuri-imaze-gutwara-hegirati-119-zihinzeho-umuceri-mu-gishanga-cy",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Kanyonyi: Isuri imaze gutwara hegirati 119 zihinzeho umuceri mu gishanga cy’Umukunguri",
+        "cyateje igihombo ku bahinzi cy’amafaranga agera kuri Miliyoni 160",
+        "umusaruro bari kuzakuramo ugera kuri toni 800",
+        "iki gishanga bamaze kugitangaho amafaranga yo kugisana agera kuri Miliyoni 10"
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-040",
+      "title": "Two killed in Kamonyi mining wrangles",
+      "titleEn": "Two killed in Kamonyi mining wrangles",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2013-05-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Monday, May 13, 2013",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Gasharara village, Kagina cell, Runda sector, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "violence",
+        "labour relations",
+        "sand trade"
+      ],
+      "summary": "The New Times reported two killings in Kamonyi District that police linked to wrangles in the mining business. One victim, Emmanuel Hitabatuma, who dealt in sand, was said to have been stoned to death by his employees in Gasharara village, Kagina cell, Runda sector; police said two people had been arrested over his death. The other victim, coltan mining company manager Major (rtd) John Sengati, was shot dead in Rukoma sector. Police spokesperson Theos Badege urged people in the sector to organise, define roles and abide by labour law.",
+      "hasLocalSummary": false,
+      "limitations": "The motive for the sand dealer's killing is not detailed; the second killing concerns a coltan company. Sand site location is not stated.",
+      "url": "https://www.newtimes.co.rw/article/92412/National/two-killed-in-kamonyi-mining-wrangles",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-041",
+      "title": "Kamonyi: Imodoka zipakira imicanga n’amabuye zirashinjwa kwangiza imihanda",
+      "titleEn": "Kamonyi: Trucks loading sand and stones accused of destroying roads",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josee Uwiringira",
+      "category": "News",
+      "date": "2013-07-09",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 9 July 2013 at 09:51",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Southern Province, Kamonyi District, Rugarika Sector",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "haulage",
+        "local taxes",
+        "road damage",
+        "construction materials"
+      ],
+      "summary": "Kamonyi residents complained that roads they repair during community work are wrecked by heavy trucks carrying sand and stones, notably from Rugarika sector. Mayor Rutsinga Jacques said the trucks destroy roads and the tax they pay is not enough to repair them. Haulers said their per-trip charges are higher than in other districts: Rwf 3000 for a pickup, Rwf 5000 for a Fuso truck and Rwf 10000 for a 10-wheel truck, and that one truck can make more than five trips a day. The mayor planned to ask truck owners to contribute to road repairs.",
+      "hasLocalSummary": false,
+      "limitations": "Covers sand and stone haulage together; extraction sites are not described. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/kamonyi-imodoka-zipakira-imicanga-n-amabuye-zirashinjwa-kwangiza-imihanda",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ikamyoneti isora 3000frws, Ikamyo yo mu bwoko bwa FUSO isora 5000frws",
+        "naho ikamyo nini yitwa “10 pineus” isora 10000frws ku ituru imwe"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-042",
+      "title": "Nyabihu: Batatu bahitanywe n’ibirombe",
+      "titleEn": "Nyabihu: Three killed by pits",
+      "publisher": "Kigali Today",
+      "authors": "Safari Viateur",
+      "category": "News",
+      "date": "2013-10-16",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 16 October 2013 at 08:46",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyabihu",
+        "Musanze"
+      ],
+      "location": "Western Province, Nyabihu District, Kintobo Sector",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "deaths",
+        "banned site",
+        "sand trade"
+      ],
+      "summary": "Mukantabana Vestine, 21, died on the morning of 15 October 2013 when a pit collapsed while she and two companions, Musabyimana, 18, and Nyiraneza Beatrice, 21, were digging sand in Kintobo sector, Nyabihu, to sell to builders in Byangabo, Musanze; one of the injured later died at Busogo health centre. All three came from Gataraga sector in Musanze. Kintobo's agronomist Senzoga Donatien said digging at the spot had been banned long ago. The same report notes a separate mineral-pit death in Rambura sector.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Headline count of three includes a mineral-pit death in Rambura sector. Nyabihu straddles the Congo-Nile divide; Kintobo is on the Mukungwa (Nile) side, tag inferred. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/nyabihu-batatu-bahitanywe-n-ibirombe",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Mukantabana Vestine w’imyaka 21, yahitanywe n’ikirombe mu gitondo cya tariki 15/10/2013",
+        "Uyu mugore yari kumwe na Musabyimana w’imyaka 18 na Nyiraneza Beatrice w’imyaka 21"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-043",
+      "title": "Gov’t urged to plug tax loopholes",
+      "titleEn": "Gov't urged to plug tax loopholes",
+      "publisher": "The New Times",
+      "authors": "James Karuhanga",
+      "category": "Context",
+      "date": "2013-11-24",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Sunday, November 24, 2013",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-national"
+      ],
+      "counties": [],
+      "location": "Rwanda (national policy; conference at Parliament, Kigali)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "taxation",
+        "informal supply",
+        "cooperatives",
+        "construction demand"
+      ],
+      "summary": "A conference on law reform at Parliament recommended that authorities register people who make, extract and trade construction materials such as sand and gravel and give them Taxpayer Identification Numbers. The Private Sector Federation said construction firms pay a 15 per cent withholding tax on materials bought from traders without TINs, and that about 40% of materials are supplied that way. RRA's domestic tax commissioner Celestin Bumbakare said the authority would work with districts to organise such suppliers into cooperatives.",
+      "hasLocalSummary": false,
+      "limitations": "National policy item; sand is one of several materials discussed and no sites are named. The 15 per cent tax is described as applying where suppliers lack TINs. English translation of the headline awaits native-language review.",
+      "url": "https://www.newtimes.co.rw/article/100610/govat-urged-to-plug-tax-loopholes",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "a hefty withholding tax of 15 per cent is charged on materials bought from traders",
+        "about 40% of the materials are supplied under such circumstances"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-044",
+      "title": "Ruhango: Umurambo w’umusore wari umaze iminsi 24 warabuze watoraguwe mu mugezi",
+      "titleEn": "Ruhango: Body of young man missing for 24 days recovered from a stream",
+      "publisher": "Kigali Today",
+      "authors": "Eric Muvara",
+      "category": "News",
+      "date": "2013-12-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 28 December 2013 at 13:54",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Ruhango"
+      ],
+      "location": "Southern Province, Ruhango District, Byimana Sector, Ntenyo Cell, Mucubi Village",
+      "rivers": [
+        "Nyiramazinga"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "death",
+        "body recovery"
+      ],
+      "summary": "The body of Habimana Berchmans, 28, was recovered on 27 December 2013 from the Nyiramazinga stream, which separates Byimana and Mbuye sectors in Ruhango, in Mucubi village, Ntenyo cell, Byimana sector. He had been missing for 24 days, nearly four weeks, after a sand-digging pit (ikigunguzi) collapsed on him. Residents found the body by the smell and flies, and his family buried him.",
+      "hasLocalSummary": false,
+      "limitations": "Very short report; location of the pit relative to the stream is not stated. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/ruhango-umurambo-w-umusore-wari-umaze-iminsi-24-warabuze-watoraguwe-mu-mugezi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ruhango: Umurambo w’umusore wari umaze iminsi 24 warabuze watoraguwe mu mugezi",
+        "Umurambo wa Habimana Berchmans w’imyaka 28 watoraguwe mu mugezi wa Nyiramazinga",
+        "Uyu murambo wabonetse tariki 27/12/2013 wari wari umaze ibyumweru hafi bine warabuze"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-045",
+      "title": "Four killed in sand mine",
+      "titleEn": "Four killed in sand mine",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2014-05-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Sunday, May 11, 2014",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile",
+        "rw-congo"
+      ],
+      "counties": [
+        "Nyabihu"
+      ],
+      "location": "Valley near a hill, Bigogwe Sector, Nyabihu District, Western Province",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents and deaths",
+        "sand pit collapse",
+        "worker safety"
+      ],
+      "summary": "The New Times reported that four people died and three were injured when a sand mine caved in on a Friday in a valley near a hill in Bigogwe Sector, Nyabihu District. The victims were among 15 people mining sand there. Western Province police commander Rwamungu Gumira said recent heavy rains possibly weakened the surrounding soil, that the workers had no protection, and urged mining companies to provide adequate protection. A survivor said a huge landslide surprised them while digging. The paper noted that three people had died in similar circumstances in Kintobo Sector of the same district early the previous year.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Nyabihu straddles the Congo-Nile divide and no river is named, so both basins are tagged. Short wire-style report; victims' ages and the site operator are not stated.",
+      "url": "https://www.newtimes.co.rw/article/106705/four-killed-in-sand-mine",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "They were part of 15 people who were mining sand in a valley near a hill"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-046",
+      "title": "How safe are our quarries, mines?",
+      "titleEn": "How safe are our quarries, mines?",
+      "publisher": "The New Times",
+      "authors": "James Karuhanga",
+      "category": "Context",
+      "date": "2014-05-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Tuesday, May 13, 2014",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-national"
+      ],
+      "counties": [
+        "Nyabihu"
+      ],
+      "location": "Bigogwe Sector, Nyabihu District; Rwanda-wide quarry regulation",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "worker safety",
+        "regulation",
+        "quarry oversight",
+        "cooperatives"
+      ],
+      "summary": "Following the deaths of four workers at a sand extraction valley site in Bigogwe Sector, Nyabihu District, The New Times examined safety in quarries. Jean Marie Vianney Faida of the Rwanda Mining Association said quarries producing sand and gravel were not under the association. Minister of State Evode Imena said small valley quarries, mostly cooperative-owned, are a district responsibility while policy sits with the ministry, and that the ministry had deployed five mine inspectors. Mining was described as the second highest foreign-exchange earner, with a government target of $407 million in mineral exports by 2017.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Follow-up to the Bigogwe collapse covered in a separate record; much of the article concerns mineral mining generally rather than sand.",
+      "url": "https://www.newtimes.co.rw/article/106788/National/how-safe-are-our-quarries-mines",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "The government targets $407 million (Rwf268.6bn) in mineral exports by 2017."
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-047",
+      "title": "Kamonyi: Ubucukuzi bw’umucanga ni kimwe mu bikorwa byinjiriza amafaranga abatari bake",
+      "titleEn": "Kamonyi: Sand mining is one of the activities that earns money for many people",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josee Uwiringira",
+      "category": "News",
+      "date": "2014-06-19",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 19 June 2014 at 15:12",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Southern Province, Kamonyi District, Rugarika Sector (Sheli Cell) and Runda Sector (Muganza Cell), at 'ku mucanga'",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "sand prices",
+        "value chain",
+        "local taxes",
+        "erosion-derived sand"
+      ],
+      "summary": "Residents near the sand pits at 'ku mucanga', on the edge of a wetland between Sheli cell (Rugarika) and Muganza cell (Runda) in Kamonyi, said each truckload of sand pays at least five people: a broker and a heaper get one thousand francs each and three loaders share three thousand. Digger Bizimana Cyprien said a Fuso truck of hill sand sells for Rwf 10 thousand and river sand for 12 thousand; a load bought for 10 thousand reaches the builder at 30 thousand after a Rwf 5000 tax and transport. Mayor Rutsinga Jacques said sand and stone extraction bring in more than 20% of district tax revenue, and the article notes that sand is getting scarcer as anti-erosion measures take effect.",
+      "hasLocalSummary": false,
+      "limitations": "Pits include hill (land) sand and water-borne sand from wetland edges and streams. Prices are as stated by one worker. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ubukungu/iterambere/article/Kamonyi-Ubucukuzi-bw-umucanga-ni-kimwe-mu-bikorwa-byinjiriza-amafaranga-abatari",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "uyu akaba abona amafaranga igihumbi ku modoka arangiye akayahabwa na nyir’ikirombe",
+        "naho abapakizi batatu bagahabwa ibihumbi bitatu",
+        "ikamyo ya Fuso yuzuye umucanga w’imusozi igura amafaranga ibihumbi 10 naho uwo mu mazi ukagura ibihumbi 12",
+        "igera ku mwubatsi ihagaze ibihumbi 30; kuko mu nzira haba hatanzwe umusoro wa 5000frw",
+        "Ubu bucukuzi kimwe n’ubw’amabuye bikaba byinjiza asaga 20% by’imisoro yinjira mu karere"
+      ],
+      "siteType": "mixed"
+    },
+    {
+      "id": "RSW-048",
+      "title": "Mayange: Umuntu umwe yapfuye ahitanwe n’ikirombe cy’umucanga",
+      "titleEn": "Mayange: One person killed by a sand pit collapse",
+      "publisher": "Kigali Today",
+      "authors": "Egide Kayiranga",
+      "category": "News",
+      "date": "2014-08-14",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 14 August 2014 at 10:01",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Bugesera"
+      ],
+      "location": "Eastern Province, Bugesera District, Mayange Sector, Kagenge Cell, Remera Village",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "death",
+        "rain",
+        "police warning"
+      ],
+      "summary": "Ntawunezuwe Jean Baptiste, 50, died when a sand pit collapsed on him in Remera village, Kagenge cell, Mayange sector, Bugesera, on the afternoon of 13 August 2014. Sector executive secretary Nkurunziza François said the soil had probably been loosened by days of rain; others in the pit were unhurt, and it was the first such accident at a pit long used for sand. Police in Bugesera urged care by people working underground; the article notes that less than a week earlier four people had died in a mineral pit in the district.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/mayange-umuntu-umwe-yapfuye-ahitanwe-n-ikirombe-cy-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Umugabo witwa Ntawunezuwe Jean Baptiste w’imyaka 50 y’amavuko yapfuye agwiriwe n’ikirombe",
+        "iyi mpanuka yabaye mu masaha y’igicamunsi cyo kuwa 13/8/2014"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-049",
+      "title": "Ruhango: Cooperu irasaba ubufatanye mu kubungabunga umugezi w’Akabebya",
+      "titleEn": "Ruhango: COOPERU seeks support to protect the Akabebya stream",
+      "publisher": "Kigali Today",
+      "authors": "Eric Muvara",
+      "category": "News",
+      "date": "2014-11-05",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 5 November 2014 at 12:05",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Ruhango"
+      ],
+      "location": "Southern Province, Ruhango District, Mbuye Sector",
+      "rivers": [
+        "Akabebya",
+        "Mukunguri"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "cooperative",
+        "licensing",
+        "riverbank protection",
+        "tree planting",
+        "employment"
+      ],
+      "summary": "The sand cooperative COOPERU planted 25 thousand trees along the Akabebya stream in Ruhango on 4 November 2014 and asked local authorities to help stop cattle grazing the planted grass. The article says three licensed cooperatives wash sand from the stream: COOPERU, SOPRORIZ and an Inkeragutabara (reservists) cooperative, and COOPERU's contract with the district obliges it to protect the area it works. Mayor Mbabazi François Xavier said protecting the stream also protects the Mukunguri rice wetland. Based in Mbuye sector, COOPERU has 13 members and employs more than 390 workers, according to the sector's executive secretary.",
+      "hasLocalSummary": false,
+      "limitations": "English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ibidukikije/ibungabunga/article/ruhango-cooperu-irasaba-ubufatanye-mu-kubungabunga-umugezi-w-akabebya",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "nyuma y’igikorwa cyo gutera ibiti ibihumbi 25 ku mugezi w’Akabebya, tariki ya 04/11/2014",
+        "igizwe n’abanyamuryango 13 igakoresha abakozi basaga 390"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-050",
+      "title": "Ruhango: Yagwiriwe n’umukingo acukura umucanga ahita yitaba Imana",
+      "titleEn": "Ruhango: Man killed by collapsing bank while digging sand",
+      "publisher": "Kigali Today",
+      "authors": "Eric Muvara",
+      "category": "News",
+      "date": "2014-11-25",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 25 November 2014 at 09:48",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Ruhango"
+      ],
+      "location": "Southern Province, Ruhango District, Mwendo Sector, Gafunzo Cell, Nyamugari Village",
+      "rivers": [
+        "Ruhondo"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "bank collapse",
+        "death",
+        "riverbank digging"
+      ],
+      "summary": "Ntakirutimana Manasseh, 22, died on 23 November 2014 in Nyamugari village, Gafunzo cell, Mwendo sector, Ruhango, when a bank collapsed on him while he was digging building sand and threw him into the water of the Ruhondo stream, according to sector executive secretary Habimana Félicien. His body was taken to Gitwe hospital. The article notes that shortly before, another person in the same sector had died in a mineral pit collapse.",
+      "hasLocalSummary": false,
+      "limitations": "Single-incident report based on one local official. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/ruhango-yagwiriwe-n-umukingo-acukura-umucanga-ahita-yitaba-imana",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ntakirutimana Manasseh w’imyaka 22 y’amavuko, yitabye Imana agwiriwe n’umukingo",
+        "Iyi mpanuka yabaye tariki ya 23/11/2014, mu Mudugudu wa Nyamugari"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-051",
+      "title": "Works on golf course suspended as REMA warns against encroachment of wetlands",
+      "titleEn": "Works on golf course suspended as REMA warns against encroachment of wetlands",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2015-08-24",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Monday, August 24, 2015",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gasabo"
+      ],
+      "location": "Nyamuko marshland bordering Kimironko and Bumbogo sectors, Gasabo District, Kigali",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "wetland protection",
+        "night extraction",
+        "water sources",
+        "enforcement"
+      ],
+      "summary": "During a REMA inspection that halted golf course works in Nyarutarama, officials also visited Nyamuko marshland on the Kimironko-Bumbogo border in Gasabo District, where heaps of sand were found dumped. A Kimironko resident told The New Times that night excavators of sand were blocking a natural water source and that another source had already been lost. REMA director-general Rose Mukankomeje warned that illegal wetland activities would be stopped and fined. The article cites rules setting a 20-metre buffer for farming and construction near marshlands and counts 867 marshlands nationally.",
+      "hasLocalSummary": false,
+      "limitations": "Sand extraction is a secondary issue in an article mainly about a golf course; the sand claims come from a resident.",
+      "url": "https://www.newtimes.co.rw/article/121901/News/works-on-golf-course-suspended-as-rema-warns-against-encroachment-of-wetlands",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "agriculture and construction activities are supposed to start from a radius of 20 metres away from a marshland",
+        "The country has a total of 867 marshlands."
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-052",
+      "title": "Ikirombe cyahitanye abantu cyafunzwe",
+      "titleEn": "Sand pit that killed people has been closed",
+      "publisher": "Kigali Today",
+      "authors": "Sylidio Sebuharara",
+      "category": "News",
+      "date": "2015-09-26",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 26 September 2015 at 12:40",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rubavu"
+      ],
+      "location": "Western Province, Rubavu District, Busasamana Sector, Rusura Cell",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "deaths",
+        "child labour",
+        "closure",
+        "volcanic sand"
+      ],
+      "summary": "Local leaders in Rusura cell, Busasamana sector, Rubavu, permanently closed a sand pit on private land after it collapsed on diggers on 23 September 2015, killing Nikuze Esther and Uwizakiza Elisa, both aged 15, and Manirakiza Theogene, 23; three others survived, one taken to hospital. Cell leader Gacamena Jean Nepo blamed parents for sending minors to work, said the pit had already been suspended but people kept digging because they were paid Rwf 500 per bag, and said guards now watch it day and night. Officials said the closure would not hurt builders because the sand is volcanic (amakoro) sand available elsewhere.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. District and date of collapse appear in the article's standfirst; basin tag inferred from district. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/ikirombe-cyahitanye-abantu-cyafunzwe",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "nyuma yo kugwamo abantu bacukuragamo tariki 23 Nzeri 2015",
+        "ni Nikuze Esther na Uwizakiza Elisa bari bafite imyaka 15 na Manirakiza Theogene wari ufite imyaka 23",
+        "abacukura umucanga bahabwa amafaranga 500 ku mufuka bigatuma barenga ku mabwiriza"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-053",
+      "title": "Ntibavuga rumwe ku ihagarikwa ry’ubucukuzi bw’umucanga",
+      "titleEn": "Disagreement over the suspension of sand mining",
+      "publisher": "Kigali Today",
+      "authors": "Marie Josée Uwiringira",
+      "category": "News",
+      "date": "2016-03-30",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 30 March 2016 at 06:55",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Southern Province, Kamonyi District, Musambira Sector (Kayumbu stream and wetland, private farmland)",
+      "rivers": [
+        "Kayumbu",
+        "Mukunguri"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "suspension",
+        "enforcement raids",
+        "riverbank collapse",
+        "farmland pits",
+        "cooperatives",
+        "permits"
+      ],
+      "summary": "In Musambira sector, Kamonyi, sand is dug on private farmland and washed from the Kayumbu stream, a tributary of the Mukunguri, and local and security officials keep raiding diggers for working haphazardly. Acting sector executive secretary Mwitiyeho Gratien said the Kayumbu wetland has been damaged by bank collapses and that farmland pits cause erosion. Residents said they did not know the rules, since investors buy sand from their fields cheaply and pay tax per truck; river sand washers argued that removing rain-deposited sand helps the water flow. The sector said there is no sand cooperative in Musambira and urged diggers to form cooperatives to obtain permits.",
+      "hasLocalSummary": false,
+      "limitations": "Mixed setting: farmland (land) pits and in-stream sand washing. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/Ntibavuga-rumwe-ku-ihagarikwa-ry-ubucukuzi-bw-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "mixed"
+    },
+    {
+      "id": "RSW-054",
+      "title": "Urizinduko rwa Perezida Kagame rwatabaye abacuruza umucanga",
+      "titleEn": "President Kagame's visit came to the rescue of sand traders",
+      "publisher": "Kigali Today",
+      "authors": "Sylidio Sebuharara",
+      "category": "News",
+      "date": "2016-04-01",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 1 April 2016 at 15:11",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rubavu"
+      ],
+      "location": "Western Province, Rubavu District, Sebeya River (exports to Goma, DR Congo)",
+      "rivers": [
+        "Sebeya"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "cross-border sand trade",
+        "export suspension",
+        "fees",
+        "REMA",
+        "livelihoods"
+      ],
+      "summary": "Sand diggers in Rubavu said sales of Sebeya River sand to Congolese trucks resumed after President Kagame, visiting the district on 25-26 March 2016, said selling sand to Congo was no problem if laws and the environment were respected; immigration authorities had halted the trade for seven months. Each sand truck crossing the border pays Rwf 10 thousand to the treasury, a truckload sells for Rwf 50 thousand at the river, and Congolese trucks must buy a USD 300 entry card valid three months. About 50 trucks carry Sebeya sand to Goma, each making four trips a day. REMA had sought to stop the exports and use sand revenue to repair erosion around the Sebeya.",
+      "hasLocalSummary": false,
+      "limitations": "The seven-month halt is the diggers' account. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ubukungu/ubucuruzi/article/Urizinduko-rwa-Perezida-Kagame-rwatabaye-abacuruza-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Perezida Kagame asura Akarere ka Rubavu kuva ku wa 25-26 Werurwe 2016",
+        "yishyura ibihumbi 10 by’amafaranga y’u Rwanda bijya mu isanduku ya Leta",
+        "ikamyo y’umucanga ikaba igurwa ibihumbi 50FRW ku bawucukura",
+        "ibanza kugura uruhushya “Carte d’Entrée” rugura amadolari 300 mu gihe cy’amezi atatu",
+        "ziwujyana i Goma zibarirwa muri 50 kandi buri modoka ikora inshuro enye ku munsi"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-055",
+      "title": "Polisi irihanangiriza abacukura imicanga bangiza ibidukikije",
+      "titleEn": "Police warn sand diggers who damage the environment",
+      "publisher": "Kigali Today",
+      "authors": "Eric Muvara",
+      "category": "News",
+      "date": "2016-05-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 28 May 2016 at 13:15",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Ruhango"
+      ],
+      "location": "Southern Province, Ruhango District, Mbuye Sector",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "cooperative",
+        "police",
+        "environmental rehabilitation",
+        "illegal digging",
+        "livelihoods"
+      ],
+      "summary": "Southern Province police commander ACP Francis Nkwaya joined a sand-digging and sand-selling cooperative in Mbuye sector, Ruhango District, on 27 May 2016 to fill pits left by sand extraction and plant grass against erosion. He told the roughly 400 members of the COPERU cooperative that anyone who digs and sells sand without protecting the environment will be punished under environmental law. Cooperative head Theoneste Bimenyimana said the cooperative works legally but outsiders dig sand and leave pits unfilled that are then blamed on it. Member Bihoyiki Kalisa said sand digging had let him build a house and pay school fees.",
+      "hasLocalSummary": false,
+      "limitations": "Extraction setting (river or land) is not stated; other Kigali Today reporting places the cooperative's work on the Akabebya stream. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/ibidukikije/ibungabunga/article/polisi-irihanangiriza-abacukura-imicanga-bangiza-ibidukikije",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "kuri uyu wa gatanu tariki 27 Gicurasi 2016",
+        "ACP Nkwaya yasabye abibumbiye muri iyi koperative COPERU bakabakaba muri 400"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-056",
+      "title": "Ntibavuga rumwe ku musoro w’ibikoresho by’ubwubatsi biva mu baturage",
+      "titleEn": "Disagreement over tax on construction materials bought from residents",
+      "publisher": "Kigali Today",
+      "authors": "Cyprien M. Ngendahimana",
+      "category": "Context",
+      "date": "2016-08-17",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 17 August 2016 at 08:23",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-national"
+      ],
+      "counties": [],
+      "location": "Rwanda (builders in Eastern Province; Rwanda Revenue Authority)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "taxation",
+        "VAT",
+        "informal sand sellers",
+        "construction demand",
+        "RRA"
+      ],
+      "summary": "Construction firms in Eastern Province said they lose money because they buy sand, laterite and timber from residents who are not VAT-registered and issue no invoices; SCGF company owner Gakway Felicien said 15% is taken on such sand and wood and cannot be recovered. Rwanda Revenue Authority deputy commissioner general Rugenintwari Pascal said owners of sand and stone pits should register so their activity is taxed, noting trucks haul sand all year from unregistered sellers, and that a builder buying from them should withhold 15% of the payment.",
+      "hasLocalSummary": false,
+      "limitations": "National tax issue raised by Eastern Province builders; no specific extraction site. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ntibavuga-rumwe-k-umusoro-w-ibikoresho-by-ubwubatsi-biva-mu-baturage",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ya micanga, bya biti dukoresha mu bwubatsi babifataho 15% ugasanga tutabona uko tuyagaruza",
+        "akwiye gufatira 15% y’amafaranga yakabaye amwishyura kugira ngo atazagongwa n’umusoro"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-057",
+      "title": "Masoro: Kugira gahunda mu mikorere bizateza imbere abaturage",
+      "titleEn": "Masoro: Organising the work will benefit residents",
+      "publisher": "Panorama",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2016-11-15",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Nov 15, 2016",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Rulindo"
+      ],
+      "location": "Kwipera, Masoro sector (Rutongo Mines zone), Rulindo District",
+      "rivers": [
+        "Rusine"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "middlemen",
+        "taxes/levies",
+        "cooperatives"
+      ],
+      "summary": "Panorama reports that at Kwipera in Masoro sector, Rulindo, stone crushers and people washing sand in the Rusine river said they had worked for years without benefit because self-styled investors captured the earnings. One said a Kigali buyer used to pay 40,000 francs for a truckload of crushed stone and resell it for 80,000, while district, Rutongo Mines, Isange cooperative and security-group levies left workers nothing. Vice mayor Prosper Mulindwa said a commission had removed the intermediaries; workers may now sell their own sand and stone, with only district and Rutongo Mines levies, savings and environmental contributions collected at the checkpoint.",
+      "hasLocalSummary": false,
+      "limitations": "The quoted price example concerns crushed stone, not sand; no sand price is given. English translation of the headline awaits native-language review.",
+      "url": "https://panorama.rw/masoro-kugira-gahunda-mu-mikorere-bizateza-imbere-abaturage",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "abahonda amabuye azwi nka (konkansi) n’abinura umucanga mu mugezi wa Rusine",
+        "akaduha amafaranga ibihumbi mirongo ine (40000) twarangiza tugahonda amabuye yuzuye ikamyo",
+        "we akayigurisha ibihumbi mirongo inani (80000)"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-058",
+      "title": "Two killed in mining accident",
+      "titleEn": "Two killed in mining accident",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2016-12-27",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Tuesday, December 27, 2016",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rubavu"
+      ],
+      "location": "Rushubi Village, Gikombe Cell, Rubavu District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents and deaths",
+        "night mining",
+        "illegal mining",
+        "enforcement"
+      ],
+      "summary": "Rwanda National Police told The New Times that two people died while mining sand at night in Rushubi Village, Gikombe Cell, Rubavu District, after they tampered with a weak cliff and triggered a landslide that buried them. In a separate incident a man was seriously injured while illegally mining cassiterite at night in Nduba Sector, Gasabo. Police environmental protection director Modeste Mbabazi said most illegal and disastrous mining happens at night on unsecured sites, that mining at night is prohibited, and urged concession owners to secure their sites.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. The Gasabo incident in the same article concerns cassiterite, not sand. Victims are not named; the exact date of the Rubavu accident is given only as last week.",
+      "url": "https://www.newtimes.co.rw/article/136613/News/two-killed-in-mining-accident",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-059",
+      "title": "Police urge miners to take extra care in rainy season",
+      "titleEn": "Police urge miners to take extra care in rainy season",
+      "publisher": "The New Times",
+      "authors": "Times Reporter",
+      "category": "News",
+      "date": "2017-09-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Friday, September 29, 2017",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Muhanga",
+        "Gasabo"
+      ],
+      "location": "Muhanga District (sand concession); Ndera Sector, Gasabo District (stone site)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents and deaths",
+        "rainy season risk",
+        "illegal mining",
+        "enforcement"
+      ],
+      "summary": "Police called on miners to take extra care in the rainy season after two fatal incidents. In Muhanga District a concession collapsed on Prosper Gatinza as he mined sand, killing him on the spot; in Ndera Sector, Gasabo, a 19-year-old died under a landslide while excavating stones. Central Region police spokesperson Emmanuel Hitayezu said rain weakens the soil, urged inspection of sites before mining and no mining during heavy rain, and said no one may mine without a licence or protective gear. Police also asked concession owners to guard sites around the clock.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Only the Muhanga death involved sand; the exact location of the Muhanga concession is not given.",
+      "url": "https://www.newtimes.co.rw/article/144662/News/police-urge-miners-to-take-extra-care-in-rainy-season",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "In Ndera Sector, Gasabo District, Innocent Bisengo, 19, died after being buried by a landslide"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-060",
+      "title": "Kamonyi: Rwiyemezamirimo yangije Umuhanda n’amazi by’Abaturage, baratabaza ubuyobozi",
+      "titleEn": "Kamonyi: Contractor damaged residents' road and water supply; they appeal to authorities",
+      "publisher": "Intyoza",
+      "authors": "Munyaneza Theogene",
+      "category": "News",
+      "date": "2018-04-25",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: April 25, 2018",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Sheri cell (Mugomero trading centre), Rugarika sector, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "infrastructure damage",
+        "enforcement",
+        "fines",
+        "unlicensed pits",
+        "site rehabilitation"
+      ],
+      "summary": "Residents of Sheri cell, Rugarika sector, Kamonyi, said Happy Place Company Ltd dug sand pits so close to a road that it collapsed and water pipes supplying homes broke, and that a pit had been left unrestored for nearly five months. Rwanda Mines, Petroleum and Gas Board head Francis Gatare questioned why local leaders had not acted. Mayor Alice Kayitesi said the firm was suspended, ordered to repair the damage and mark its boundaries, and fined 200 thousand francs for digging too close to the paved road. Intyoza adds that a meeting of the mining board with Kamonyi miners identified more than 100 pits operating without permits.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. The figure of more than 100 unlicensed pits covers sand and stone pits across Kamonyi and is reported second-hand. An earlier Intyoza article (12 April 2018) covers the same site. English translation of the headline awaits native-language review.",
+      "url": "https://intyoza.com/2018/04/25/kamonyi-rwiyemezamirimo-yangije-umuhanda-namazi-byabaturage-baratabaza-ubuyobozi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "ahacukuwe umucanga hagiye kumara amezi hafi atanu hadakorerwamo kandi ibikorwa remezo byangirika",
+        "harimo n’amande y’ibihumbi 200 yaciwe kubera ko byagaragaye ko yasatiriye cyane inkengero z’umuhanda wa Kaburimbo",
+        "hagaragajwe ibirombe bisaga 100 bicukurwa bitagira ibyangombwa"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-061",
+      "title": "Abangiza ibishanga baburiwe k'umunsi w’umuganda",
+      "titleEn": "Those damaging wetlands warned on community work day",
+      "publisher": "Umuringa News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2018-08-25",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: August 25, 2018",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gasabo"
+      ],
+      "location": "Nyacyonga wetland, Nduba sector, Gasabo District (Kigali)",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "wetlands",
+        "licensing",
+        "site rehabilitation",
+        "cooperatives"
+      ],
+      "summary": "Umuringa News reports that the monthly community work (umuganda) in Nduba sector, Gasabo, was devoted to filling pits in the Nyacyonga wetland. Environment Minister Vincent Biruta said digging sand or clay in wetlands requires a permit and an obligation to restore the site, and that the pits were being filled because people dig illegally without restoring them. The rehabilitated part of Nyacyonga covers about 10 hectares; a cooperative that held a sand-mining permit there had lost it. The article says Rwanda has 415 wetlands covering 10% of the country.",
+      "hasLocalSummary": false,
+      "limitations": "Why the cooperative lost its permit is not stated. English translation of the headline awaits native-language review.",
+      "url": "https://umuringanews.com/abangiza-ibishanga-baburiwe-kumunsi-wumuganda",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Gucukura umucanga n’ibumba mu gishanga bisabirwa uruhushya, ubishaka agasabwa kuzasubiranya aho agiye gucukura",
+        "Igice cy’iki gishanga cya Nyacyonga cyatunganyijwe ni icyo mu murenge wa Nduba gifite hegitare zigera ku 10",
+        "Cyakoreragamo koperative yari ifite icyangombwa cyo gucukura umucanga, ariko iza kuhamburwa",
+        "Mu Rwanda habarurwa ibishanga 415, bingana 10 % by’ubuso bw’igihugu"
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-062",
+      "title": "Nkubi site, a hidden historical gem in Ruhango District",
+      "titleEn": "Nkubi site, a hidden historical gem in Ruhango District",
+      "publisher": "The New Times",
+      "authors": "Moses Opobo",
+      "category": "Context",
+      "date": "2019-08-17",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Saturday, August 17, 2019",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Ruhango"
+      ],
+      "location": "Nkubi site, a rocky waterway and gorge in Bweramana sector, Ruhango District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "cultural heritage",
+        "unregulated extraction",
+        "environmental damage"
+      ],
+      "summary": "A New Times feature on Nkubi, an ungazetted cultural site in Bweramana sector, Ruhango District, reported that local resident Vedaste Habimana had alerted the Institute of National Museums of Rwanda to environmental degradation of the site caused by unregulated sand and stone mining. Habimana said museum officials visited in 2016 and promised to fast-track its development as a heritage site, and that he had also written to the Rwanda Academy of Language and Culture and the police. He said he wanted authorities to stop the unregulated sand and stone mining before the site is developed.",
+      "hasLocalSummary": false,
+      "limitations": "Lifestyle feature; the scale, operators and exact location of the sand mining are not described, and the claims come from a local campaigner.",
+      "url": "https://www.newtimes.co.rw/article/168729/Lifestyle/nkubi-site-a-hidden-historical-gem-in-ruhango-district",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "In 2016, Habimana took the initiative to try and establish if this historical place"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-063",
+      "title": "Kamonyi: Iyangizwa ry’ibidukikije mu bucukuzi bw’imicanga riravugwamo ukuboko kutabonwa kw’abayobozi",
+      "titleEn": "Kamonyi: Environmental damage from sand mining said to involve the hidden hand of officials",
+      "publisher": "Intyoza",
+      "authors": "Munyaneza Theogene",
+      "category": "News",
+      "date": "2019-11-27",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: November 27, 2019",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Karehe village, Sheri cell, Rugalika sector, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "illegal mining",
+        "environmental damage",
+        "governance/corruption",
+        "enforcement"
+      ],
+      "summary": "Intyoza reports that residents of Karehe village in Sheri cell, Rugalika sector (Kamonyi District) complained that people digging sand there for construction work without permits and ignore mining and environmental rules. Residents alleged that some officials covertly back the diggers and that their complaints to local authorities went unanswered. The Sheri cell executive secretary told the outlet the problem was known, that attempts to stop the diggers had failed and that it had been reported repeatedly. Kamonyi mayor Alice Kayitesi said she had not known of it but would follow up, have staff check whether the diggers hold permits, and stop the activity.",
+      "hasLocalSummary": false,
+      "limitations": "The page carries a reader comment making allegations against a named district official; it is not part of the article and was not used. The article does not say whether the site is a riverbed or a hillside pit. English translation of the headline awaits native-language review.",
+      "url": "https://intyoza.com/2019/11/27/kamonyi-iyangizwa-ryibidukikije-mu-bucukuzi-bwimicanga-riravugwamo-ukuboko-kutabonwa-kwabayobozi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Abacukura umucanga mu Mudugudu wa Karehe, Akagari ka Sheri ho mu Murenge wa Rugalika barangiza ibidukikije",
+        "Reka natwe tubikurikirane tubihagarike. Ndasaba abakozi bazajyeyo banamenye niba bacukura bafite ibyangombwa"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-064",
+      "title": "Farmers relocated from 76ha city wetland",
+      "titleEn": "Farmers relocated from 76ha city wetland",
+      "publisher": "The New Times",
+      "authors": "Michel Nkurunziza",
+      "category": "News",
+      "date": "2020-02-19",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Wednesday, February 19, 2020",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gasabo"
+      ],
+      "location": "'Kwa Nyagahene' wetland linking Kacyiru, Kimihurura and Remera sectors, Gasabo District, Kigali",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "wetland protection",
+        "bans and suspensions",
+        "evictions"
+      ],
+      "summary": "Farmers in a 76-hectare wetland linking Kacyiru, Kimihurura and Remera sectors in Gasabo District were ordered to stop cultivating within a week, and Gasabo governance director Jonas Shema said sand excavation in the wetland had also been suspended, saying both were destroying the environment and biodiversity. The area is earmarked for a recreational park. City officials said on 31 January 2020 they had relocated 5,632 of 6,364 activities from wetlands, and a ministry specialist said Kigali's wetland area had shrunk from 100 to 77 square kilometres.",
+      "hasLocalSummary": false,
+      "limitations": "Sand excavation is a secondary topic; the scale of sand extraction is not quantified.",
+      "url": "https://www.newtimes.co.rw/article/174152/News/farmers-relocated-from-76ha-city-wetland",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "a 76-hectare wetland connecting the sectors of Kacyiru, Kimihurura and Remera in Gasabo district",
+        "they have relocated 5,632 activities out of 6,364 that were in wetlands",
+        "On 31st January 2020, when Rwanda was celebrating wetlands Day",
+        "has decreased from 100 Square Kilometers to 77 square kilometres"
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-065",
+      "title": "Western Province: 14 Employees of Rutsiro District, Contractors Arrested in Tender Scam",
+      "titleEn": "Western Province: 14 Employees of Rutsiro District, Contractors Arrested in Tender Scam",
+      "publisher": "KT Press",
+      "authors": "Edmund Kagire",
+      "category": "News",
+      "date": "2020-08-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: August 11, 2020",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo",
+        "rw-nile"
+      ],
+      "counties": [
+        "Rutsiro"
+      ],
+      "location": "Rutsiro District, Western Province",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "corruption",
+        "procurement",
+        "sand supply"
+      ],
+      "summary": "KT Press reported that the Rwanda Investigation Bureau was holding 14 Rutsiro District employees and two businessmen over a Rwf130.5 million tender awarded to DECOCO Ltd to supply sand and stones for Vision Umurenge Programme roads. RIB spokesperson Thierry Murangira said a district inspection found the contractor had been paid in full before delivering the materials and that delivery notes were forged. Suspects faced charges under the public procurement law and for forgery.",
+      "hasLocalSummary": false,
+      "limitations": "About procurement fraud over sand and stone supply, not extraction; sources of the sand are not stated. The article gives both 6 and 11 sectors for the roads. Rutsiro straddles the Congo-Nile divide, so both basins are tagged.",
+      "url": "https://www.ktpress.rw/2020/08/western-province-14-employees-of-rutsiro-district-contractors-arrested-in-tender-scam",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Rwanda Investigation Bureau (RIB) is holding 14 employees of the Western Province district of Rutsiro",
+        "Rutsiro district awarded a tender worth Rwf130.500.000 to the company to supply sand and stones"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-066",
+      "title": "Burera: Abantu batatu bagwiriwe n'ikirombe bacukuragamo umucanga",
+      "titleEn": "Burera: Three people buried by a pit they were digging sand from",
+      "publisher": "Kigali Today",
+      "authors": "Ishimwe Rugira Gisele",
+      "category": "News",
+      "date": "2020-12-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 28 December 2020 at 13:08",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Burera"
+      ],
+      "location": "Northern Province, Burera District, Kivuye Sector, Murwa Cell",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "deaths",
+        "illegal digging",
+        "church construction",
+        "permits"
+      ],
+      "summary": "Three men digging sand at a new, unlicensed pit in Murwa cell, Kivuye sector, Burera were buried when it collapsed on a Sunday morning; one died and two were injured, treated at Butaro hospital and Rusasa health centre. Burera mayor Uwanyirigira Marie Chantal said the men had no permit and were digging sand for a nearby Adventist church, and that the district had tightened monitoring of sand and stone sources because many classrooms were being built. She urged people to apply for extraction permits, which are issued after an inspection of the site.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Sector and cell are named only in the article's standfirst. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/imbere-mu-gihugu/article/burera-abantu-batatu-bagwiriwe-n-ikirombe-bacukuragamo-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-067",
+      "title": "Musanze: Basanze umurambo w’umugabo mu kirombe gicukurwamo umucanga",
+      "titleEn": "Musanze: Man's body found in a sand pit",
+      "publisher": "Kigali Today",
+      "authors": "Ishimwe Rugira Gisele",
+      "category": "News",
+      "date": "2021-04-06",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 6 April 2021 at 14:16",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Musanze"
+      ],
+      "location": "Northern Province, Musanze District, Cyuve Sector, Migeshi Cell, Bazizana Village",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit accident",
+        "death",
+        "pit safety",
+        "fencing order"
+      ],
+      "summary": "The body of Ndahayo Abraham, a 54-year-old mason, was found on the morning of 6 April 2021 in a sand pit in Bazizana village, Migeshi cell, Cyuve sector, Musanze. Sector executive secretary Bisengimana Janvier said he probably slipped from a footpath above the pit in the dark while pushing his bicycle and fell about 18 metres. Workers who arrived early to load a truck with sand found the body. Officials said no similar accident had happened there before and ordered the pit owner to fence it.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Cause of death is the official's presumption. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/musanze-basanze-umurambo-w-umugabo-mu-kirombe-gicukurwamo-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "tariki 6 Mata 2021, ni bwo umurambo w’uwo mugabo w’imyaka 54 wagaragaye",
+        "mu bujyakuzimu bureshya na metero 18 muri icyo kirombe"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-068",
+      "title": "Burera: Abana barasaba ko gukoresha imirimo mibi bagenzi babo byahagarara",
+      "titleEn": "Burera: Children ask that the use of their peers in harmful work be stopped",
+      "publisher": "Kigali Today",
+      "authors": "Servilien Mutuyimana",
+      "category": "News",
+      "date": "2021-05-01",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 1 May 2021 at 11:30",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Burera"
+      ],
+      "location": "Northern Province, Burera District, Rugarama Sector (meeting); Rugarama, Gahunga and Cyanika sectors",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "child labour",
+        "sand carrying",
+        "school dropout"
+      ],
+      "summary": "At a meeting convened by the NGO Children's Voice Today at Rugarama sector offices in Burera on 29 April 2021, children's representatives from five sectors listed harmful work done by children, including carrying sand and bricks and working in pits, which they said drives school dropout. One participant said that in Rugarama, Gahunga and Cyanika sectors children are hired for low pay to carry stones and sand to building sites that trucks cannot reach, while Kinoni has brick pits. Poverty and parents' attitudes were cited as causes.",
+      "hasLocalSummary": false,
+      "limitations": "About carrying sand rather than extraction; extraction sites are not described. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/burera-abana-barasaba-ko-gukoresha-imirimo-mibi-bagenzi-babo-byahagarara",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "mu Karere ka Burera ku wa Kane tariki 29 Mata 2021"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-069",
+      "title": "Kamonyi-Runda: Basaba ubuyobozi kubafasha abangiza imihanda bitwaje imicanga",
+      "titleEn": "Kamonyi-Runda: Residents ask authorities for help against those damaging roads in the name of sand",
+      "publisher": "Intyoza",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2022-03-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: March 13, 2022",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Muganza cell (Rwamushumba area), Runda sector, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "infrastructure damage",
+        "licensing",
+        "sand transport"
+      ],
+      "summary": "Residents of Muganza cell around Rwamushumba in Runda sector, Kamonyi District, told Intyoza that licensed sand diggers pile the sand they extract on a residents' road, where heavy trucks come to load it, damaging the road. An earlier haulage route skirting a wetland was abandoned after the trucks ruined it. Residents said permits are issued without suitable loading sites and blamed sand trucks for damage to bridges in the district. Vice mayor for economic development Uzziel Niyongira, who visited the site, acknowledged the problem and said the district would talk with the sand diggers, check their permits and find an alternative route.",
+      "hasLocalSummary": false,
+      "limitations": "The extraction site itself is not precisely described; the article says the sand appears after rain and mainly concerns haulage and storage impacts. English translation of the headline awaits native-language review.",
+      "url": "https://intyoza.com/2022/03/13/kamonyi-runda-basaba-ubuyobozi-kubafasha-abangiza-imihanda-bitwaje-imicanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "imodoka nini ziza gutunda imicanga zizanywe n’abayicukura bayishyira mu muhanda udakwiranye",
+        "bagiye kureba uko baganira n’abacukura uyu mucanga, banarebe niba bafite ibyangombwa"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-070",
+      "title": "Gicumbi: Ikirombe cyagwiriye umusore ahita apfa",
+      "titleEn": "Gicumbi: Pit collapses on a young man, killing him",
+      "publisher": "Igicumbi News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2022-03-27",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2022-03-27T12:18:27+00:00",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gicumbi"
+      ],
+      "location": "Rutobo village, Nyamiyaga cell, Kageyo sector, Gicumbi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "enforcement"
+      ],
+      "summary": "Igicumbi News reports that on Wednesday 16 March 2022, in the evening, a pit collapsed on Evode Murwanashyaka, 29, of Rutobo village, Nyamiyaga cell, Kageyo sector, Gicumbi, while he was digging sand, killing him. Kageyo sector executive secretary Jean Marie Vianney Gahano Rubera confirmed it, saying it was a deep pit, that authorities had tried to stop residents digging sand in pits and had fenced this one, but people tore the fence down. He urged people to heed safety advice.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Published 11 days after the event. English translation of the headline awaits native-language review.",
+      "url": "https://www.igicumbinews.co.rw/gicumbi-ikirombe-cyagwiriye-umusore-ahita-apfa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Kuri uyu wa Gatatu tariki ya 16 werurwe 2022, mu amasaha ya ni mugoroba",
+        "umusore witwaga Murwanashyaka Evode w’imyaka 29 wari utuye mu Mudugudu wa Rutobo",
+        "icyo cyo twagishyizeho uruzitiro bararusenya"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-071",
+      "title": "Rutsiro: Abacukuza umucanga bamaze amezi 3 bahagaritswe bijejwe gukomorerwa",
+      "titleEn": "Rutsiro: Sand miners suspended for 3 months promised their permits will be restored",
+      "publisher": "Imvaho Nshya",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-01-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 11 Mutarama 2023 Saa 17:23",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo",
+        "rw-nile"
+      ],
+      "counties": [
+        "Rutsiro"
+      ],
+      "location": "Bihongora river, Nyabirasi sector, Rutsiro District",
+      "rivers": [
+        "Bihongora"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "licensing",
+        "suspension",
+        "livelihoods",
+        "boundary disputes",
+        "cooperatives"
+      ],
+      "summary": "Imvaho Nshya reports that sand miners on the Bihongora river in Nyabirasi sector, Rutsiro, had been suspended since October 2022 while authorities reviewed the sector. Mayor Triphose Murekatete said miners had worked chaotically, some without valid permits, with disputes over sites, and that they were given three months to meet requirements or lose their sites to others. More than 30 companies and cooperatives mine the river, and boundary encroachment had caused conflicts. One miner said four months without work had left operators unable to repay bank loans, children out of school and casual workers distressed.",
+      "hasLocalSummary": false,
+      "limitations": "Rutsiro straddles the Congo–Nile divide and the article does not say where the Bihongora drains, so both basin tags are applied. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/rutsiro-abacukuza-umucanga-bamaze-amezi-3-bahagaritswe-bijejwe-gukomorerwa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Aba bacukuzi b’umucanga bahagarikiwe ibikorwa byabo guhera mu kwezi k’Ukwakira 2022",
+        "bahawe amezi atatu gusa yo kuba bamaze kuzuza ibisabwa ubundi bagahabwa ibyangombwa",
+        "Mu mugezi wa Bihongora hari ibigo n’amakoperative arenga 30 acukura",
+        "kumara amezi ane yose udakora ni menshi"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-072",
+      "title": "Amabanga yamenetse! Njyanama y’Akarere ka Rutsiro ntiyajyaga imbizi na Guverineri Habitegeko",
+      "titleEn": "Secrets revealed! Rutsiro District Council was at odds with Governor Habitegeko",
+      "publisher": "UMUSEKE",
+      "authors": "Tuyishimire Raymond",
+      "category": "News",
+      "date": "2023-06-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: June 29, 2023",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rutsiro"
+      ],
+      "location": "KOKO I and KOKO II sites, Musasa and Gihango sectors, Rutsiro District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "licensing",
+        "governance/corruption",
+        "sand trade"
+      ],
+      "summary": "UMUSEKE reports that Rutsiro's district council, dissolved on 28 June for failing its duties, had been in conflict with Western Province governor François Habitegeko over a sand permit. Quarring Company Ltd applied on 12 October 2021 to wash and sell sand at the KOKO I and KOKO II sites in Musasa and Gihango sectors. The district refused it on 21 April 2022; the council upheld the firm's appeal on 4 November 2022, the governor rejected that decision on 21 November 2022, and the council reaffirmed it in December. The mining board found the firm compliant. A source told UMUSEKE that sand washed down Rutsiro's hills is valuable in the DR Congo, attracting powerful interests.",
+      "hasLocalSummary": false,
+      "limitations": "Relies on documents and an anonymous source; the governor did not answer calls. The link between the permit dispute and the council's dissolution is UMUSEKE's reporting, not an official statement. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/impamvu-muzi-yiseswa-rya-njyanama-yakarere-ka-rutsiro",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ku mugoroba wo ku wa Gatatu tariki ya 28 Kamena nibwo inama njyanama y’Akarere ka Rutsiro yaseshwe",
+        "Icyifuzo cye ku wa 12 Ukwakira, 2021 yakigejeje ku nama njyanama y’Akarere",
+        "Ku wa 21 Mata 2022, umuyobozi w’Akarere ka Rutsiro yandikiye umuyobozi wa Quarring company Ltd",
+        "ku wa 4 Ugushyingo 2022, inama njyanama y’Akarere yongeye gusuzuma ubujurire bw’iyi company",
+        "ku wa 21 Ugushyingo 2022, yanze kwemeza uwo mwanzuro urenganura Quarring Company Ltd",
+        "Uwo mucanga rero ni imari ikomeye muri Repubulika Iharanira Demorasi ya Congo."
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-073",
+      "title": "Rwamucyo yagarutse ku buryo yimwe “uburenganzira bwo gucukura kariyeri”",
+      "titleEn": "Rwamucyo recounts how he was denied “the right to operate a quarry”",
+      "publisher": "UMUSEKE",
+      "authors": "Tuyishimire Raymond",
+      "category": "News",
+      "date": "2023-07-05",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: July 5, 2023",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rutsiro"
+      ],
+      "location": "KOKO I and KOKO II sites, Musasa and Gihango sectors, Rutsiro District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "licensing",
+        "governance/corruption",
+        "court case",
+        "sand washing"
+      ],
+      "summary": "Juvenal Rwamucyo of Quarrying Company Ltd told UMUSEKE that former Rutsiro mayor Triphose Murekatete and Western Province governor François Habitegeko blocked his permit for small quarries where sand is washed at the KOKO I and KOKO II sites in Musasa and Gihango sectors, although the district council backed him three times and a mining-board technical team found him compliant. He said he sued, and on 27 June 2023 the Karongi intermediate court ruled in his favour, and that he paid nine hundred thousand francs to the FONERWA environmental fund, yet the district later ordered him to put the sand back. A 23 May 2023 letter from the local government minister asked the governor to explain; the governor did not respond to UMUSEKE.",
+      "hasLocalSummary": false,
+      "limitations": "Mainly the investor's account; the governor did not comment. The article names sites KOKO I and II but does not state that they are on the Koko river. Same dispute as the 29 June 2023 UMUSEKE record; this one adds the court ruling and payment. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/rwamucyo-arikoma-guverineri-habitegeko-umwimisha-uburenganzira-bwo-gucukura-kariyeri",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Izo kariyeri zinurwamo umucanga ziri muri site ya KOKO I, na KOKO II",
+        "mu nshuro eshatu zose yagejeje icyifuzo cye ku nama Njyanama y’akarere ka Rutsiro",
+        "Rwamucyo avuga ko ku wa 27 Kamena 2023, yaregeye Urukiko rwisumbuye rwa Karongi",
+        "ntanga n’amafaranga 900.000frw byo gusana ibidukikije. Amafaranga ajya mu kigega cya FONERWA",
+        "Mu ibaruwa UMUSEKE wabonye yo ku wa 23 Gicurasi 2023"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-074",
+      "title": "Gicumbi: Umugabo yagwiriwe n'ikirombe ahita apfa",
+      "titleEn": "Gicumbi: Man killed when a pit collapses on him",
+      "publisher": "Igicumbi News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-07-26",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2023-07-26T14:12:56+00:00",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gicumbi"
+      ],
+      "location": "Rwamuhuba village, Nyarutarama cell (below the stadium), Byumba sector, Gicumbi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "illegal mining",
+        "closed pits"
+      ],
+      "summary": "Igicumbi News reports that on 25 July 2023, shortly after eleven in the morning, three men from Rwamuhuba village, Nyarutarama cell, Byumba sector, Gicumbi, went to dig sand illegally in a pit that had been closed, and a collapse killed Habarurema, 32. Ndacyayisenga, 45, and Regis Habimana, 25, escaped. Byumba sector executive secretary Théoneste Ngezahumuremyi said sand had long been dug below the stadium, urged people to avoid illegal digging, which causes erosion and damages infrastructure, and to form groups and obtain permits.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. English translation of the headline awaits native-language review.",
+      "url": "https://www.igicumbinews.co.rw/gicumbi-umugabo-yagwiriwe-nigitengu-ahita-apfa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ahagana Saa tanu n’iminota itanu zo kuri uyu wa wa 25 Nyakanga 2023",
+        "Habarurema w’imyaka 32 niwe wahise apfa",
+        "Ndacyayisenga Alias Tenis w’imyaka 45 na Habimana Regis w’imyaka 25 nibo barokotse",
+        "Hari hasanzwe hacukurwa umucanga mu Kagari ka Nyarutarama munsi ya sitade"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-075",
+      "title": "Gicumbi: Batatu bagwiriwe n’ikirombe umwe ahita apfa",
+      "titleEn": "Gicumbi: Three buried by a pit collapse, one dies",
+      "publisher": "Kigali Today",
+      "authors": "Servilien Mutuyimana",
+      "category": "News",
+      "date": "2023-07-26",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 26 July 2023 at 13:40",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gicumbi"
+      ],
+      "location": "Northern Province, Gicumbi District, Byumba Sector",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "death",
+        "closed site",
+        "illegal digging"
+      ],
+      "summary": "Three men digging sand in a pit in Byumba sector, Gicumbi, that authorities had closed as dangerous were buried when it collapsed on 25 July 2023; Habarurema, 32, died and the other two escaped. Sector executive secretary Ngezahumuremyi Théonèste said the men sneaked in late in the morning, thinking officials were not nearby, and the dry soil gave way. He urged residents to avoid illegal mining and to form groups and apply for permits, saying licensed miners have basic protective equipment.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/gicumbi-batatu-bagwiriwe-n-ikirombe-umwe-ahita-apfa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Abagabo batatu bagwiriwe n’ikirombe bacukura umucanga, kuri uyu wa Kabiri tariki 25 Nyakanga 2023",
+        "umwe muri abo witwa Habarurema w’imyaka 32"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-076",
+      "title": "Rubavu: Babaye bahagaritse gucukura umucanga ahari irimbi",
+      "titleEn": "Rubavu: Sand digging suspended for now at a site that was a cemetery",
+      "publisher": "Kigali Today",
+      "authors": "Sylidio Sebuharara",
+      "category": "News",
+      "date": "2023-09-04",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 4 September 2023 at 13:23",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Rubavu"
+      ],
+      "location": "Western Province, Rubavu District, Nyakiriba Sector, Gikombe Cell, Nyabibuye Village",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "cemetery disturbance",
+        "suspension",
+        "private contractor",
+        "land pit",
+        "community grievance"
+      ],
+      "summary": "Residents of Nyabibuye village (Gikombe cell, Nyakiriba sector, Rubavu) complained that machines of a contractor digging sand on a hill, sand that is taken to factories, were exposing remains buried in the old Nyabibuye cemetery. Acting district mayor Nzabonimpa Dogratias told Kigali Today the cemetery was established in 1978 and closed in 2000, though some families kept burying there afterwards, and that the district suspended sand digging at the site until it establishes when the last burials took place. The article cites the 2013 cemetery law, which requires 10 years before an ordinary grave is reused and 20 years for special graves.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Contractor not named; basin tag inferred from district (Lake Kivu side). English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/rubavu-babaye-bahagaritse-gucukura-umucanga-ahari-irimbi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "hashyizwe irimbi mu mwaka 1978 kugera mu 2000 rirafungwa",
+        "Itegeko rigena imitunganyirize n’imikoreshereze y’amarimbi mu Rwanda ryasohotse tariki 11/03/2013",
+        "bitegereza imyaka icumi (10), naho mu mva zidasanzwe bitegereza imyaka makumyabiri (20)"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-077",
+      "title": "Musanze: Abaturage baratabaza kuko abacukura ibumba babasiga mu manegeka",
+      "titleEn": "Musanze: Residents cry for help as clay diggers leave them in high-risk zones",
+      "publisher": "Imvaho Nshya",
+      "authors": "Ngaboyabahizi Protais",
+      "category": "News",
+      "date": "2023-11-09",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 9 Ugushyingo 2023 Saa 12:43",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Musanze"
+      ],
+      "location": "Cyabagarura cell, Musanze sector, and other sectors of Musanze District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "environmental damage",
+        "site rehabilitation",
+        "dust",
+        "housing risk"
+      ],
+      "summary": "Imvaho Nshya reports that residents of several Musanze sectors say contractors extracting clay, lime and sand leave steep, unfilled pits that put homes at risk. In Cyabagarura cell, Musanze sector, a resident living beside a dry-season sand pit said dust enters houses and the digging encroaches on homes, and asked that such sites be away from settlements and rehabilitated. District forestry and natural resources officer Protais Musoni said operators must fill pits and plant trees and that a team would inspect violators. The article says around 70 companies extract clay, sand, building stone and plaster soil in Musanze.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. The article covers clay, lime and sand together; the figure of about 70 companies covers all these materials, not sand alone. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/musanze-abaturage-baratabaza-kubera-abacukura-ibumba-numucanga-babasiga-mu-manegeka",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Umwe mu baturage bo mu Murenge wa Musanze, Akagari ka Cyabagarura, ahacukurwa umucanga",
+        "habarurwa amakompanyi agera kuri 70"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-078",
+      "title": "Nyamagabe: Akaga katurutse ku bikorwa bya sosiyete y’Abashinwa kari kubateza amapfa",
+      "titleEn": "Nyamagabe: Damage from a Chinese company's works threatens famine",
+      "publisher": "RADIOTV10",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2023-11-17",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: November 17, 2023",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile",
+        "rw-congo"
+      ],
+      "counties": [
+        "Nyamagabe"
+      ],
+      "location": "Cyanika sector, Nyamagabe District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "environmental damage",
+        "erosion",
+        "road construction",
+        "farmland damage"
+      ],
+      "summary": "The broadcaster reports that farmers in Cyanika sector, Nyamagabe, whose fields lie next to sites where a Chinese company extracts stone and sand for road construction, say the steep excavations send runoff into their fields, washing away crops and burying valley plots in sand, and fear hunger. They asked that drainage channels be dug and said storm drains near homes threaten houses. Nyamagabe mayor Hildebrand Niyomwungeri said heavy rain had blocked the drains and overflowed them, and that the district would clear them and dig new channels.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. The company is not named and the sites also produce stone. Nyamagabe straddles the Congo–Nile divide and no river is named, so both basin tags are applied. English translation of the headline awaits native-language review.",
+      "url": "https://radiotv10.rw/nyamagabe-akaga-katurutse-ku-bikorwa-bya-sosiyete-yabashinwa-kari-kubateza-amapfa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "bafite imirima yegereye ahacukurwa amabuye n’umucanga byo gukora imihanda mu bikorwa bya sosiyete y’Abashinwa",
+        "ugasanga nk’uwahinze mu kabande imyaka yose yarenzweho n’imicanga"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-079",
+      "title": "Kampani zicukura umucanga mu migezi ya Nyamutera na Giciye zasabwe guhagarara",
+      "titleEn": "Companies mining sand in the Nyamutera and Giciye rivers told to stop",
+      "publisher": "Imvaho Nshya",
+      "authors": "Nyiraneza Judith",
+      "category": "News",
+      "date": "2023-12-02",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 2 Ukuboza 2023 Saa 23:44",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyabihu",
+        "Ngororero"
+      ],
+      "location": "Nyamutera and Giciye rivers (Nyabihu); Rubagabaga and Satinsyi bridges (Ngororero)",
+      "rivers": [
+        "Nyamutera",
+        "Giciye",
+        "Rubagabaga",
+        "Satinsyi"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "suspension",
+        "sedimentation",
+        "infrastructure",
+        "extraction depth limits"
+      ],
+      "summary": "Imvaho Nshya reports that Infrastructure Minister Jimmy Gasore, with officials from the transport agency RTDA and the Rwanda Water Resources Board, visited Ngororero on Friday 1 December 2023 to see how sand filling the Rubagabaga and Satinsyi bridges could be removed, since rainy-season sand loads threaten the bridges and cause flooding. They decided that companies mining sand in the Nyamutera and Giciye rivers in Nyabihu District must stop, because they had reached the maximum depth allowed, and move to the Rubagabaga river, with extraction to follow environmental rules.",
+      "hasLocalSummary": false,
+      "limitations": "Nyabihu and Ngororero are divide districts; the named rivers drain to the Nyabarongo, so the record is tagged rw-nile. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/kampani-zicukura-umucanga-mu-migezi-ya-nyamutera-na-giciye-zasabwe-guhagarara",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "yasuye Akarere ka Ngororero ku wa Gatanu tariki ya 1 Ukuboza 2023",
+        "kuko bamaze kugera ku bujyakuzimu batagomba kurenga, bakimukira ku mugezi wa Rubagabaga"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-080",
+      "title": "Nyabihu: Abinuraga umucanga mu mugezi wa Giciye barataka kubura akazi",
+      "titleEn": "Nyabihu: Those who washed sand in the Giciye river lament losing their jobs",
+      "publisher": "Imvaho Nshya",
+      "authors": "Ngaboyabahizi Protais",
+      "category": "News",
+      "date": "2023-12-27",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 27 Ukuboza 2023 Saa 12:33",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyabihu"
+      ],
+      "location": "Giciye river, Rugera and Shyira sectors, Nyabihu District",
+      "rivers": [
+        "Giciye",
+        "Nyamutera",
+        "Rubagabaga"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "suspension",
+        "wages",
+        "youth employment",
+        "sedimentation"
+      ],
+      "summary": "Young sand washers on the Giciye river in Rugera sector, Nyabihu, told Imvaho Nshya they had been jobless since sand washing in the Giciye and Nyamutera was halted a month earlier and they were redirected to clear sand from the Rubagabaga bridge. A woman who carried sand said more than 1000 people had worked there. Mayor Antoinette Mukandayisenga said the halt aimed to save the silted Rubagabaga bridge and that workers would return after clearing it, warning against theft. Workers said Rubagabaga is 7 kilometres away and transport consumes their pay of 1500 francs a day.",
+      "hasLocalSummary": false,
+      "limitations": "Follow-up to the same decision as the 2 December 2023 Imvaho Nshya record; this one adds worker numbers and wages. The figure of over 1000 workers is a worker's estimate. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/nyabihu-abinuraga-umucanga-mu-mugezi-wa-giciye-barataka-kubura-akazi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "hashize ukwezi kumwe ibikorwa byo kwinura umucanga muri uwo mugezi bihagaritswe",
+        "tekereza ko twakoraga hano turi abantu basaga 1000",
+        "bajyayo ngo kuko ari mu bilomtero 7, bagasanga itike ari yo itwara umushahara wabo",
+        "kuko bahembwa 1500 ku munsi, bakanakuramo ifunguro rya saa sita"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-081",
+      "title": "Kamonyi- Ruhango: Umuhanda wangijwe na Howo wahagaritse ubuhahirane",
+      "titleEn": "Kamonyi-Ruhango: Road ruined by HOWO trucks has halted trade",
+      "publisher": "Imvaho Nshya",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-02-12",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 12 Gashyantare 2024 Saa 11:21",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi",
+        "Ruhango"
+      ],
+      "location": "Musumba–Gisanga road, Remera village, Nyarubaka sector (Kamonyi); sand loading on the Urumanza river (Ruhango)",
+      "rivers": [
+        "Urumanza"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "infrastructure damage",
+        "sand transport",
+        "taxes"
+      ],
+      "summary": "Imvaho Nshya reports that residents of Nyarubaka sector, Kamonyi, say the Musumba–Gisanga road through Remera village has been ruined by heavy HOWO trucks going to load sand on the Urumanza river in Ruhango District. The trucks switched to the road after the Birembo bridge linking Kamonyi and Ruhango collapsed. Residents say small cars can no longer pass and crops were destroyed. Drivers admit the damage and say they keep 25 to 35 thousand francs ready to pay for being towed out of the mud. Kamonyi mayor Sylvère Nahayo said the two districts were discussing repairing the bridge, noting the trucks pay taxes.",
+      "hasLocalSummary": false,
+      "limitations": "Mainly about haulage impacts; the extraction on the Urumanza river is mentioned but not described. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/kamonyi-ruhango-umuhanda-wangijwe-na-howo-wahagaritse-ubuhahirane",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "wangijwe n’izi modoka zijya gupakira umucanga ku mugezi w’Urumanza mu Karere ka Ruhango",
+        "bahora biteguye nibura hagati y’ibihumbi 25 -35 mu gihe bahaheze kugira ngo babakuremo"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-082",
+      "title": "Nyabihu: Ikiraro cya Rubagabaga cyibasiwe n’ibiza kirimo gutunganywa",
+      "titleEn": "Nyabihu: Rubagabaga bridge damaged by disasters is being repaired",
+      "publisher": "Kigali Today",
+      "authors": "Servilien Mutuyimana",
+      "category": "News",
+      "date": "2024-02-12",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 12 February 2024 at 14:56",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyabihu",
+        "Ngororero"
+      ],
+      "location": "Western Province, Nyabihu District, Shyira Sector (bridge to Satinsyi Sector, Ngororero)",
+      "rivers": [
+        "Rubagabaga",
+        "Mukungwa"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "sediment removal",
+        "sand-mining companies",
+        "bridge protection",
+        "floods"
+      ],
+      "summary": "Floods in May 2023 filled the Mukungwa and its tributary the Rubagabaga with sand, which now reaches the steel structure of the 90-metre Rubagabaga bridge linking Shyira sector (Nyabihu) with Satinsyi sector (Ngororero). Shyira's executive secretary Ndandu Marcel said all the sand-mining companies had been brought to the site and were digging sand out of the river, giving residents work. Western Province governor Dushimimana Lambert said removing the sand was the priority but transporting it away from the bridge remained a problem.",
+      "hasLocalSummary": false,
+      "limitations": "Sand extraction is used here as flood-sediment removal to protect a bridge. Nyabihu and Ngororero straddle the divide; tagged Nile because the Mukungwa is named. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/nyabihu-ikiraro-cya-rubagabaga-cyibasiwe-n-ibiza-kirimo-gutunganywa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Mu biza byibasiye ako gace muri Gicurasi 2023, byuzuye umugezi wa Mukungwa",
+        "Icyo kiraro gifite metero 90 z’uburebure, gihuza Akarere ka Nyabihu n’aka Ngororero",
+        "kampani zose zicukura umucanga niho ziri, gucukura byatangiye kandi biri kugenda neza"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-083",
+      "title": "Gisagara: Hari abahinga umuceri mu gishanga cya Nyiramageni bifuza ko gitunganywa",
+      "titleEn": "Gisagara: Rice growers in the Nyiramageni wetland want it developed",
+      "publisher": "Kigali Today",
+      "authors": "Marie Claire Joyeuse",
+      "category": "Context",
+      "date": "2024-03-14",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 14 March 2024 at 12:52",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Gisagara"
+      ],
+      "location": "Southern Province, Gisagara District, Mamba Sector, Mamba Cell",
+      "rivers": [
+        "Nyiramageni"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "wetland",
+        "sand deposition",
+        "rice farming",
+        "building-sand removal"
+      ],
+      "summary": "Rice farmers in the Nyiramageni wetland, especially in Mamba cell and sector, Gisagara, said heavy rains flood the wetland and bury plots next to the main drainage channel in sand, forcing repeated replanting; clearing sand from one plot costs not less than Rwf 100 thousand. They said the sand problem began about three years earlier and that although people keep taking out sand for building, where a truckload is removed about four times as much returns. Resident Jean Pierre Mutangana blamed storm drains built for new settlements on surrounding hills.",
+      "hasLocalSummary": false,
+      "limitations": "Mainly about sand deposition in a wetland; building-sand extraction is mentioned only briefly. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/gisagara-hari-abahinga-umuceri-mu-gishanga-cya-nyiramageni-bifuza-ko-gitunganywa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Imirimo yo gukura umucanga mu ipariseri imwe wuzuyemo kandi ngo itwara amafaranga atari munsi y’ibihumbi 100"
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-084",
+      "title": "Nyanza: Umwana yaguye mu cyobo cy’amazi",
+      "titleEn": "Nyanza: Child falls into a water-filled pit",
+      "publisher": "UMUSEKE",
+      "authors": "Theogene Nshimiyimana",
+      "category": "News",
+      "date": "2024-05-08",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: May 8, 2024",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyanza"
+      ],
+      "location": "Kaganza village, Kiruli cell, Mukingo sector, Nyanza District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "abandoned pits",
+        "children"
+      ],
+      "summary": "UMUSEKE reports that Alliance Niyobuzima, aged eight, of Kaganza village, Kiruli cell, Mukingo sector, Nyanza, drowned in a water-filled pit that had been dug for sand and was not filled in afterwards. Mukingo sector executive secretary Ange Kayigi said the child had gone to fetch water and went to play in the water in the pit with four other children, and only he died. Local authorities urged parents to keep children away from dangers.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Who dug the pit and whether it was licensed is not stated. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/nyanza-umwana-yaguye-mu-cyobo-cyamazi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "umwana witwa NIYOBUZIMA Alliance w’imyaka umunani yaguye mu cyobo cy’amazi bacukuyemo umucanga kuko nticyahise gisibwa",
+        "ari kumwe n’abandi bane gusa umwe muri bo niwe wapfuye"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-085",
+      "title": "Musanze: Abagore babiri barokotse ikirombe cyabaridukiye",
+      "titleEn": "Musanze: Two women survive collapse of a sand pit",
+      "publisher": "Kigali Today",
+      "authors": "Servilien Mutuyimana",
+      "category": "News",
+      "date": "2024-06-18",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 18 June 2024 at 20:19",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Musanze"
+      ],
+      "location": "Northern Province, Musanze District, Busogo Sector",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "pit collapse",
+        "illegal digging",
+        "closed site",
+        "police"
+      ],
+      "summary": "Northern Province police spokesperson SP Jean Bosco Mwiseneza told Kigali Today that on 17 June 2024 two women slipped past local leaders to dig sand in the Busogo pit in Musanze, a site closed while authorities work out safer ways to mine it, and were caught when it collapsed. They were treated at a health centre and sent home. Police urged people to avoid illegal digging, work only with permits and protective measures, and report anyone sneaking into pits at night.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. English translation of the headline awaits native-language review.",
+      "url": "https://www.kigalitoday.com/umutekano/article/musanze-abagore-babiri-barokotse-ikirombe-cyabaridukiye",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "ngo ku itariki 17 Kamena 2024, nibwo abo bagore baciye mu rihumye abayobozi"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-086",
+      "title": "Kamonyi: Umukobwa w’Imyaka 16 yarohamye mu cyuzi",
+      "titleEn": "Kamonyi: Girl aged 16 drowns in a pond",
+      "publisher": "UMUSEKE",
+      "authors": "Muhizi Elisée",
+      "category": "News",
+      "date": "2024-08-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: August 28, 2024",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Bumbogo village, Kabashumba cell, Nyamiyaga sector, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "unlicensed sand washing",
+        "children"
+      ],
+      "summary": "UMUSEKE reports that Henriette Ingabire, 16, of Bumbogo village, Kabashumba cell, Nyamiyaga sector, Kamonyi, drowned on Wednesday 28 August 2024 in a pond that had been dammed by people washing sand. Kamonyi vice mayor for economic development Uzziel Niyongira said she went into the water with three other girls and got stuck in the mud; residents said they had gone to fetch water. District authorities said the owner of the sand site was washing sand without a permit and that he and the person who dammed the water fled. The body was taken to Remera Rukoma hospital.",
+      "hasLocalSummary": false,
+      "limitations": "The water source dammed for sand washing is not named. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/kamonyi-umukobwa-wimyaka-16-yarohamye-mu-cyuzi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Umukobwa w’Imyaka 16 yarohamye mu cyuzi",
+        "zo kuri uyu wa Gatatu tariki ya 28 Kanama 2024",
+        "icyuzi yarohamyemo cyagomewe n’abantu binura umucanga",
+        "nyir’ikirombe yinuraga umucanga nta cyangombwa afite, bombi n’uwagomeye amazi bahise bacika"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-087",
+      "title": "Umucanga wateje amahari hagati y’abaturage, umushoramari n’akarere",
+      "titleEn": "Sand sparks dispute between residents, an investor and the district",
+      "publisher": "UMUSEKE",
+      "authors": "Theogene Nshimiyimana",
+      "category": "News",
+      "date": "2024-09-17",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: September 17, 2024",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Nyanza"
+      ],
+      "location": "Kireranyana village, Kimirama cell, Busoro sector, Nyanza District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "land rights",
+        "licensing",
+        "disputes"
+      ],
+      "summary": "UMUSEKE reports that residents of Kireranyana village, Kimirama cell, Busoro sector, Nyanza, said workers were digging sand from their farmland and loading it onto trucks without their consent, on land they say is theirs. The investor accused, Joseph Mutuyimana, said the residents had sold the sand under contracts. Busoro's executive secretary said residents had sold the sand to permit holders. Nyanza vice mayor Patrick Kajyambere showed a document titled 'sand sale agreement' and said the district issued the extraction permit on that basis. Southern Province governor Alice Kayitesi said she had no information and referred questions to the district.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Competing claims; the article does not resolve whether residents signed the contracts. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/umucanga-wateje-amahari-hagati-yabaturage-umushoramari-nakarere",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "abakozi bavana umucanga mu mirima y’abaturage bayishyira mu modoka nayo ikaza kuwutwara",
+        "Amasezerano twagendeyeho dutanga icyangombwa yayakoranye n’abaturage"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-088",
+      "title": "Huye: Abiyise ‘Abaryakariho’ baravugwaho gukora ibitemewe bakanagerekaho kubangamira abaturage",
+      "titleEn": "Huye: Self-styled 'Abaryakariho' accused of illegal digging and harassing residents",
+      "publisher": "RADIOTV10",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-10-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: October 29, 2024",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Huye"
+      ],
+      "location": "Wetland between Tumba and Mukura sectors, Huye District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "illegal mining",
+        "violence",
+        "farmland damage",
+        "cooperatives"
+      ],
+      "summary": "The broadcaster reports that illegal sand diggers in Mukura sector, Huye, organised in a gang calling itself 'Abaryakariho', are damaging fields in the wetland between Tumba and Mukura sectors farmed by members of the KOWAGIMA cooperative, and threatening farmers who object. A farmer said the diggers carry the sand off in sacks on their heads and sell it to builders, chasing away anyone who tries to stop them. Another said diggers had dug up her field and threatened her. Huye mayor Ange Sebutege said authorities would address the problem, that miners must hold permits, and that those caught would be punished under the law.",
+      "hasLocalSummary": false,
+      "limitations": "Accounts are from affected farmers; the diggers were not interviewed. English translation of the headline awaits native-language review.",
+      "url": "https://radiotv10.rw/huye-abiyise-abaryakariho-baravugwaho-gukora-ibitemewe-bakanagerekaho-kubangamira-abaturage",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "bahinga mu gishanga kiri hagati y’Imirenge ya Tumba na Mukura mu Karere ka Huye",
+        "Barayicukura bakayitwara mu mifuka bayikoreye ku mutwe bakabaha amafaranga."
+      ],
+      "siteType": "wetland"
+    },
+    {
+      "id": "RSW-089",
+      "title": "Rutsiro District official arrested over corruption",
+      "titleEn": "Rutsiro District official arrested over corruption",
+      "publisher": "The New Times",
+      "authors": "Charles Nyandwi",
+      "category": "News",
+      "date": "2024-12-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Friday, December 13, 2024",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo",
+        "rw-nile"
+      ],
+      "counties": [
+        "Rutsiro"
+      ],
+      "location": "Rutsiro District, Western Province",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "corruption",
+        "permits",
+        "licensing",
+        "enforcement"
+      ],
+      "summary": "The Rwanda Investigation Bureau said it had detained Innocent Kamayirese, the official in charge of environment management in Rutsiro District, on suspicion of taking bribes to grant permits for quarrying and sand mining. RIB said the arrest followed days of investigation into the issuance of permits for extracting sand and stones for construction in the district, and that he was reported by people who refused to pay him. He was held at Gihango RIB Station while his file was prepared for prosecution.",
+      "hasLocalSummary": false,
+      "limitations": "Allegations only; no outcome reported. Rutsiro straddles the Congo-Nile divide and no river is named, so both basins are tagged.",
+      "url": "https://www.newtimes.co.rw/article/22570/news/crime/rutsiro-district-official-arrested-over-corruption",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-090",
+      "title": "Rulindo : Umuntu umwe yaburiye ubuzima mu kirombe bacukuramo umucanga",
+      "titleEn": "Rulindo: One person dies in a sand pit",
+      "publisher": "Igicumbi News",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2024-12-16",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2024-12-16T19:23:01+00:00",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Rulindo"
+      ],
+      "location": "Gatovu village, Kamushenyi cell, Kisaro sector, Rulindo District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "illegal mining",
+        "police"
+      ],
+      "summary": "Igicumbi News reports that Isaïe Habarurema, about 30, died on Monday 16 December 2024 at around eight in the morning when a sand pit collapsed on him in Gatovu village, Kamushenyi cell, Kisaro sector, Rulindo. He had gone to dig sand for Issa Ntezimana, reportedly the pit's owner; others digging with him were outside and unhurt. Northern Province police spokesperson SP Jean Bosco Mwiseneza confirmed the death, said an investigation had begun and the body was taken to Byumba hospital, and warned against illegal mining.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. The pit's licensing status is not stated. English translation of the headline awaits native-language review.",
+      "url": "https://www.igicumbinews.co.rw/rulindo-umuntu-umwe-yaburiye-ubuzima-mu-kirombe-bacukuramo-umucanga",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Kuri uyu wa mbere Tariki 16 ukuboza 2024, ahagana saa mbiri za mu gitondo",
+        "Habarurema Isaïe uri mu kigero cy’imyaka 30 wari wagiye gucukurira umucanga Ntezimana Issa"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-091",
+      "title": "Rwanda’s mining threatens Nyabarongo River: Pollution, struggle for environmental protection",
+      "titleEn": "Rwanda's mining threatens Nyabarongo River: Pollution, struggle for environmental protection",
+      "publisher": "Top Africa News",
+      "authors": "Kanamugire Emmanuel",
+      "category": "News",
+      "date": "2025-05-06",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2025-05-06T06:04:00+00:00",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Rulindo",
+        "Kamonyi"
+      ],
+      "location": "Sanzari stream, Masoro sector, Rulindo District; Nyamagana River between Rukoma and Ngamba sectors, Kamonyi District",
+      "rivers": [
+        "Sanzari",
+        "Nyamagana",
+        "Nyabarongo"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "sedimentation",
+        "river sand",
+        "cooperatives",
+        "water pollution"
+      ],
+      "summary": "An investigation by Top Africa News into mining pollution in the Nyabarongo catchment reported that the Sanzari River in Rulindo District became filled with sand washed down from the Rutongo Mines and was officially allocated to a youth cooperative for commercial purposes, with trucks now driving through the riverbed as if it were a road. In Kamonyi District, it said, the Nyamagana River is the source of sand used to build the Nyabarongo II hydropower plant. Rwanda Water Resources Board official Remy Norbert Duhuze said monitoring of mining pollution was not sufficient.",
+      "hasLocalSummary": false,
+      "limitations": "The article is mainly about mineral mining pollution; sand extraction appears as a consequence of mine sediment. Rutongo Mines disputes polluting the stream. English translation of the headline awaits native-language review.",
+      "url": "https://www.topafricanews.com/2025/05/06/rwandas-mining-threatens-nyabarongo-river-pollution-struggle-for-environmental-protection",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-092",
+      "title": "Musanze: Yaguye mu cyobo bacukuramo umucanga nijoro arapfa",
+      "titleEn": "Musanze: Man falls into a sand pit at night and dies",
+      "publisher": "Imvaho Nshya",
+      "authors": "Ngaboyabahizi Protais",
+      "category": "News",
+      "date": "2025-05-20",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 20 Gicurasi 2025 Saa 16:50",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Musanze"
+      ],
+      "location": "Kirerema village, Rwambogo cell, Musanze sector, Musanze District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "abandoned pits",
+        "site rehabilitation"
+      ],
+      "summary": "Imvaho Nshya reports that Denis Sebaganda, 60, of Kirerema village, Rwambogo cell, Musanze sector, died after falling into a sand pit late on the night of 19 May 2025 while walking back to a trading centre. A neighbour said the cell has many pits left by sand digging and asked that they be filled. Sector executive secretary Edouard Twagirimana said the pit was 2 metres deep, that the man fell head first and died, and urged residents to fill disused pits; the body was taken to Ruhengeri hospital for examination.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Cause of death was pending examination at the time of publication. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/musanze-yaguye-mu-cyobo-bacukuramo-umucanga-nijoro-arapfa",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Sebaganda Denis w’imyaka 60 wari utuye mu Mudugudu wa Kirerema",
+        "ahagana saa tanu n’igice z’ijoro ryo ku wa 19 Gicurasi 2025",
+        "icyo cyobo gifite metero 2, yabanjemo umutwe ahita apfa"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-093",
+      "title": "Nyamasheke: Uwari DASSO arakoresha abakozi 100 ahemba 6.000.000 Frw",
+      "titleEn": "Nyamasheke: Former DASSO officer employs 100 workers and pays 6,000,000 Frw",
+      "publisher": "Imvaho Nshya",
+      "authors": "Bahuwiyongera Sylvestre",
+      "category": "News",
+      "date": "2025-09-28",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 28 Nzeri 2025 Saa 19:36",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-congo"
+      ],
+      "counties": [
+        "Nyamasheke"
+      ],
+      "location": "Karundura river at Kirambo; Kagano and Kanjongo sectors, Nyamasheke District",
+      "rivers": [
+        "Karundura"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "wages",
+        "employment",
+        "sand trade"
+      ],
+      "summary": "Imvaho Nshya profiles Jean Pierre Rwubaka, 55, a former deputy DASSO coordinator in Nyamasheke until 2019, who then became a sand entrepreneur on the Karundura river at Kirambo, buying sand from a company operating there and selling it, mainly in Rusizi town. He says he has 100 permanent workers: 33 diggers paid weekly, two million 400 thousand francs a month in total, and 67 carriers paid daily, 3.6 million francs a month. He earned 350 thousand francs a month at DASSO. Workers told the paper they earn 5 to 6 thousand francs a day. He aims to reach 200 workers.",
+      "hasLocalSummary": false,
+      "limitations": "A promotional profile based on the entrepreneur's own figures; the lead sentence says 'more than 10' workers, which conflicts with the 100 cited elsewhere. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/nyamasheke-uwari-dasso-arakoresha-abakozi-100-ahemba-6-000-000-frw",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Rwubaka Jean Pierre w’imyaka 55 wahoze ari Umuhuzabikorwa wungirije",
+        "Umuhuzabikorwa wungirije ushinzwe umutekano n’amakuru mu Karere ka Nyamasheke kugeza mu 2019",
+        "ajya kuba rwiyemezamirimo mu bucukuzi bw’umucanga mu mugezi wa Karundura mu Kirambo",
+        "abakozi 100 afite ari abahoraho barimo 33 bawucukura mpemba buri cyumweru",
+        "mu kwezi akaba abahemba miliyoni ebyiri n’ibihumbi 400 by’amafaranga y’u Rwanda",
+        "Mfite n’abandi 67 bawikorera bawujyana mu byombo",
+        "mu kwezi bose hamwe nkabahemba 3.600.000",
+        "Nkiri DASSO nakoreraga amafaranga 350.000 Frw mu kwezi",
+        "Nk’ubu nkorera 5000 ku munsi, nkora buri munsi",
+        "Ampemba amafaranga 6.000 ku munsi, nkora buri munsi",
+        "Avuga ko intego ye ari ugukuba kabiri umubare w’abakozi akoresha bakaba 200"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-094",
+      "title": "Kamonyi: Urubyiruko rwahawe ibikoresho by’imyuga nyuma yo kuvanwa mu mirimo mibi",
+      "titleEn": "Kamonyi: Youth given vocational tools after being removed from harmful work",
+      "publisher": "UMUSEKE",
+      "authors": "Mugiraneza Thierry",
+      "category": "News",
+      "date": "2026-01-29",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2026-01-29T06:23:58+00:00",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Kamonyi"
+      ],
+      "location": "Gacurabwenge, Mugina and Nyamiyaga sectors, Kamonyi District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "child labour",
+        "livelihoods",
+        "wages",
+        "NGO programmes"
+      ],
+      "summary": "UMUSEKE reports that the rights union STRADH, under its FCDO- and Trocaire-funded Twiyubakire programme, gave tailoring and hairdressing kits worth 6 million francs to 50 young people removed from child labour in Gacurabwenge and Mugina sectors, Kamonyi. Josephine Uwamutara of Nyamiyaga sector said she left school at 14 because of poverty to carry sand, earning 40 francs per heap, and also did domestic work. Other beneficiaries included 25 girls who became pregnant as teenagers. A district official urged them to market their work.",
+      "hasLocalSummary": false,
+      "limitations": "Sand carrying is one testimony; the article is mainly about the vocational kits. The visible page date (11 February 2026) differs from the published metadata; the published timestamp is used. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/kamonyi-urubyiruko-rwahawe-ibikoresho-byimyuga-nyuma-yo-kuvanwa-mu-mirimo-mibi",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Ibi bikoresho bifite agaciro ka miliyoni 6 Frw",
+        "Abahawe ibi bikoresho ni urubyiruko 50 rwavanywe mu mirimo mibi ikoreshwa abana",
+        "yavuye mu ishuri afite imyaka 14 y’amavuko kubera ubuzima bubi akajya gukora akazi ko kwikorera umucanga",
+        "ikirundo bamuha amafaranga 40Frw ndetse akajya no gukora akazi ko mu rugo",
+        "Abandi bahawe ibikoresho barimo abakobwa 25 batewe inda bakiri abangavu"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-095",
+      "title": "STRADH yasabiye ibihano abakoresha abana imirimo ivunanye",
+      "titleEn": "STRADH calls for penalties on those who make children do heavy work",
+      "publisher": "Imvaho Nshya",
+      "authors": "Habimana Eric",
+      "category": "News",
+      "date": "2026-02-06",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Ku ya 6 Gashyantare 2026 Saa 18:56",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Muhanga",
+        "Bugesera"
+      ],
+      "location": "Muhanga District (Kabacuzi sector); also Bugesera and Kigali",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "child labour",
+        "enforcement",
+        "NGO programmes"
+      ],
+      "summary": "Imvaho Nshya reports that at a Muhanga meeting, STRADH head Alphonse Bizimana said the union found children under 18 working in mineral mining and sand washing, cutting fodder and carrying bricks in Muhanga, Bugesera and Kigali instead of attending school, and called for tougher penalties for employers and parents. Twiyubakire project head Scholastique Nyiramajyambere said that from 2010 to 2016 the project removed 945 children from harmful work in its areas, including Rutsiro, and criticised lax enforcement. Kabacuzi sector's executive secretary backed stronger penalties.",
+      "hasLocalSummary": false,
+      "limitations": "Sand washing is one of several forms of child labour cited; no sand-specific numbers. The 945 figure also covers Rutsiro (Congo side), but the record is tagged rw-nile because the meeting and main findings concern Muhanga, Bugesera and Kigali. English translation of the headline awaits native-language review.",
+      "url": "https://imvahonshya.co.rw/stradh-yasabiye-ibihano-abakoresha-abana-imirimo-ivunanye",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "basanze hari abana bari munsi y’Imyaka 18 y’amavuko bakoreshwa imirimo mibi kandi ivunannye",
+        "Twasanze hari bamwe mu bana bakora mu mabuye y’agaciro, abandi binura imicanga",
+        "kuva mu mwaka wa 2010-2016 mu Mirenge bakoreramo yo mu Karere ka Muhanga",
+        "bamaze kuvana abana 945 mu mirimo mibi"
+      ],
+      "siteType": "not stated"
+    },
+    {
+      "id": "RSW-096",
+      "title": "Ibyamenyekanye ku rupfu rw’abagabo 4 bo muri Muhanga",
+      "titleEn": "What is known about the deaths of 4 men in Muhanga",
+      "publisher": "UMUSEKE",
+      "authors": "Not stated",
+      "category": "News",
+      "date": "2026-03-13",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: 2026-03-13T16:00:47+00:00",
+      "studyPeriod": "Not specified",
+      "language": "Kinyarwanda",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Muhanga"
+      ],
+      "location": "Kiyoro village, Remera cell, Muhanga sector, Muhanga District (near the Kabere stream)",
+      "rivers": [
+        "Kabere"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents/deaths",
+        "flash flood",
+        "illegal mining"
+      ],
+      "summary": "UMUSEKE reports that four men were killed by a torrent of runoff while extracting sand in Muhanga sector after heavy rain on a Thursday evening. Sector executive secretary Thelesphore Dusabimana said that around nine at night three men and two youths went to trap runoff water to collect sand to sell, and the water came down carrying stones and soil and buried them. The dead were named as residents of Nyamirama and Remera cells aged 25 to 34. Citing Imvaho Nshya, UMUSEKE says the site was near the Kabere stream. The official urged people to avoid unprotected illegal mining.",
+      "hasLocalSummary": false,
+      "limitations": "Same incident as the Taarifa record already in the archive; this adds victims' ages, the Kabere stream and the method of trapping runoff. The official frames the activity as illegal mineral mining although the article says they were collecting sand. The visible page date (14 March 2026) differs from the published metadata. English translation of the headline awaits native-language review.",
+      "url": "https://umuseke.rw/ibyamenyekanye-ku-bagabo-4-umuvu-wasanze-mu-kirombe-ukabica",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "abagabo bane bishwe n’umuvu wabasanze aho bacukuraga imicanga kugira ngo babone ubuzima",
+        "byageze mu masaha ya saa tatu z’ijoro, abagabo batatu n’abasore babiri bajya ahantu batangirira amazi y’umuvu",
+        "Nyandwi Alex w’imyaka 34, Nkurunziza Celestin w´imyaka 26, na Niyodusenga Jean Bosco w´imyaka 25",
+        "aho bariya bantu bacukuraga imicanga ari hafi y’umugezi wa Kabere"
+      ],
+      "siteType": "river"
+    },
+    {
+      "id": "RSW-097",
+      "title": "Bugesera mayor urges caution after 1O die in quarry collapse",
+      "titleEn": "Bugesera mayor urges caution after 10 die in quarry collapse",
+      "publisher": "The New Times",
+      "authors": "Charles Nyandwi",
+      "category": "News",
+      "date": "2026-07-10",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Friday, July 10, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Bugesera"
+      ],
+      "location": "Nyamabuye Village, Kanzenze Cell, Ntarama Sector, Bugesera District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents and deaths",
+        "regulation",
+        "worker safety",
+        "licensing"
+      ],
+      "summary": "Bugesera mayor Richard Mutabazi told The New Times that the quarry that collapsed on July 9 in Ntarama Sector, killing 10 people extracting sand and stones, was licensed and insured, and that its operations were stopped after the incident. He said preliminary findings pointed to a previously quarried section that had become a slope and slid onto workers, adding that there was no sign rain contributed. He said the district inspects quarries regularly and urged operators to plan excavation and avoid digging ever deeper, which raises the risk of collapse.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Same incident as the bereaved-families record; this one adds the mayor's account of licensing and preliminary cause. Headline prints 10 as '1O'. English translation of the headline awaits native-language review.",
+      "url": "https://www.newtimes.co.rw/article/37285/news/rwanda/bugesera-mayor-urges-caution-after-1o-die-in-quarry-collapse",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "has called on quarry operators and workers to exercise caution after a quarry collapsed, killing 10 people",
+        "killing 10 people on Thursday, July 9"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-098",
+      "title": "Bugesera quarry tragedy: Bereaved families recount their ordeal",
+      "titleEn": "Bugesera quarry tragedy: Bereaved families recount their ordeal",
+      "publisher": "The New Times",
+      "authors": "Jean d'Amour Mbonyinshuti; Tharcisse Mugabo",
+      "category": "News",
+      "date": "2026-07-11",
+      "dateKind": "Published",
+      "dateEvidence": "Source page: Saturday, July 11, 2026",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [
+        "Bugesera"
+      ],
+      "location": "Nyamabuye Village, Kanzenze Cell, Ntarama Sector, Bugesera District",
+      "rivers": [],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "accidents and deaths",
+        "cooperatives",
+        "livelihoods",
+        "insurance"
+      ],
+      "summary": "The New Times reported that a quarry collapse at around 11 a.m. on July 9 in Nyamabuye Village, Ntarama Sector, Bugesera District, killed all 10 workers who were extracting stones and sand for construction at a site run by the licensed cooperative COTRAKI. Rescuers recovered the bodies after a 12-hour search. Widow Christine Mukampundu, 42, said poverty pushes people into quarry work. COTRAKI's vice-president said an engineer inspects the site before work, members are insured and families would get burial support. Sources said the cooperative's president was taken into RIB custody.",
+      "hasLocalSummary": false,
+      "limitations": "Site is a land/hillside pit, not a river or wetland. Mixed stone-and-sand quarry. The RIB detention is attributed to unnamed sources and was not officially confirmed.",
+      "url": "https://www.newtimes.co.rw/article/37303/news/rwanda/bugesera-quarry-tragedy-bereaved-families-recount-their-ordeal",
+      "doi": "",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "The collapse, which occurred at around 11 a.m. on July 9,",
+        "claimed the lives of all 10 workers who had been extracting stones and sand for construction",
+        "when authorities recovered all the bodies, bringing the 12-hour search to an end",
+        "Mukampundu, 42, is now left to care for their five children"
+      ],
+      "siteType": "land pit"
+    },
+    {
+      "id": "RSW-099",
+      "title": "Everything comes from something: A geographic photo analysis of sand extraction and usage in Rwanda’s rapidly growing economy",
+      "titleEn": "Everything comes from something: A geographic photo analysis of sand extraction and usage in Rwanda's rapidly growing economy",
+      "publisher": "Focus on Geography",
+      "authors": "Mette Bendixen",
+      "category": "Research",
+      "date": null,
+      "dateKind": "Publication date unverified",
+      "dateEvidence": "No publication date found on the source page",
+      "studyPeriod": "Not specified",
+      "language": "English",
+      "countries": [
+        "Rwanda"
+      ],
+      "basins": [
+        "rw-nile"
+      ],
+      "counties": [],
+      "location": "Nyabugogo River near Kigali; Rusine River; a tributary of the river spelled 'Mukuwunga' on the Northern-Western Province border; Rutongo Mines area",
+      "rivers": [
+        "Nyabugogo",
+        "Rusine"
+      ],
+      "materials": [
+        "Sand"
+      ],
+      "topics": [
+        "livelihoods",
+        "riverbank erosion",
+        "gender",
+        "construction demand",
+        "farmland conflict"
+      ],
+      "summary": "A photo essay by McGill University geographer Mette Bendixen, based on fieldwork photos from June 2023 and 2024, documents artisanal sand extraction in Rwanda. On the Nyabugogo River near Kigali, men ranging from teenagers to their 40s stand hip-deep to dig sand from the riverbed, stockpiling it on platforms for dump trucks; riverbank erosion and collapse are described as common. On the Rusine River women crush stone while only men extract sand, and sand bags carried on the head weigh over 30 kilos. The author argues national housing plans omit sand, gravel and crushed stone.",
+      "hasLocalSummary": false,
+      "limitations": "Photo essay rather than a quantitative study; no publication date is printed on the page (DOI suggests 2025). The essay spells Nyabugogo as Nyabogogo and names a tributary of a 'Mukuwunga' River (possibly the Mukungwa, not tagged); districts are not named. English translation of the headline awaits native-language review.",
+      "url": "https://www.focusongeography.org/publications/photoessays/rwanda/index.html",
+      "doi": "10.21690/foge/2025.68.1p",
+      "review": "Owner review pending",
+      "reviewDetail": "Seed collection: an AI research agent read the source; the page was re-downloaded and the quoted date and every quoted figure matched verbatim before import",
+      "collectedAt": "2026-11-19",
+      "figureQuotes": [
+        "Photos taken by: Mette Bendixen, June 2023 and 2024.",
+        "spanning the ages from teenagers to men in their 40s",
+        "These bags easily weigh over 30 kilos and are carried on the head."
+      ],
+      "siteType": "river"
     }
   ],
   "sources": [
@@ -1727,9 +4879,96 @@
       ],
       "status": "Page read",
       "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Panorama",
+      "url": "https://panorama.rw/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Intyoza",
+      "url": "https://intyoza.com/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Umuringa News",
+      "url": "https://umuringanews.com/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Igicumbi News",
+      "url": "https://www.igicumbinews.co.rw/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Imvaho Nshya",
+      "url": "https://imvahonshya.co.rw/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "RADIOTV10",
+      "url": "https://radiotv10.rw/",
+      "kind": "News",
+      "languages": [
+        "Kinyarwanda"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Top Africa News",
+      "url": "https://www.topafricanews.com/",
+      "kind": "News",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
+    },
+    {
+      "name": "Focus on Geography",
+      "url": "https://www.focusongeography.org/",
+      "kind": "Research",
+      "languages": [
+        "English"
+      ],
+      "status": "Page read",
+      "note": "Selected pages read during the seed collection; source-wide coverage has not been measured."
     }
   ],
   "runs": [
+    {
+      "id": "seed-2026-11-19-2",
+      "date": "2026-11-19",
+      "kind": "Seed collection",
+      "added": 67,
+      "note": "67 records gathered by AI research agents; each source page was re-downloaded and the quoted date and figures matched verbatim before import. Owner review pending."
+    },
     {
       "id": "seed-2026-11-19",
       "date": "2026-11-19",

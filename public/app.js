@@ -275,13 +275,14 @@ function detail(gid) {
   const url = safeUrl(r.url);
   const rows = [
     ['Collected by', w?.hosted ? `Global Sand Watch (${esc(w.name)}) · record ${esc(r.sourceId)}` : w?.siteUrl ? `<a href="${esc(w.siteUrl)}">${esc(w.name)}</a> · record ${esc(r.sourceId)}` : esc(r.watch)],
-    ['Counties', esc((r.counties || []).join(', '))],
+    ['Counties / districts', esc((r.counties || []).join(', '))],
     ['Publisher', esc([r.publisher, r.authors].filter(Boolean).join(' — '))],
     ['Date', `${esc(dateLabel(r))}${r.dateKind ? ` (${esc(r.dateKind)})` : ''}`],
     ['Date evidence', esc(r.dateEvidence)],
     ['Basin', esc(r.basins.map(b => state.basinById[b]?.name || b).join(', '))],
     ['Countries', esc(r.countries.join(', '))],
     ['Location', esc(r.location)],
+    ['Site type', esc(r.siteType || '')],
     ['Rivers', esc(r.rivers.join(', '))],
     ['Materials', esc(r.materials.join(', '))],
     ['Language', esc(r.language)],

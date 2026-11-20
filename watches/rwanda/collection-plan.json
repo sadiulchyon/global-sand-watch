@@ -1,7 +1,7 @@
 {
   "watch": "rwanda",
   "name": "Rwanda",
-  "status": "Seed collection of 32 records imported on 19 November 2026; daily collector configured in watches/rwanda/collector.json.",
+  "status": "Seed collections of 19 November 2026: 99 records (rivers, wetlands, lakeshores and land sand pits); daily collector configured in watches/rwanda/collector.json.",
   "recordSchema": "docs/record-schema.md (global-v1)",
   "idPrefix": "RSW",
   "interfaceLanguage": "English",
@@ -10,7 +10,7 @@
     "Kinyarwanda",
     "French"
   ],
-  "scope": "Sand extraction from rivers, wetlands and lakeshores in Rwanda, its licensing, enforcement, cooperatives, livelihoods, construction demand, and effects on riverbanks, wetlands, water quality and sedimentation. Include stone and gravel quarrying only when it affects a river channel, wetland or riparian buffer. Exclude 3T/gold mineral mining unless the record concerns construction-sand extraction.",
+  "scope": "Construction-sand extraction and mining in Rwanda from rivers, wetlands and lakeshores and from land and hillside sand pits, with its licensing, cooperatives, enforcement, accidents and deaths in sand pits, livelihoods, prices and supply, construction demand and effects on riverbanks, wetlands, water quality and sedimentation. Each record states whether the site is a river, wetland, lakeshore or land pit. Exclude 3T/gold mineral mining unless the record concerns construction sand, stone quarries without sand, and Lake Kivu methane.",
   "basins": [
     {
       "id": "rw-nile",

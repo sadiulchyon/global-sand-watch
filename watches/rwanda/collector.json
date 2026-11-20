@@ -75,7 +75,19 @@
     "Satinsyi",
     "Kabere",
     "Bakokwe",
-    "Rusine"
+    "Rusine",
+    "Mukunguri",
+    "Akabebya",
+    "Nyiramazinga",
+    "Ruhondo",
+    "Kayumbu",
+    "Bihongora",
+    "Rubagabaga",
+    "Urumanza",
+    "Nyiramageni",
+    "Sanzari",
+    "Nyamagana",
+    "Karundura"
   ],
   "categories": [
     "News",
@@ -92,7 +104,11 @@
     "Rwanda Mines Petroleum Gas Board sand",
     "umucanga ubucukuzi",
     "gucukura umucanga",
-    "extraction de sable Rwanda"
+    "extraction de sable Rwanda",
+    "sand pit collapse Rwanda",
+    "umucanga ikirombe",
+    "abacukura umucanga bapfuye",
+    "igiciro cy'umucanga"
   ],
   "historicalSearches": [
     "Rwanda sand mining river",
@@ -106,8 +122,8 @@
     "Rwanda sand mining peer reviewed research"
   ],
   "titleTerms": "sand|gravel|dredg|aggregate|umucanga|sable",
-  "scope": "Only include sources substantively about sand extraction or mining from rivers, riverbeds, riverbanks, lakeshores or wetlands in Rwanda, or its licensing, cooperatives, enforcement, livelihoods, construction demand and environmental effects. Exclude 3T and gold mining (cassiterite, coltan, wolfram, gold) unless the source concerns construction-sand extraction; stone quarries with no river or wetland link; and Lake Kivu methane.",
-  "basinRule": "Assign rw-congo to Lake Kivu, the Rusizi and their tributaries (Sebeya, Koko, Kiwi; Rubavu, Rutsiro, Karongi, Nyamasheke, Rusizi districts); assign rw-nile to the Nyabarongo, Akanyaru, Akagera, Mukungwa, Base, Muvumba and other rivers draining east (Kigali, Southern, Eastern and most of Northern Province); rw-national only for Rwanda-wide material. For districts on the Congo–Nile divide (e.g. Nyabihu, Ngororero, Nyamagabe, Nyaruguru), choose by the named river and state the assumption in limitations.",
+  "scope": "Only include sources substantively about construction-sand extraction or mining in Rwanda, whether from rivers, riverbeds, riverbanks, lakeshores, wetlands, or land and hillside sand pits, or about its licensing, cooperatives, enforcement, accidents and deaths in sand pits, livelihoods, prices and supply, construction demand and environmental effects. Exclude 3T and gold mining (cassiterite, coltan, wolfram, gold) unless the source concerns construction-sand extraction; stone quarries without sand; and Lake Kivu methane.",
+  "basinRule": "Assign rw-congo to Lake Kivu, the Rusizi and their tributaries (Sebeya, Koko, Kiwi; Rubavu, Rutsiro, Karongi, Nyamasheke, Rusizi districts); assign rw-nile to the Nyabarongo, Akanyaru, Akagera, Mukungwa, Base, Muvumba and other rivers draining east (Kigali, Southern, Eastern and most of Northern Province); rw-national only for Rwanda-wide material. For districts on the Congo–Nile divide (e.g. Nyabihu, Ngororero, Nyamagabe, Nyaruguru), choose by the named river and state the assumption in limitations. For land or hillside sand pits, assign the basin of the district and say in limitations that the site is not a river or wetland.",
   "languageNote": "Translate a Kinyarwanda or French headline into clear English, preserving the exact source headline in originalTitle.",
   "unitsNote": "tonnes, cubic metres, truckloads, RWF with time basis",
   "nationalBasin": "rw-national"

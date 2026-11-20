@@ -78,7 +78,7 @@ export function csv(rows) {
 export const CSV_COLUMNS = [
   ['Global ID', r => r.gid], ['Watch', r => r.watch], ['Watch record ID', r => r.sourceId],
   ['Basins', r => r.basins.join('; ')], ['Countries', r => r.countries.join('; ')],
-  ['Location', r => r.location], ['Counties', r => (r.counties || []).join('; ')], ['Rivers', r => r.rivers.join('; ')],
+  ['Location', r => r.location], ['Counties / districts', r => (r.counties || []).join('; ')], ['Rivers', r => r.rivers.join('; ')],
   ['Title (original)', r => r.title], ['Title (English)', r => r.titleEn],
   ['Publisher', r => r.publisher], ['Category', r => r.category], ['Date', r => r.date || ''],
   ['Date kind', r => r.dateKind], ['Language', r => r.language], ['Themes (derived)', r => r.themes.join('; ')],
